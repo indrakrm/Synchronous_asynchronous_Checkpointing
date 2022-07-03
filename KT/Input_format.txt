@@ -1,7 +1,7 @@
 Input
 
 total branches total amount
-connections between branches tree
-initial amounts at all branches
+Number of each node connections followed with connection node numbers
+initial amounts at all branches 
  
  
