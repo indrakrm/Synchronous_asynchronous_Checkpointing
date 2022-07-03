@@ -6,134 +6,128 @@ My branch id is 6 and account balance is 300
 My branch id is 7 and account balance is 200
 My branch id is 1 and account balance is 0
 My branch id is 8 and account balance is 400
-2 sent 91 to node 4
-after addition, node 4's amount = 341
-At 2 after sent to 4 209
-3 sent 16 to node 2
-after addition, node 2's amount = 225
-At 3 after sent to 2 234
-4 sent 161 to node 3
-after addition, node 3's amount = 395
-At 4 after sent to 3 180
-5 sent 123 to node 7
-after addition, node 7's amount = 323
-At 5 after sent to 7 177
-6 sent 123 to node 2
-after addition, node 2's amount = 348
-At 6 after sent to 2 177
-7 sent 34 to node 3
-after addition, node 3's amount = 429
-At 7 after sent to 3 289
-8 sent 173 to node 7
-after addition, node 7's amount = 462
-At 8 after sent to 7 227
-2 sent 165 to node 7
-after addition, node 7's amount = 627
-At 2 after sent to 7 183
-3 sent 65 to node 6
-after addition, node 6's amount = 242
-At 3 after sent to 6 364
-4 sent 27 to node 2
-after addition, node 2's amount = 210
-At 4 after sent to 2 153
-5 sent 78 to node 7
-after addition, node 7's amount = 705
-At 5 after sent to 7 99
-6 sent 12 to node 2
-after addition, node 2's amount = 222
-At 6 after sent to 2 230
-7 sent 254 to node 3
-after addition, node 3's amount = 618
-At 7 after sent to 3 451
-8 sent 45 to node 7
-after addition, node 7's amount = 496
-At 8 after sent to 7 182
-2 sent 71 to node 3
-after addition, node 3's amount = 689
-3 sent 28 to node 1
-At 2 after sent to 3 151
-after addition, node 1's amount = 28
-At 3 after sent to 1 661
-4 sent 44 to node 7
-after addition, node 7's amount = 540
-At 4 after sent to 7 109
-5 sent 32 to node 4
-after addition, node 4's amount = 141
-At 5 after sent to 4 67
-6 sent 44 to node 5
-after addition, node 5's amount = 111
-At 6 after sent to 5 186
-7 sent 134 to node 1
-after addition, node 1's amount = 162
-At 7 after sent to 1 406
-8 sent 81 to node 2
-after addition, node 2's amount = 232
-At 8 after sent to 2 101
-2 sent 26 to node 1
-after addition, node 1's amount = 188
-At 2 after sent to 1 206
-3 sent 152 to node 4
-after addition, node 4's amount = 293
-At 3 after sent to 4 509
-4 sent 100 to node 2
-after addition, node 2's amount = 306
-At 4 after sent to 2 193
-5 sent 1 to node 7
-after addition, node 7's amount = 407
-At 5 after sent to 7 110
-6 sent 60 to node 2
-after addition, node 2's amount = 366
-At 6 after sent to 2 126
-7 sent 85 to node 3
-after addition, node 3's amount = 594
-At 7 after sent to 3 322
-8 sent 26 to node 7
-after addition, node 7's amount = 348
-At 8 after sent to 7 75
-2 sent 173 to node 4
-3 sent 83 to node 2
-after addition, node 4's amount = 366
-after addition, node 2's amount = 449
-4 sent 173 to node 7
-At 2 after sent to 4 276
-5 sent 44 to node 1
-6 sent 55 to node 8
-after addition, node 7's amount = 521
-At 3 after sent to 2 511
-7 sent 174 to node 6
-8 sent 36 to node 3
-after addition, node 1's amount = 232
-after addition, node 8's amount = 130
-after addition, node 6's amount = 300
-after addition, node 3's amount = 547
-At 4 after sent to 7 193
-At 6 after sent to 8 245
-At 5 after sent to 1 66
-At 7 after sent to 6 347
-At 8 after sent to 3 94
-2 sent 83 to node 7
-after addition, node 7's amount = 430
+2 sent 95 to node 1
+3 sent 95 to node 4
+4 sent 95 to node 3
+5 sent 95 to node 1
+6 sent 95 to node 8
+7 sent 45 to node 6
+8 sent 45 to node 3
+After addition, node 6's amount = 345
+After addition, node 8's amount = 495
+After addition, node 1's amount = 95
+After addition, node 3's amount = 295
+After addition, node 4's amount = 345
+Balace at 7 after sent to 6= 155
+Balace at 6 after sent to 8= 250
+After addition, node 3's amount = 390
+Balace at 8 after sent to 3= 450
+After addition, node 1's amount = 190
+Balace at 2 after sent to 1= 205
+Balace at 4 after sent to 3= 250
+Balace at 3 after sent to 4= 295
+Balace at 5 after sent to 1= 205
+4 sent 122 to node 5
+2 sent 42 to node 4
+8 sent 147 to node 5
+5 sent 42 to node 8
+3 sent 3 to node 2
+7 sent 31 to node 8
+After addition, node 4's amount = 292
+After addition, node 8's amount = 492
+After addition, node 5's amount = 327
+After addition, node 2's amount = 208
+6 sent 122 to node 7
+After addition, node 5's amount = 474
+After addition, node 8's amount = 523
+Balace at 4 after sent to 5= 170
+Balace at 2 after sent to 4= 166
+Balace at 3 after sent to 2= 292
+Balace at 5 after sent to 8= 432
+Balace at 8 after sent to 5= 376
+Balace at 7 after sent to 8= 124
+After addition, node 7's amount = 246
+Balace at 6 after sent to 7= 128
+4 sent 12 to node 7
+After addition, node 7's amount = 258
+Balace at 4 after sent to 7= 158
+7 sent 29 to node 3
+5 sent 134 to node 7
+2 sent 31 to node 7
+6 sent 54 to node 2
+8 sent 138 to node 7
+After addition, node 7's amount = 392
+3 sent 76 to node 6
+After addition, node 7's amount = 423
+After addition, node 2's amount = 220
+After addition, node 7's amount = 561
+After addition, node 3's amount = 321
+After addition, node 6's amount = 204
+Balace at 5 after sent to 7= 298
+Balace at 2 after sent to 7= 189
+Balace at 6 after sent to 2= 150
+Balace at 8 after sent to 7= 238
+Balace at 7 after sent to 3= 532
+Balace at 3 after sent to 6= 245
+4 sent 40 to node 7
+After addition, node 7's amount = 572
+Balace at 4 after sent to 7= 118
+2 sent 35 to node 3
+5 sent 130 to node 7
+After addition, node 3's amount = 280
+After addition, node 7's amount = 702
+Balace at 2 after sent to 3= 154
+Balace at 5 after sent to 7= 168
+3 sent 103 to node 1
+7 sent 309 to node 3
+8 sent 96 to node 7
+6 sent 33 to node 2
+After addition, node 1's amount = 293
+After addition, node 7's amount = 798
+After addition, node 2's amount = 187
+After addition, node 3's amount = 589
+Balace at 3 after sent to 1= 486
+Balace at 8 after sent to 7= 142
+Balace at 6 after sent to 2= 117
+Balace at 7 after sent to 3= 489
+4 sent 7 to node 3
+After addition, node 3's amount = 493
+Balace at 4 after sent to 3= 111
+2 sent 67 to node 3
+After addition, node 3's amount = 560
+Balace at 2 after sent to 3= 120
+5 sent 4 to node 1
+After addition, node 1's amount = 297
+Balace at 5 after sent to 1= 164
+7 sent 112 to node 6
+3 sent 88 to node 1
+6 sent 6 to node 8
+8 sent 29 to node 3
+After addition, node 6's amount = 229
+After addition, node 1's amount = 385
+After addition, node 8's amount = 148
+After addition, node 3's amount = 589
+Balace at 7 after sent to 6= 377
+Balace at 6 after sent to 8= 223
+Balace at 8 after sent to 3= 119
+Balace at 3 after sent to 1= 501
 intiate checkpoint to 2
-At 2 after sent to 7 193
 Node 2 initiated checkpoint procedure
 1 rec control from 2
-3 sent 260 to node 6
-2 rec yes from 1
 2 rec control from 2
-after addition, node 6's amount = 505
+2 rec yes from 1
 3 rec control from 2
 2 rec yes from 2
-At 3 after sent to 6 287
 4 rec control from 2
-5 rec control from 2
 2 rec yes from 3
-6 rec control from 2
 2 rec yes from 4
+5 rec control from 2
+6 rec control from 2
 2 rec yes from 5
 7 rec control from 2
 2 rec yes from 6
-8 rec control from 2
 2 rec yes from 7
+8 rec control from 2
 2 rec yes from 8
 1 rec control from 2
 2 rec control from 2
@@ -144,299 +138,307 @@ At 3 after sent to 6 287
 7 rec control from 2
 8 rec control from 2
 2 checkpoint success
-Checkpoint1 completed and it took 3876 ms.
-4 sent 77 to node 5
-after addition, node 5's amount = 143
-At 4 after sent to 5 116
-5 sent 28 to node 4
-6 sent 11 to node 5
-8 sent 28 to node 7
-7 sent 22 to node 1
-after addition, node 5's amount = 154
-after addition, node 7's amount = 458
-after addition, node 4's amount = 144
-after addition, node 1's amount = 254
-At 6 after sent to 5 494
-At 7 after sent to 1 436
-At 5 after sent to 4 126
-At 8 after sent to 7 66
-2 sent 58 to node 7
-after addition, node 7's amount = 494
-At 2 after sent to 7 135
-3 sent 132 to node 6
-after addition, node 6's amount = 626
-At 3 after sent to 6 155
-4 sent 34 to node 7
-after addition, node 7's amount = 528
-At 4 after sent to 7 110
-7 sent 16 to node 1
-8 sent 4 to node 2
-6 sent 42 to node 5
-5 sent 28 to node 4
-after addition, node 5's amount = 168
-after addition, node 1's amount = 270
-after addition, node 4's amount = 138
-after addition, node 2's amount = 139
-At 6 after sent to 5 584
-At 7 after sent to 1 512
-At 5 after sent to 4 140
-At 8 after sent to 2 62
-2 sent 40 to node 1
-after addition, node 1's amount = 310
-At 2 after sent to 1 99
-3 sent 55 to node 4
-after addition, node 4's amount = 193
-At 3 after sent to 4 100
-4 sent 91 to node 5
-after addition, node 5's amount = 231
-At 4 after sent to 5 102
-5 sent 113 to node 4
-6 sent 104 to node 5
-8 sent 12 to node 2
-7 sent 44 to node 1
-after addition, node 4's amount = 215
-after addition, node 2's amount = 111
-after addition, node 1's amount = 354
-At 5 after sent to 4 118
-At 8 after sent to 2 50
-after addition, node 5's amount = 222
-At 7 after sent to 1 468
-At 6 after sent to 5 480
-2 sent 42 to node 1
-after addition, node 1's amount = 396
-At 2 after sent to 1 69
-3 sent 17 to node 4
-after addition, node 4's amount = 232
-At 3 after sent to 4 83
-4 sent 41 to node 5
-after addition, node 5's amount = 263
-At 4 after sent to 5 191
-5 sent 14 to node 7
-8 sent 22 to node 5
-7 sent 16 to node 3
-after addition, node 7's amount = 482
-after addition, node 3's amount = 99
-after addition, node 5's amount = 285
-At 8 after sent to 5 28
-At 7 after sent to 3 466
-At 5 after sent to 7 271
-6 sent 22 to node 2
-after addition, node 2's amount = 91
-At 6 after sent to 2 458
-2 sent 2 to node 7
-after addition, node 7's amount = 468
-At 2 after sent to 7 89
-3 sent 4 to node 6
-after addition, node 6's amount = 462
-At 3 after sent to 6 95
-4 sent 82 to node 5
-after addition, node 5's amount = 353
-At 4 after sent to 5 109
-5 sent 59 to node 1
-8 sent 1 to node 7
-7 sent 191 to node 6
-after addition, node 7's amount = 469
-after addition, node 6's amount = 653
-after addition, node 1's amount = 455
-At 8 after sent to 7 27
-At 7 after sent to 6 278
-At 5 after sent to 1 294
-6 sent 281 to node 8
-after addition, node 8's amount = 308
-At 6 after sent to 8 372
+Checkpoint1 completed and it took 4003 ms.
+2 sent 5 to node 1
+4 sent 40 to node 5
+After addition, node 5's amount = 204
+After addition, node 1's amount = 390
+Balace at 4 after sent to 5= 71
+Balace at 2 after sent to 1= 115
+5 sent 41 to node 8
+After addition, node 8's amount = 160
+Balace at 5 after sent to 8= 163
+8 sent 65 to node 5
+7 sent 113 to node 8
+3 sent 205 to node 4
+6 sent 50 to node 7
+After addition, node 8's amount = 273
+After addition, node 4's amount = 276
+After addition, node 5's amount = 228
+After addition, node 7's amount = 427
+Balace at 3 after sent to 4= 296
+Balace at 8 after sent to 5= 208
+Balace at 6 after sent to 7= 173
+Balace at 7 after sent to 8= 314
+4 sent 110 to node 3
+2 sent 2 to node 3
+After addition, node 3's amount = 298
+After addition, node 3's amount = 408
+Balace at 2 after sent to 3= 113
+Balace at 4 after sent to 3= 166
+5 sent 2 to node 1
+After addition, node 1's amount = 392
+Balace at 5 after sent to 1= 226
+6 sent 52 to node 8
+8 sent 24 to node 3
+3 sent 176 to node 1
+7 sent 132 to node 6
+After addition, node 3's amount = 432
+After addition, node 8's amount = 260
+After addition, node 6's amount = 305
+After addition, node 1's amount = 568
+Balace at 8 after sent to 3= 236
+Balace at 6 after sent to 8= 253
+Balace at 7 after sent to 6= 182
+Balace at 3 after sent to 1= 256
+2 sent 48 to node 5
+After addition, node 5's amount = 274
+4 sent 57 to node 7
+Balace at 2 after sent to 5= 65
+After addition, node 7's amount = 239
+Balace at 4 after sent to 7= 109
+5 sent 56 to node 7
+After addition, node 7's amount = 295
+Balace at 5 after sent to 7= 218
+6 sent 62 to node 2
+8 sent 104 to node 7
+After addition, node 2's amount = 127
+After addition, node 7's amount = 399
+Balace at 6 after sent to 2= 191
+Balace at 8 after sent to 7= 132
+3 sent 24 to node 8
+7 sent 88 to node 3
+After addition, node 8's amount = 156
+After addition, node 3's amount = 344
+Balace at 3 after sent to 8= 320
+Balace at 7 after sent to 3= 311
+4 sent 38 to node 7
+2 sent 38 to node 7
+After addition, node 7's amount = 349
+After addition, node 7's amount = 387
+Balace at 4 after sent to 7= 71
+Balace at 2 after sent to 7= 89
+5 sent 44 to node 7
+After addition, node 7's amount = 431
+Balace at 5 after sent to 7= 174
+6 sent 68 to node 2
+8 sent 2 to node 7
+After addition, node 2's amount = 157
+After addition, node 7's amount = 433
+Balace at 8 after sent to 7= 154
+Balace at 6 after sent to 2= 123
+7 sent 38 to node 3
+3 sent 78 to node 6
+After addition, node 3's amount = 358
+After addition, node 6's amount = 201
+Balace at 7 after sent to 3= 395
+Balace at 3 after sent to 6= 280
+2 sent 76 to node 7
+4 sent 11 to node 5
+5 sent 7 to node 8
+After addition, node 7's amount = 471
+After addition, node 5's amount = 185
+After addition, node 8's amount = 161
+Balace at 2 after sent to 7= 81
+Balace at 4 after sent to 5= 60
+Balace at 5 after sent to 8= 178
+6 sent 36 to node 7
+8 sent 16 to node 5
+After addition, node 7's amount = 507
+After addition, node 5's amount = 194
+Balace at 6 after sent to 7= 165
+Balace at 8 after sent to 5= 145
+7 sent 53 to node 8
+3 sent 116 to node 6
+After addition, node 8's amount = 198
+After addition, node 6's amount = 281
+Balace at 3 after sent to 6= 164
+Balace at 7 after sent to 8= 454
 intiate recovery to 5
 Node 5 initiated recovery procedure
 1 rec control from 5
-2 sent 38 to node 1
 2 rec control from 5
 5 rec yes from 1
 3 rec control from 5
 5 rec yes from 2
-5 rec yes from 3
 5 rec control from 5
+5 rec yes from 3
 4 rec control from 5
 6 rec control from 5
 5 rec yes from 5
-7 rec control from 5
 5 rec yes from 4
-8 rec control from 5
-5 rec yes from 7
 5 rec yes from 6
-5 rec yes from 8
-1 rec control from 5
-After Recovery Node 1's account has 232
-2 rec control from 5
-After Recovery Node 2's account has 193
-3 rec control from 5
-After Recovery Node 3's account has 287
-4 rec control from 5
-After Recovery Node 4's account has 193
-5 rec control from 5
-After Recovery Node 5's account has 66
-6 rec control from 5
-After Recovery Node 6's account has 505
 7 rec control from 5
-After Recovery Node 7's account has 430
 8 rec control from 5
-After Recovery Node 8's account has 94
+5 rec yes from 8
+5 rec yes from 7
+1 rec control from 5
+After Recovery Node 1's account has 385
+2 rec control from 5
+After Recovery Node 2's account has 120
+3 rec control from 5
+After Recovery Node 3's account has 501
+4 rec control from 5
+After Recovery Node 4's account has 111
+5 rec control from 5
+After Recovery Node 5's account has 164
+6 rec control from 5
+After Recovery Node 6's account has 223
+7 rec control from 5
+After Recovery Node 7's account has 377
+8 rec control from 5
+After Recovery Node 8's account has 119
 5 recovery success
-Rollback1 completed and it took 3281 ms.
-3 sent 93 to node 4
-after addition, node 4's amount = 286
-At 3 after sent to 4 194
-4 sent 93 to node 2
-after addition, node 2's amount = 286
-At 4 after sent to 2 193
-5 sent 26 to node 7
-8 sent 27 to node 3
-6 sent 161 to node 2
-7 sent 98 to node 3
-after addition, node 7's amount = 456
-after addition, node 3's amount = 221
-after addition, node 2's amount = 447
-after addition, node 3's amount = 319
-At 6 after sent to 2 344
-At 8 after sent to 3 67
-At 5 after sent to 7 40
-At 7 after sent to 3 358
-2 sent 92 to node 7
-after addition, node 7's amount = 450
-At 2 after sent to 7 355
-3 sent 100 to node 6
-after addition, node 6's amount = 444
+Rollback1 completed and it took 3825 ms.
+2 sent 14 to node 4
+After addition, node 4's amount = 125
+Balace at 2 after sent to 4= 106
+4 sent 48 to node 7
+5 sent 22 to node 7
+After addition, node 7's amount = 425
+Balace at 4 after sent to 7= 77
+After addition, node 7's amount = 447
+Balace at 5 after sent to 7= 142
+6 sent 68 to node 2
+8 sent 6 to node 7
+After addition, node 2's amount = 174
+After addition, node 7's amount = 453
+Balace at 8 after sent to 7= 113
+7 sent 34 to node 3
+3 sent 74 to node 2
+Balace at 6 after sent to 2= 155
+After addition, node 3's amount = 535
+After addition, node 2's amount = 248
+Balace at 3 after sent to 2= 461
+Balace at 7 after sent to 3= 419
 intiate checkpoint to 3
-At 3 after sent to 6 219
 Node 3 initiated checkpoint procedure
 1 rec control from 3
 2 rec control from 3
-3 rec yes from 1
 3 rec control from 3
-3 rec yes from 2
 4 rec control from 3
-3 rec yes from 3
-3 rec yes from 4
 5 rec control from 3
 6 rec control from 3
-3 rec yes from 5
 7 rec control from 3
+3 rec yes from 1
+3 rec yes from 2
+3 rec yes from 3
+3 rec yes from 4
+3 rec yes from 5
 3 rec yes from 6
-8 rec control from 3
 3 rec yes from 7
+8 rec control from 3
 3 rec yes from 8
 1 rec control from 3
 2 rec control from 3
 3 rec control from 3
 4 rec control from 3
+3 checkpoint success
+Checkpoint2 completed and it took 3700 ms.
 5 rec control from 3
 6 rec control from 3
 7 rec control from 3
 8 rec control from 3
-3 checkpoint success
-Checkpoint2 completed and it took 3867 ms.
-4 sent 10 to node 7
-after addition, node 7's amount = 460
-At 4 after sent to 7 183
-7 sent 9 to node 8
-8 sent 29 to node 7
-5 sent 19 to node 8
-6 sent 33 to node 7
-after addition, node 8's amount = 76
-after addition, node 7's amount = 489
-after addition, node 8's amount = 95
-after addition, node 7's amount = 522
-At 5 after sent to 8 21
-At 7 after sent to 8 513
-At 8 after sent to 7 66
-At 6 after sent to 7 411
-2 sent 36 to node 4
-3 sent 61 to node 2
-after addition, node 4's amount = 219
-after addition, node 2's amount = 416
-At 2 after sent to 4 380
-4 sent 61 to node 3
-At 3 after sent to 2 158
-after addition, node 3's amount = 219
-At 4 after sent to 3 158
-8 sent 14 to node 7
-7 sent 251 to node 6
-5 sent 7 to node 1
-6 sent 132 to node 8
-after addition, node 6's amount = 662
-after addition, node 1's amount = 239
-after addition, node 8's amount = 198
-At 7 after sent to 6 262
-after addition, node 7's amount = 276
-At 6 after sent to 8 530
-At 5 after sent to 1 14
-At 8 after sent to 7 184
-2 sent 55 to node 4
-3 sent 2 to node 2
-after addition, node 4's amount = 213
-after addition, node 2's amount = 382
-At 2 after sent to 4 327
-At 3 after sent to 2 217
-4 sent 77 to node 7
-after addition, node 7's amount = 353
-At 4 after sent to 7 136
-7 sent 132 to node 3
-after addition, node 3's amount = 349
-At 7 after sent to 3 221
-8 sent 13 to node 2
-6 sent 93 to node 2
-5 sent 4 to node 7
-after addition, node 7's amount = 225
-after addition, node 2's amount = 340
-after addition, node 2's amount = 433
-At 5 after sent to 7 10
-At 8 after sent to 2 171
-At 6 after sent to 2 437
-3 sent 133 to node 1
-2 sent 193 to node 3
-after addition, node 1's amount = 372
-after addition, node 3's amount = 542
-At 2 after sent to 3 240
-At 3 after sent to 1 409
-4 sent 41 to node 5
-after addition, node 5's amount = 51
-At 4 after sent to 5 95
-7 sent 41 to node 6
-6 sent 25 to node 8
-5 sent 11 to node 1
-after addition, node 6's amount = 478
-8 sent 67 to node 3
-after addition, node 8's amount = 196
-after addition, node 1's amount = 383
-after addition, node 3's amount = 476
-At 7 after sent to 6 184
-At 6 after sent to 8 453
-At 8 after sent to 3 129
-At 5 after sent to 1 40
-2 sent 67 to node 4
-3 sent 5 to node 2
-after addition, node 2's amount = 245
-after addition, node 4's amount = 162
-At 3 after sent to 2 471
-At 2 after sent to 4 178
-4 sent 31 to node 5
-after addition, node 5's amount = 71
-At 4 after sent to 5 131
-7 sent 16 to node 6
-after addition, node 6's amount = 469
-At 7 after sent to 6 168
-6 sent 190 to node 8
-5 sent 4 to node 1
-8 sent 39 to node 2
-after addition, node 8's amount = 319
-after addition, node 1's amount = 387
-after addition, node 2's amount = 217
-At 5 after sent to 1 67
-At 8 after sent to 2 280
-At 6 after sent to 8 279
+2 sent 56 to node 4
+After addition, node 4's amount = 133
+Balace at 2 after sent to 4= 192
+4 sent 36 to node 5
+5 sent 13 to node 4
+After addition, node 5's amount = 178
+After addition, node 4's amount = 146
+Balace at 5 after sent to 4= 165
+Balace at 4 after sent to 5= 110
+6 sent 36 to node 7
+8 sent 36 to node 5
+After addition, node 5's amount = 201
+After addition, node 7's amount = 455
+Balace at 8 after sent to 5= 77
+Balace at 6 after sent to 7= 119
+7 sent 105 to node 8
+3 sent 124 to node 2
+After addition, node 8's amount = 182
+After addition, node 2's amount = 316
+Balace at 3 after sent to 2= 337
+Balace at 7 after sent to 8= 350
+2 sent 33 to node 3
+After addition, node 3's amount = 370
+Balace at 2 after sent to 3= 283
+5 sent 94 to node 1
+4 sent 9 to node 5
+After addition, node 1's amount = 479
+After addition, node 5's amount = 210
+Balace at 4 after sent to 5= 101
+Balace at 5 after sent to 1= 116
+8 sent 24 to node 5
+After addition, node 5's amount = 140
+Balace at 8 after sent to 5= 158
+6 sent 35 to node 7
+After addition, node 7's amount = 385
+Balace at 6 after sent to 7= 84
+7 sent 65 to node 8
+3 sent 134 to node 1
+After addition, node 8's amount = 223
+After addition, node 1's amount = 613
+Balace at 7 after sent to 8= 320
+Balace at 3 after sent to 1= 236
+2 sent 50 to node 7
+After addition, node 7's amount = 370
+Balace at 2 after sent to 7= 233
+5 sent 40 to node 7
+4 sent 7 to node 5
+After addition, node 7's amount = 410
+After addition, node 5's amount = 147
+Balace at 4 after sent to 5= 94
+Balace at 5 after sent to 7= 107
+8 sent 62 to node 5
+After addition, node 5's amount = 169
+Balace at 8 after sent to 5= 161
+6 sent 35 to node 7
+After addition, node 7's amount = 445
+Balace at 6 after sent to 7= 49
+7 sent 173 to node 8
+3 sent 105 to node 6
+After addition, node 8's amount = 334
+After addition, node 6's amount = 154
+Balace at 7 after sent to 8= 272
+Balace at 3 after sent to 6= 131
+2 sent 67 to node 3
+After addition, node 3's amount = 198
+4 sent 35 to node 5
+5 sent 21 to node 7
+Balace at 2 after sent to 3= 166
+After addition, node 7's amount = 293
+After addition, node 5's amount = 204
+Balace at 4 after sent to 5= 59
+Balace at 5 after sent to 7= 183
+8 sent 10 to node 5
+After addition, node 5's amount = 193
+6 sent 15 to node 7
+Balace at 8 after sent to 5= 324
+After addition, node 7's amount = 308
+Balace at 6 after sent to 7= 139
+7 sent 15 to node 8
+3 sent 26 to node 1
+After addition, node 1's amount = 639
+After addition, node 8's amount = 339
+Balace at 7 after sent to 8= 293
+Balace at 3 after sent to 1= 172
+2 sent 28 to node 4
+5 sent 56 to node 7
+4 sent 21 to node 3
+After addition, node 4's amount = 87
+Balace at 2 after sent to 4= 138
+After addition, node 3's amount = 193
+After addition, node 7's amount = 349
+Balace at 5 after sent to 7= 137
+Balace at 4 after sent to 3= 66
+8 sent 94 to node 3
+After addition, node 3's amount = 287
+Balace at 8 after sent to 3= 245
+6 sent 59 to node 8
+After addition, node 8's amount = 304
+Balace at 6 after sent to 8= 80
+3 sent 94 to node 2
+7 sent 137 to node 6
+After addition, node 2's amount = 232
+After addition, node 6's amount = 217
+Balace at 3 after sent to 2= 193
+Balace at 7 after sent to 6= 212
 intiate recovery to 6
 Node 6 initiated recovery procedure
 1 rec control from 6
-2 rec control from 6
 6 rec yes from 1
+2 rec control from 6
 3 rec control from 6
 6 rec yes from 2
 4 rec control from 6
@@ -451,44 +453,44 @@ Node 6 initiated recovery procedure
 6 rec yes from 7
 6 rec yes from 8
 1 rec control from 6
-After Recovery Node 1's account has 232
+After Recovery Node 1's account has 385
 2 rec control from 6
-After Recovery Node 2's account has 355
+After Recovery Node 2's account has 248
 3 rec control from 6
-After Recovery Node 3's account has 219
+After Recovery Node 3's account has 461
 4 rec control from 6
-After Recovery Node 4's account has 193
+After Recovery Node 4's account has 77
 5 rec control from 6
-After Recovery Node 5's account has 40
+After Recovery Node 5's account has 142
 6 rec control from 6
-After Recovery Node 6's account has 444
+After Recovery Node 6's account has 155
 7 rec control from 6
-After Recovery Node 7's account has 450
+After Recovery Node 7's account has 419
 8 rec control from 6
-After Recovery Node 8's account has 67
+After Recovery Node 8's account has 113
+Rollback2 completed and it took 3337 ms.
 6 recovery success
-Rollback2 completed and it took 3428 ms.
-2 sent 173 to node 3
-3 sent 83 to node 1
-after addition, node 3's amount = 392
-after addition, node 1's amount = 315
-At 2 after sent to 3 182
-At 3 after sent to 1 309
-4 sent 83 to node 2
-after addition, node 2's amount = 265
-At 4 after sent to 2 110
-7 sent 1 to node 3
-after addition, node 3's amount = 310
-At 7 after sent to 3 449
-6 sent 34 to node 2
-8 sent 5 to node 2
-5 sent 16 to node 7
-after addition, node 2's amount = 270
-after addition, node 7's amount = 465
-after addition, node 2's amount = 304
-At 8 after sent to 2 62
-At 5 after sent to 7 24
-At 6 after sent to 2 410
+2 sent 95 to node 5
+5 sent 57 to node 7
+4 sent 25 to node 2
+After addition, node 5's amount = 237
+After addition, node 2's amount = 273
+After addition, node 7's amount = 476
+Balace at 5 after sent to 7= 180
+Balace at 2 after sent to 5= 178
+Balace at 4 after sent to 2= 52
+6 sent 53 to node 5
+8 sent 11 to node 2
+After addition, node 5's amount = 233
+After addition, node 2's amount = 189
+Balace at 8 after sent to 2= 102
+Balace at 6 after sent to 5= 102
+7 sent 179 to node 1
+3 sent 9 to node 8
+After addition, node 8's amount = 111
+After addition, node 1's amount = 564
+Balace at 7 after sent to 1= 297
+Balace at 3 after sent to 8= 452
 intiate checkpoint to 2
 Node 2 initiated checkpoint procedure
 1 rec control from 2
@@ -496,14 +498,14 @@ Node 2 initiated checkpoint procedure
 2 rec yes from 1
 3 rec control from 2
 2 rec yes from 2
-4 rec control from 2
 2 rec yes from 3
+4 rec control from 2
 5 rec control from 2
 2 rec yes from 4
 6 rec control from 2
-7 rec control from 2
 2 rec yes from 5
 2 rec yes from 6
+7 rec control from 2
 8 rec control from 2
 2 rec yes from 7
 2 rec yes from 8
@@ -516,169 +518,169 @@ Node 2 initiated checkpoint procedure
 7 rec control from 2
 8 rec control from 2
 2 checkpoint success
-Checkpoint3 completed and it took 3854 ms.
-2 sent 127 to node 3
-3 sent 17 to node 1
-after addition, node 3's amount = 437
-after addition, node 1's amount = 332
-At 2 after sent to 3 177
-At 3 after sent to 1 420
-4 sent 12 to node 3
-after addition, node 3's amount = 432
-At 4 after sent to 3 98
-7 sent 211 to node 8
-after addition, node 8's amount = 273
-At 7 after sent to 8 254
-5 sent 7 to node 8
-6 sent 49 to node 7
-8 sent 133 to node 7
-after addition, node 8's amount = 280
-after addition, node 7's amount = 387
-after addition, node 7's amount = 436
-At 5 after sent to 8 17
-At 8 after sent to 7 147
-At 6 after sent to 7 361
-2 sent 17 to node 1
-3 sent 41 to node 4
-after addition, node 4's amount = 139
-after addition, node 1's amount = 349
-At 3 after sent to 4 391
-At 2 after sent to 1 160
-4 sent 14 to node 7
-after addition, node 7's amount = 450
-At 4 after sent to 7 125
-7 sent 158 to node 6
-after addition, node 6's amount = 519
-At 7 after sent to 6 292
-5 sent 5 to node 1
-6 sent 201 to node 8
-8 sent 8 to node 3
-after addition, node 3's amount = 399
-after addition, node 8's amount = 348
-after addition, node 1's amount = 354
-At 6 after sent to 8 318
-At 8 after sent to 3 340
-At 5 after sent to 1 12
+Checkpoint3 completed and it took 3524 ms.
+2 sent 23 to node 7
+5 sent 77 to node 7
+4 sent 5 to node 5
+After addition, node 7's amount = 374
+After addition, node 5's amount = 238
+After addition, node 7's amount = 397
+Balace at 5 after sent to 7= 161
+Balace at 4 after sent to 5= 47
+Balace at 2 after sent to 7= 166
+8 sent 17 to node 5
+6 sent 46 to node 7
+After addition, node 5's amount = 178
+After addition, node 7's amount = 443
+Balace at 8 after sent to 5= 94
+Balace at 6 after sent to 7= 56
+7 sent 148 to node 8
+3 sent 191 to node 6
+After addition, node 6's amount = 247
+After addition, node 8's amount = 242
+Balace at 3 after sent to 6= 261
+Balace at 7 after sent to 8= 295
+5 sent 51 to node 1
+4 sent 11 to node 3
+After addition, node 3's amount = 272
+After addition, node 1's amount = 615
+Balace at 4 after sent to 3= 36
+Balace at 5 after sent to 1= 127
+2 sent 30 to node 1
+After addition, node 1's amount = 645
+Balace at 2 after sent to 1= 136
+6 sent 53 to node 8
+8 sent 6 to node 3
+After addition, node 3's amount = 278
+After addition, node 8's amount = 295
+Balace at 8 after sent to 3= 289
+Balace at 6 after sent to 8= 194
+3 sent 127 to node 4
+7 sent 104 to node 6
+After addition, node 6's amount = 298
+After addition, node 4's amount = 163
+Balace at 7 after sent to 6= 191
+Balace at 3 after sent to 4= 151
+5 sent 3 to node 8
+4 sent 13 to node 5
+After addition, node 8's amount = 292
+After addition, node 5's amount = 140
+Balace at 4 after sent to 5= 150
+Balace at 5 after sent to 8= 137
 2 sent 58 to node 4
-3 sent 123 to node 2
-after addition, node 4's amount = 183
-after addition, node 2's amount = 283
-At 3 after sent to 2 276
-At 2 after sent to 4 225
-4 sent 31 to node 5
-after addition, node 5's amount = 43
-At 4 after sent to 5 152
-7 sent 76 to node 6
-after addition, node 6's amount = 394
-At 7 after sent to 6 216
-8 sent 88 to node 5
-6 sent 102 to node 8
-5 sent 8 to node 1
-after addition, node 8's amount = 442
-after addition, node 5's amount = 131
-after addition, node 1's amount = 362
-At 6 after sent to 8 292
-At 5 after sent to 1 123
-At 8 after sent to 5 354
-3 sent 98 to node 2
-2 sent 24 to node 4
-after addition, node 2's amount = 323
-after addition, node 4's amount = 176
-At 3 after sent to 2 178
-At 2 after sent to 4 299
-4 sent 32 to node 2
-after addition, node 2's amount = 331
-At 4 after sent to 2 144
-7 sent 61 to node 1
-after addition, node 1's amount = 423
-At 7 after sent to 1 155
-8 sent 149 to node 3
-6 sent 77 to node 5
-5 sent 29 to node 4
-after addition, node 3's amount = 327
-after addition, node 4's amount = 173
-after addition, node 5's amount = 200
-At 8 after sent to 3 205
-At 5 after sent to 4 171
-At 6 after sent to 5 215
-2 sent 21 to node 4
-3 sent 82 to node 2
-after addition, node 2's amount = 413
-after addition, node 4's amount = 194
-At 2 after sent to 4 392
-At 3 after sent to 2 245
-4 sent 12 to node 2
-after addition, node 2's amount = 404
-At 4 after sent to 2 182
-7 sent 69 to node 6
-after addition, node 6's amount = 284
-At 7 after sent to 6 86
-8 sent 3 to node 2
-6 sent 128 to node 8
-5 sent 46 to node 1
-after addition, node 2's amount = 407
-after addition, node 1's amount = 469
-after addition, node 8's amount = 333
-At 8 after sent to 2 330
-At 6 after sent to 8 156
-At 5 after sent to 1 125
+After addition, node 4's amount = 208
+Balace at 2 after sent to 4= 78
+8 sent 96 to node 5
+6 sent 122 to node 7
+After addition, node 7's amount = 313
+After addition, node 5's amount = 233
+Balace at 6 after sent to 7= 176
+Balace at 8 after sent to 5= 196
+7 sent 118 to node 8
+3 sent 73 to node 2
+After addition, node 8's amount = 314
+After addition, node 2's amount = 151
+Balace at 7 after sent to 8= 195
+Balace at 3 after sent to 2= 78
+4 sent 76 to node 3
+5 sent 19 to node 4
+2 sent 50 to node 4
+After addition, node 4's amount = 227
+After addition, node 3's amount = 154
+Balace at 5 after sent to 4= 214
+After addition, node 4's amount = 277
+Balace at 2 after sent to 4= 101
+Balace at 4 after sent to 3= 201
+8 sent 29 to node 3
+6 sent 4 to node 8
+After addition, node 8's amount = 318
+After addition, node 3's amount = 183
+Balace at 6 after sent to 8= 172
+Balace at 8 after sent to 3= 289
+3 sent 24 to node 2
+7 sent 9 to node 6
+After addition, node 6's amount = 181
+After addition, node 2's amount = 125
+Balace at 7 after sent to 6= 186
+Balace at 3 after sent to 2= 159
+2 sent 37 to node 3
+4 sent 83 to node 7
+5 sent 32 to node 7
+After addition, node 7's amount = 269
+After addition, node 3's amount = 196
+After addition, node 7's amount = 301
+Balace at 4 after sent to 7= 118
+Balace at 2 after sent to 3= 88
+Balace at 5 after sent to 7= 182
+6 sent 13 to node 2
+8 sent 103 to node 7
+After addition, node 2's amount = 101
+After addition, node 7's amount = 404
+Balace at 6 after sent to 2= 168
+Balace at 8 after sent to 7= 186
+3 sent 9 to node 1
+7 sent 125 to node 3
+After addition, node 1's amount = 654
+After addition, node 3's amount = 321
+Balace at 7 after sent to 3= 279
+Balace at 3 after sent to 1= 312
 intiate recovery to 4
 Node 4 initiated recovery procedure
 1 rec control from 4
-4 rec yes from 1
 2 rec control from 4
+4 rec yes from 1
 3 rec control from 4
 4 rec yes from 2
 4 rec control from 4
 4 rec yes from 3
 5 rec control from 4
 4 rec yes from 4
-4 rec yes from 5
 6 rec control from 4
+4 rec yes from 5
 7 rec control from 4
-8 rec control from 4
 4 rec yes from 6
+8 rec control from 4
 4 rec yes from 7
 4 rec yes from 8
 1 rec control from 4
-After Recovery Node 1's account has 315
+After Recovery Node 1's account has 564
 2 rec control from 4
-After Recovery Node 2's account has 304
+After Recovery Node 2's account has 189
 3 rec control from 4
-After Recovery Node 3's account has 310
+After Recovery Node 3's account has 452
 4 rec control from 4
-After Recovery Node 4's account has 110
+After Recovery Node 4's account has 52
 5 rec control from 4
-After Recovery Node 5's account has 24
+After Recovery Node 5's account has 233
 6 rec control from 4
-After Recovery Node 6's account has 410
+After Recovery Node 6's account has 102
 7 rec control from 4
-After Recovery Node 7's account has 465
+After Recovery Node 7's account has 297
 8 rec control from 4
-After Recovery Node 8's account has 62
+After Recovery Node 8's account has 111
 4 recovery success
-Rollback3 completed and it took 4246 ms.
-2 sent 134 to node 7
-3 sent 80 to node 6
-after addition, node 7's amount = 599
-after addition, node 6's amount = 490
-At 2 after sent to 7 170
-At 3 after sent to 6 230
-4 sent 10 to node 7
-after addition, node 7's amount = 609
-At 4 after sent to 7 100
-7 sent 301 to node 6
-after addition, node 6's amount = 791
-At 7 after sent to 6 308
-6 sent 218 to node 8
-5 sent 9 to node 1
-8 sent 22 to node 3
-after addition, node 1's amount = 324
-after addition, node 8's amount = 280
-after addition, node 3's amount = 252
-At 5 after sent to 1 15
-At 6 after sent to 8 573
-At 8 after sent to 3 258
+Rollback3 completed and it took 3761 ms.
+4 sent 9 to node 2
+2 sent 39 to node 5
+5 sent 95 to node 7
+After addition, node 2's amount = 198
+After addition, node 7's amount = 392
+After addition, node 5's amount = 272
+Balace at 4 after sent to 2= 43
+Balace at 2 after sent to 5= 159
+Balace at 5 after sent to 7= 177
+8 sent 4 to node 2
+6 sent 38 to node 5
+After addition, node 5's amount = 215
+After addition, node 2's amount = 163
+Balace at 8 after sent to 2= 107
+Balace at 6 after sent to 5= 64
+3 sent 113 to node 8
+7 sent 143 to node 1
+After addition, node 8's amount = 220
+After addition, node 1's amount = 707
+Balace at 7 after sent to 1= 249
+Balace at 3 after sent to 8= 339
 intiate checkpoint to 4
 Node 4 initiated checkpoint procedure
 1 rec control from 4
@@ -705,113 +707,113 @@ Node 4 initiated checkpoint procedure
 6 rec control from 4
 7 rec control from 4
 8 rec control from 4
+Checkpoint4 completed and it took 4128 ms.
 4 checkpoint success
-Checkpoint4 completed and it took 3785 ms.
-3 sent 39 to node 1
-2 sent 12 to node 3
-after addition, node 1's amount = 363
-after addition, node 3's amount = 264
-At 2 after sent to 3 158
-At 3 after sent to 1 225
-4 sent 17 to node 5
-after addition, node 5's amount = 32
-At 4 after sent to 5 83
-7 sent 124 to node 1
-after addition, node 1's amount = 487
-At 7 after sent to 1 184
-8 sent 24 to node 2
-5 sent 4 to node 4
-6 sent 124 to node 5
-after addition, node 5's amount = 156
-after addition, node 2's amount = 182
-after addition, node 4's amount = 87
-At 6 after sent to 5 449
-At 5 after sent to 4 152
-At 8 after sent to 2 234
-2 sent 12 to node 7
-3 sent 68 to node 6
-after addition, node 6's amount = 517
-after addition, node 7's amount = 196
-At 3 after sent to 6 157
-At 2 after sent to 7 170
-4 sent 10 to node 7
-after addition, node 7's amount = 206
-At 4 after sent to 7 77
-7 sent 58 to node 1
-after addition, node 1's amount = 545
-At 7 after sent to 1 148
-5 sent 36 to node 1
-6 sent 153 to node 5
-8 sent 13 to node 2
-after addition, node 2's amount = 183
-after addition, node 5's amount = 305
-after addition, node 1's amount = 581
-At 8 after sent to 2 221
-At 5 after sent to 1 269
-At 6 after sent to 5 364
-3 sent 67 to node 4
-2 sent 67 to node 1
-after addition, node 4's amount = 144
-after addition, node 1's amount = 648
-At 3 after sent to 4 90
-At 2 after sent to 1 116
-4 sent 43 to node 7
-after addition, node 7's amount = 191
-At 4 after sent to 7 101
-7 sent 55 to node 1
-after addition, node 1's amount = 703
-At 7 after sent to 1 136
-6 sent 65 to node 5
-5 sent 21 to node 7
-8 sent 96 to node 7
-after addition, node 5's amount = 334
-after addition, node 7's amount = 232
-after addition, node 7's amount = 253
-At 8 after sent to 7 125
-At 6 after sent to 5 299
-At 5 after sent to 7 313
-2 sent 34 to node 1
-3 sent 7 to node 4
-after addition, node 1's amount = 737
-after addition, node 4's amount = 108
-At 3 after sent to 4 83
-At 2 after sent to 1 82
-4 sent 52 to node 7
-after addition, node 7's amount = 305
-At 4 after sent to 7 56
-7 sent 146 to node 3
-after addition, node 3's amount = 229
-At 7 after sent to 3 159
-6 sent 118 to node 2
-5 sent 118 to node 8
-8 sent 42 to node 5
-after addition, node 2's amount = 200
-after addition, node 8's amount = 243
-after addition, node 5's amount = 355
-At 6 after sent to 2 181
-At 8 after sent to 5 201
-At 5 after sent to 8 237
-2 sent 60 to node 3
-3 sent 108 to node 1
-after addition, node 3's amount = 289
-after addition, node 1's amount = 845
-At 2 after sent to 3 140
-At 3 after sent to 1 181
-4 sent 24 to node 5
-after addition, node 5's amount = 261
-At 4 after sent to 5 32
-7 sent 23 to node 8
-after addition, node 8's amount = 224
-At 7 after sent to 8 136
-8 sent 73 to node 3
-6 sent 50 to node 7
-after addition, node 7's amount = 186
-after addition, node 3's amount = 254
-At 6 after sent to 7 131
-At 8 after sent to 3 151
-5 sent 105 to node 4
-after addition, node 4's amount = 137
-At 5 after sent to 4 156
+5 sent 10 to node 7
+4 sent 15 to node 7
+2 sent 69 to node 4
+After addition, node 7's amount = 259
+After addition, node 4's amount = 112
+After addition, node 7's amount = 274
+Balace at 2 after sent to 4= 94
+Balace at 5 after sent to 7= 205
+Balace at 4 after sent to 7= 97
+8 sent 39 to node 7
+After addition, node 7's amount = 313
+Balace at 8 after sent to 7= 181
+6 sent 31 to node 2
+After addition, node 2's amount = 125
+Balace at 6 after sent to 2= 33
+7 sent 3 to node 3
+3 sent 107 to node 2
+After addition, node 2's amount = 232
+After addition, node 3's amount = 342
+Balace at 7 after sent to 3= 310
+Balace at 3 after sent to 2= 235
+4 sent 42 to node 3
+2 sent 66 to node 4
+5 sent 91 to node 8
+After addition, node 8's amount = 272
+After addition, node 4's amount = 163
+After addition, node 3's amount = 277
+Balace at 5 after sent to 8= 114
+Balace at 4 after sent to 3= 121
+Balace at 2 after sent to 4= 166
+8 sent 50 to node 3
+After addition, node 3's amount = 327
+Balace at 8 after sent to 3= 222
+6 sent 10 to node 8
+After addition, node 8's amount = 232
+Balace at 6 after sent to 8= 23
+7 sent 122 to node 6
+3 sent 81 to node 2
+After addition, node 6's amount = 145
+After addition, node 2's amount = 247
+Balace at 7 after sent to 6= 188
+Balace at 3 after sent to 2= 246
+4 sent 45 to node 7
+5 sent 21 to node 1
+2 sent 15 to node 3
+After addition, node 7's amount = 233
+After addition, node 3's amount = 261
+After addition, node 1's amount = 728
+Balace at 4 after sent to 7= 76
+Balace at 2 after sent to 3= 232
+Balace at 5 after sent to 1= 93
+8 sent 49 to node 7
+After addition, node 7's amount = 282
+Balace at 8 after sent to 7= 183
+6 sent 9 to node 2
+After addition, node 2's amount = 241
+Balace at 6 after sent to 2= 136
+7 sent 129 to node 3
+3 sent 15 to node 1
+After addition, node 1's amount = 743
+After addition, node 3's amount = 390
+Balace at 7 after sent to 3= 153
+Balace at 3 after sent to 1= 375
+4 sent 2 to node 2
+After addition, node 2's amount = 243
+Balace at 4 after sent to 2= 74
+2 sent 17 to node 5
+5 sent 17 to node 8
+After addition, node 5's amount = 110
+After addition, node 8's amount = 200
+Balace at 2 after sent to 5= 226
+Balace at 5 after sent to 8= 93
+8 sent 30 to node 2
+After addition, node 2's amount = 256
+Balace at 8 after sent to 2= 170
+6 sent 58 to node 5
+After addition, node 5's amount = 151
+Balace at 6 after sent to 5= 78
+3 sent 160 to node 8
+7 sent 2 to node 1
+After addition, node 8's amount = 330
+After addition, node 1's amount = 745
+Balace at 3 after sent to 8= 215
+Balace at 7 after sent to 1= 151
+4 sent 34 to node 3
+After addition, node 3's amount = 249
+Balace at 4 after sent to 3= 40
+5 sent 56 to node 8
+2 sent 50 to node 1
+After addition, node 8's amount = 386
+After addition, node 1's amount = 795
+Balace at 5 after sent to 8= 95
+Balace at 2 after sent to 1= 206
+8 sent 188 to node 3
+6 sent 5 to node 8
+7 sent 65 to node 6
+3 sent 14 to node 4
+After addition, node 3's amount = 437
+After addition, node 8's amount = 391
+After addition, node 6's amount = 143
+After addition, node 4's amount = 54
+Balace at 8 after sent to 3= 203
+Balace at 6 after sent to 8= 138
+Balace at 7 after sent to 6= 86
+Balace at 3 after sent to 4= 423
 intiate recovery to 3
 Node 3 initiated recovery procedure
 1 rec control from 3
@@ -831,54 +833,54 @@ Node 3 initiated recovery procedure
 3 rec yes from 7
 3 rec yes from 8
 1 rec control from 3
-After Recovery Node 1's account has 324
+After Recovery Node 1's account has 707
 2 rec control from 3
-After Recovery Node 2's account has 170
+After Recovery Node 2's account has 163
 3 rec control from 3
-After Recovery Node 3's account has 252
+After Recovery Node 3's account has 339
 4 rec control from 3
-After Recovery Node 4's account has 100
+After Recovery Node 4's account has 43
 5 rec control from 3
-After Recovery Node 5's account has 15
+After Recovery Node 5's account has 215
 6 rec control from 3
-After Recovery Node 6's account has 573
+After Recovery Node 6's account has 64
 7 rec control from 3
-After Recovery Node 7's account has 308
+After Recovery Node 7's account has 249
 8 rec control from 3
-After Recovery Node 8's account has 258
+After Recovery Node 8's account has 220
 3 recovery success
-Rollback4 completed and it took 3866 ms.
-3 sent 27 to node 1
-2 sent 69 to node 3
-after addition, node 3's amount = 321
-after addition, node 1's amount = 351
-At 2 after sent to 3 101
-At 3 after sent to 1 294
-4 sent 9 to node 3
-after addition, node 3's amount = 303
-At 4 after sent to 3 91
-7 sent 115 to node 6
-after addition, node 6's amount = 688
-At 7 after sent to 6 193
-6 sent 25 to node 8
-8 sent 112 to node 3
-after addition, node 3's amount = 415
-after addition, node 8's amount = 283
-At 8 after sent to 3 171
-At 6 after sent to 8 663
-5 sent 6 to node 1
-after addition, node 1's amount = 357
-At 5 after sent to 1 9
+Rollback4 completed and it took 4119 ms.
+4 sent 7 to node 7
+After addition, node 7's amount = 256
+Balace at 4 after sent to 7= 36
+5 sent 59 to node 4
+2 sent 31 to node 1
+After addition, node 4's amount = 95
+After addition, node 1's amount = 738
+Balace at 5 after sent to 4= 156
+Balace at 2 after sent to 1= 132
+8 sent 96 to node 7
+After addition, node 7's amount = 352
+Balace at 8 after sent to 7= 124
+7 sent 8 to node 3
+6 sent 24 to node 2
+After addition, node 3's amount = 347
+After addition, node 2's amount = 156
+Balace at 7 after sent to 3= 344
+Balace at 6 after sent to 2= 40
+3 sent 27 to node 4
+After addition, node 4's amount = 122
+Balace at 3 after sent to 4= 320
 intiate checkpoint to 2
 Node 2 initiated checkpoint procedure
 1 rec control from 2
 2 rec control from 2
 2 rec yes from 1
-2 rec yes from 2
 3 rec control from 2
+2 rec yes from 2
+2 rec yes from 3
 4 rec control from 2
 5 rec control from 2
-2 rec yes from 3
 2 rec yes from 4
 6 rec control from 2
 2 rec yes from 5
@@ -896,112 +898,112 @@ Node 2 initiated checkpoint procedure
 7 rec control from 2
 8 rec control from 2
 2 checkpoint success
-Checkpoint5 completed and it took 3926 ms.
-3 sent 173 to node 2
-2 sent 45 to node 4
-after addition, node 2's amount = 274
-after addition, node 4's amount = 136
-At 3 after sent to 2 242
-At 2 after sent to 4 229
-4 sent 35 to node 3
-after addition, node 3's amount = 277
-At 4 after sent to 3 101
-7 sent 46 to node 6
-after addition, node 6's amount = 709
-At 7 after sent to 6 147
-5 sent 2 to node 8
-8 sent 70 to node 5
-6 sent 286 to node 8
-after addition, node 8's amount = 173
-after addition, node 5's amount = 79
-after addition, node 8's amount = 459
-At 5 after sent to 8 77
-At 8 after sent to 5 389
-At 6 after sent to 8 423
-3 sent 35 to node 8
-2 sent 41 to node 5
-after addition, node 5's amount = 118
-after addition, node 8's amount = 424
-At 2 after sent to 5 188
-At 3 after sent to 8 242
-4 sent 19 to node 5
-after addition, node 5's amount = 137
-At 4 after sent to 5 82
-7 sent 57 to node 8
-after addition, node 8's amount = 481
-At 7 after sent to 8 90
-6 sent 35 to node 7
-5 sent 46 to node 8
-8 sent 57 to node 5
-after addition, node 7's amount = 125
-after addition, node 8's amount = 527
-after addition, node 5's amount = 194
-At 6 after sent to 7 388
-At 8 after sent to 5 470
-At 5 after sent to 8 148
-3 sent 19 to node 8
-2 sent 44 to node 5
-after addition, node 5's amount = 192
-after addition, node 8's amount = 489
-At 3 after sent to 8 223
-At 2 after sent to 5 144
-4 sent 9 to node 7
-after addition, node 7's amount = 134
-At 4 after sent to 7 73
-7 sent 50 to node 8
-after addition, node 8's amount = 539
-At 7 after sent to 8 84
-5 sent 62 to node 1
-6 sent 71 to node 7
-8 sent 148 to node 5
-after addition, node 5's amount = 340
-after addition, node 7's amount = 155
-after addition, node 1's amount = 419
-At 8 after sent to 5 391
-At 5 after sent to 1 278
-At 6 after sent to 7 317
-2 sent 28 to node 5
-3 sent 94 to node 8
-after addition, node 5's amount = 306
-after addition, node 8's amount = 485
-At 2 after sent to 5 116
-At 3 after sent to 8 129
-4 sent 28 to node 5
-after addition, node 5's amount = 334
-At 4 after sent to 5 45
-7 sent 20 to node 8
-after addition, node 8's amount = 505
-At 7 after sent to 8 135
-8 sent 179 to node 2
-6 sent 45 to node 7
-5 sent 161 to node 1
-after addition, node 1's amount = 580
-after addition, node 7's amount = 180
-after addition, node 2's amount = 295
-At 5 after sent to 1 173
-At 6 after sent to 7 272
-At 8 after sent to 2 326
-3 sent 29 to node 2
-2 sent 27 to node 4
-after addition, node 2's amount = 324
-after addition, node 4's amount = 72
-At 2 after sent to 4 297
-At 3 after sent to 2 100
-4 sent 9 to node 3
-after addition, node 3's amount = 109
-At 4 after sent to 3 63
-7 sent 71 to node 1
-after addition, node 1's amount = 651
-At 7 after sent to 1 109
-6 sent 67 to node 5
-8 sent 85 to node 5
-5 sent 72 to node 7
-after addition, node 5's amount = 258
-after addition, node 7's amount = 181
-after addition, node 5's amount = 325
-At 8 after sent to 5 241
-At 6 after sent to 5 205
-At 5 after sent to 7 253
+Checkpoint5 completed and it took 4215 ms.
+4 sent 35 to node 5
+After addition, node 5's amount = 191
+Balace at 4 after sent to 5= 87
+5 sent 52 to node 1
+2 sent 37 to node 5
+After addition, node 5's amount = 228
+After addition, node 1's amount = 790
+Balace at 5 after sent to 1= 176
+Balace at 2 after sent to 5= 119
+8 sent 21 to node 5
+After addition, node 5's amount = 197
+Balace at 8 after sent to 5= 103
+7 sent 13 to node 8
+6 sent 1 to node 7
+After addition, node 8's amount = 116
+After addition, node 7's amount = 345
+Balace at 6 after sent to 7= 39
+Balace at 7 after sent to 8= 332
+3 sent 1 to node 8
+After addition, node 8's amount = 117
+Balace at 3 after sent to 8= 319
+4 sent 36 to node 7
+After addition, node 7's amount = 368
+Balace at 4 after sent to 7= 51
+2 sent 36 to node 4
+5 sent 59 to node 7
+After addition, node 7's amount = 427
+After addition, node 4's amount = 87
+Balace at 5 after sent to 7= 138
+Balace at 2 after sent to 4= 83
+8 sent 13 to node 7
+After addition, node 7's amount = 440
+Balace at 8 after sent to 7= 104
+6 sent 14 to node 2
+7 sent 195 to node 3
+After addition, node 2's amount = 97
+After addition, node 3's amount = 514
+Balace at 6 after sent to 2= 25
+Balace at 7 after sent to 3= 245
+3 sent 100 to node 2
+After addition, node 2's amount = 197
+Balace at 3 after sent to 2= 414
+2 sent 71 to node 5
+5 sent 42 to node 7
+4 sent 38 to node 3
+After addition, node 3's amount = 452
+After addition, node 7's amount = 287
+After addition, node 5's amount = 209
+Balace at 4 after sent to 3= 49
+Balace at 5 after sent to 7= 167
+Balace at 2 after sent to 5= 126
+8 sent 23 to node 3
+After addition, node 3's amount = 475
+Balace at 8 after sent to 3= 81
+7 sent 23 to node 6
+6 sent 11 to node 8
+After addition, node 6's amount = 48
+After addition, node 8's amount = 92
+Balace at 7 after sent to 6= 264
+Balace at 6 after sent to 8= 37
+3 sent 161 to node 8
+After addition, node 8's amount = 253
+Balace at 3 after sent to 8= 314
+2 sent 20 to node 1
+5 sent 32 to node 7
+4 sent 23 to node 5
+After addition, node 1's amount = 810
+After addition, node 7's amount = 296
+After addition, node 5's amount = 190
+Balace at 2 after sent to 1= 106
+Balace at 4 after sent to 5= 26
+Balace at 5 after sent to 7= 158
+8 sent 83 to node 5
+After addition, node 5's amount = 241
+Balace at 8 after sent to 5= 170
+7 sent 67 to node 8
+6 sent 11 to node 7
+After addition, node 8's amount = 237
+After addition, node 7's amount = 307
+Balace at 6 after sent to 7= 26
+Balace at 7 after sent to 8= 240
+3 sent 103 to node 4
+After addition, node 4's amount = 129
+Balace at 3 after sent to 4= 211
+4 sent 31 to node 5
+5 sent 88 to node 7
+2 sent 26 to node 7
+After addition, node 7's amount = 266
+After addition, node 5's amount = 272
+After addition, node 7's amount = 354
+Balace at 2 after sent to 7= 80
+Balace at 4 after sent to 5= 98
+Balace at 5 after sent to 7= 184
+8 sent 87 to node 5
+After addition, node 5's amount = 271
+Balace at 8 after sent to 5= 150
+6 sent 11 to node 7
+After addition, node 7's amount = 365
+Balace at 6 after sent to 7= 15
+7 sent 115 to node 8
+After addition, node 8's amount = 265
+3 sent 17 to node 6
+Balace at 7 after sent to 8= 250
+After addition, node 6's amount = 32
+Balace at 3 after sent to 6= 194
 intiate recovery to 4
 Node 4 initiated recovery procedure
 1 rec control from 4
@@ -1010,2093 +1012,2143 @@ Node 4 initiated recovery procedure
 3 rec control from 4
 4 rec yes from 2
 4 rec control from 4
-5 rec control from 4
 4 rec yes from 3
+5 rec control from 4
 4 rec yes from 4
-6 rec control from 4
 4 rec yes from 5
+6 rec control from 4
 7 rec control from 4
 4 rec yes from 6
 8 rec control from 4
 4 rec yes from 7
 4 rec yes from 8
 1 rec control from 4
-After Recovery Node 1's account has 357
+After Recovery Node 1's account has 738
 2 rec control from 4
-After Recovery Node 2's account has 101
+After Recovery Node 2's account has 156
 3 rec control from 4
-After Recovery Node 3's account has 415
-4 rec control from 4
-After Recovery Node 4's account has 91
+After Recovery Node 3's account has 320
 5 rec control from 4
-After Recovery Node 5's account has 9
+After Recovery Node 5's account has 156
+4 rec control from 4
+After Recovery Node 4's account has 122
 6 rec control from 4
-After Recovery Node 6's account has 663
-7 rec control from 4
-After Recovery Node 7's account has 193
-8 rec control from 4
-After Recovery Node 8's account has 171
+After Recovery Node 6's account has 40
 4 recovery success
-Rollback5 completed and it took 4436 ms.
-2 sent 41 to node 3
-3 sent 4 to node 1
-after addition, node 1's amount = 361
-after addition, node 3's amount = 456
-At 3 after sent to 1 452
-At 2 after sent to 3 60
-4 sent 31 to node 3
-after addition, node 3's amount = 483
-At 4 after sent to 3 60
-7 sent 77 to node 8
-after addition, node 8's amount = 248
-At 7 after sent to 8 116
-6 sent 227 to node 7
-8 sent 42 to node 3
-5 sent 1 to node 1
-after addition, node 7's amount = 343
-after addition, node 1's amount = 362
-after addition, node 3's amount = 525
-At 8 after sent to 3 206
-At 5 after sent to 1 8
-At 6 after sent to 7 436
-2 sent 9 to node 3
-3 sent 175 to node 1
-after addition, node 1's amount = 537
-after addition, node 3's amount = 534
-At 2 after sent to 3 51
-At 3 after sent to 1 359
-4 sent 9 to node 2
-after addition, node 2's amount = 60
-At 4 after sent to 2 51
-7 sent 161 to node 6
-after addition, node 6's amount = 597
-At 7 after sent to 6 182
-6 sent 184 to node 8
-8 sent 18 to node 5
-5 sent 2 to node 8
-after addition, node 5's amount = 26
-after addition, node 8's amount = 390
-At 6 after sent to 8 413
-At 8 after sent to 5 372
-after addition, node 8's amount = 374
-At 5 after sent to 8 24
-2 sent 4 to node 5
-after addition, node 5's amount = 28
-At 2 after sent to 5 56
-4 sent 14 to node 2
-3 sent 3 to node 8
-after addition, node 8's amount = 377
-after addition, node 2's amount = 70
-At 3 after sent to 8 356
-At 4 after sent to 2 37
-7 sent 2 to node 8
-after addition, node 8's amount = 379
-At 7 after sent to 8 180
-8 sent 98 to node 7
-6 sent 121 to node 7
-after addition, node 7's amount = 278
-after addition, node 7's amount = 399
-At 8 after sent to 7 281
-At 6 after sent to 7 292
-5 sent 5 to node 7
-after addition, node 7's amount = 404
-At 5 after sent to 7 23
-2 sent 4 to node 4
-after addition, node 4's amount = 41
-At 2 after sent to 4 66
-4 sent 19 to node 2
-3 sent 173 to node 2
-after addition, node 2's amount = 239
-after addition, node 2's amount = 258
-At 3 after sent to 2 183
-At 4 after sent to 2 22
-7 sent 26 to node 3
-after addition, node 3's amount = 209
-At 7 after sent to 3 378
-5 sent 9 to node 4
-8 sent 59 to node 2
-6 sent 72 to node 2
-after addition, node 4's amount = 31
-after addition, node 2's amount = 330
-after addition, node 2's amount = 389
-At 5 after sent to 4 14
-At 6 after sent to 2 220
-At 8 after sent to 2 222
-2 sent 59 to node 7
-after addition, node 7's amount = 437
-At 2 after sent to 7 330
-4 sent 13 to node 5
-3 sent 79 to node 6
-after addition, node 5's amount = 27
-after addition, node 6's amount = 299
-At 4 after sent to 5 18
-At 3 after sent to 6 130
-7 sent 125 to node 1
-after addition, node 1's amount = 662
-At 7 after sent to 1 312
-5 sent 2 to node 7
-after addition, node 7's amount = 314
-At 5 after sent to 7 25
-8 sent 4 to node 2
-6 sent 53 to node 5
-after addition, node 5's amount = 78
-after addition, node 2's amount = 334
-At 8 after sent to 2 218
-At 6 after sent to 5 246
-2 sent 11 to node 5
-after addition, node 5's amount = 89
-At 2 after sent to 5 323
-4 sent 4 to node 2
-after addition, node 2's amount = 327
-At 4 after sent to 2 14
-3 sent 43 to node 8
-after addition, node 8's amount = 261
-At 3 after sent to 8 87
-7 sent 50 to node 1
-after addition, node 1's amount = 712
-At 7 after sent to 1 264
-5 sent 13 to node 4
-after addition, node 4's amount = 27
-At 5 after sent to 4 76
-6 sent 64 to node 5
-8 sent 60 to node 3
-after addition, node 3's amount = 147
-after addition, node 5's amount = 140
-At 8 after sent to 3 201
-At 6 after sent to 5 182
-2 sent 126 to node 1
-after addition, node 1's amount = 838
-At 2 after sent to 1 201
-4 sent 6 to node 7
-after addition, node 7's amount = 270
-At 4 after sent to 7 21
-3 sent 33 to node 4
-after addition, node 4's amount = 54
-At 3 after sent to 4 114
-7 sent 120 to node 6
-after addition, node 6's amount = 302
-At 7 after sent to 6 150
-5 sent 43 to node 4
-after addition, node 4's amount = 97
-At 5 after sent to 4 97
-8 sent 80 to node 7
-6 sent 43 to node 8
-after addition, node 8's amount = 244
-after addition, node 7's amount = 230
-At 6 after sent to 8 259
-At 8 after sent to 7 164
-2 sent 62 to node 5
-after addition, node 5's amount = 159
-At 2 after sent to 5 139
-4 sent 2 to node 3
-after addition, node 3's amount = 116
-At 4 after sent to 3 95
-3 sent 12 to node 8
-after addition, node 8's amount = 176
-At 3 after sent to 8 104
-7 sent 110 to node 3
-after addition, node 3's amount = 214
-At 7 after sent to 3 120
-5 sent 50 to node 4
-after addition, node 4's amount = 145
-At 5 after sent to 4 109
-6 sent 105 to node 2
-8 sent 85 to node 7
-after addition, node 2's amount = 244
-after addition, node 7's amount = 205
-At 6 after sent to 2 154
-At 8 after sent to 7 91
-2 sent 79 to node 1
-after addition, node 1's amount = 917
-At 2 after sent to 1 165
-4 sent 67 to node 3
-after addition, node 3's amount = 281
-At 4 after sent to 3 78
-3 sent 103 to node 4
-after addition, node 4's amount = 181
-At 3 after sent to 4 178
-7 sent 83 to node 3
-after addition, node 3's amount = 261
-At 7 after sent to 3 122
-5 sent 30 to node 1
-after addition, node 1's amount = 947
-At 5 after sent to 1 79
-8 sent 4 to node 2
-6 sent 30 to node 2
-after addition, node 2's amount = 169
-At 8 after sent to 2 87
-after addition, node 2's amount = 199
-At 6 after sent to 2 124
-2 sent 78 to node 7
-after addition, node 7's amount = 200
-At 2 after sent to 7 121
-4 sent 6 to node 5
-after addition, node 5's amount = 85
-At 4 after sent to 5 175
-3 sent 6 to node 6
-after addition, node 6's amount = 130
-At 3 after sent to 6 255
-7 sent 64 to node 1
-after addition, node 1's amount = 1011
-At 7 after sent to 1 136
-5 sent 12 to node 4
-after addition, node 4's amount = 187
-At 5 after sent to 4 73
-8 sent 2 to node 5
-6 sent 59 to node 5
-after addition, node 5's amount = 75
-after addition, node 5's amount = 134
-At 8 after sent to 5 85
-At 6 after sent to 5 71
-2 sent 51 to node 4
-after addition, node 4's amount = 238
-At 2 after sent to 4 70
-4 sent 89 to node 2
-after addition, node 2's amount = 159
-3 sent 7 to node 2
-At 4 after sent to 2 149
-after addition, node 2's amount = 166
-At 3 after sent to 2 248
-7 sent 13 to node 8
-after addition, node 8's amount = 98
-At 7 after sent to 8 123
-5 sent 41 to node 1
-after addition, node 1's amount = 1052
-At 5 after sent to 1 93
-6 sent 18 to node 7
-8 sent 32 to node 7
-after addition, node 7's amount = 155
-after addition, node 7's amount = 173
-At 8 after sent to 7 66
-At 6 after sent to 7 53
-2 sent 38 to node 7
-after addition, node 7's amount = 211
-At 2 after sent to 7 128
-4 sent 44 to node 5
-3 sent 42 to node 6
-after addition, node 5's amount = 137
-after addition, node 6's amount = 95
-At 4 after sent to 5 105
-At 3 after sent to 6 206
-7 sent 88 to node 3
-after addition, node 3's amount = 294
-At 7 after sent to 3 123
-5 sent 15 to node 1
-after addition, node 1's amount = 1067
-At 5 after sent to 1 122
-6 sent 10 to node 2
-8 sent 7 to node 7
-after addition, node 2's amount = 138
-after addition, node 7's amount = 130
-At 6 after sent to 2 85
-At 8 after sent to 7 59
-2 sent 11 to node 5
-after addition, node 5's amount = 133
-At 2 after sent to 5 127
-4 sent 25 to node 7
-3 sent 95 to node 8
-after addition, node 7's amount = 155
-after addition, node 8's amount = 154
-At 4 after sent to 7 80
-At 3 after sent to 8 199
-7 sent 7 to node 3
-after addition, node 3's amount = 206
-At 7 after sent to 3 148
-5 sent 34 to node 1
-after addition, node 1's amount = 1101
-At 5 after sent to 1 99
-8 sent 11 to node 5
-6 sent 7 to node 2
-after addition, node 5's amount = 110
-after addition, node 2's amount = 134
-At 8 after sent to 5 143
-At 6 after sent to 2 78
-2 sent 64 to node 4
-after addition, node 4's amount = 144
-At 2 after sent to 4 70
-3 sent 57 to node 2
-4 sent 57 to node 2
-after addition, node 2's amount = 127
-after addition, node 2's amount = 184
-At 3 after sent to 2 149
-At 4 after sent to 2 87
-7 sent 64 to node 8
-after addition, node 8's amount = 207
-At 7 after sent to 8 84
-5 sent 16 to node 8
-after addition, node 8's amount = 223
-At 5 after sent to 8 94
-6 sent 19 to node 7
-8 sent 44 to node 5
-after addition, node 7's amount = 103
-after addition, node 5's amount = 138
-At 6 after sent to 7 59
-At 8 after sent to 5 179
-2 sent 69 to node 7
-after addition, node 7's amount = 172
-At 2 after sent to 7 115
-4 sent 21 to node 3
-3 sent 57 to node 6
-after addition, node 6's amount = 116
-after addition, node 3's amount = 170
-At 4 after sent to 3 66
-At 3 after sent to 6 113
-7 sent 25 to node 8
-after addition, node 8's amount = 204
-At 7 after sent to 8 147
-5 sent 67 to node 7
-after addition, node 7's amount = 214
-At 5 after sent to 7 71
-8 sent 101 to node 3
-6 sent 15 to node 7
-after addition, node 3's amount = 214
-after addition, node 7's amount = 229
-At 8 after sent to 3 103
-At 6 after sent to 7 101
-2 sent 54 to node 3
-after addition, node 3's amount = 268
-At 2 after sent to 3 61
-3 sent 62 to node 1
-4 sent 30 to node 7
-after addition, node 7's amount = 259
-after addition, node 1's amount = 1163
-At 4 after sent to 7 36
-At 3 after sent to 1 206
-7 sent 38 to node 6
-after addition, node 6's amount = 139
-At 7 after sent to 6 221
-5 sent 18 to node 1
-after addition, node 1's amount = 1181
-At 5 after sent to 1 53
-6 sent 2 to node 8
-8 sent 48 to node 2
-after addition, node 8's amount = 105
-after addition, node 2's amount = 109
-At 6 after sent to 8 137
-At 8 after sent to 2 57
-2 sent 31 to node 5
-after addition, node 5's amount = 84
-At 2 after sent to 5 78
-3 sent 62 to node 8
-4 sent 13 to node 3
-after addition, node 3's amount = 219
-after addition, node 8's amount = 119
-At 4 after sent to 3 23
-At 3 after sent to 8 157
-7 sent 69 to node 1
-after addition, node 1's amount = 1250
-At 7 after sent to 1 152
-5 sent 7 to node 7
-after addition, node 7's amount = 159
-At 5 after sent to 7 77
-8 sent 24 to node 7
-6 sent 31 to node 5
-after addition, node 5's amount = 108
-after addition, node 7's amount = 183
-At 6 after sent to 5 106
-At 8 after sent to 7 95
-2 sent 9 to node 3
-after addition, node 3's amount = 166
-At 2 after sent to 3 69
-3 sent 43 to node 1
-4 sent 1 to node 7
-after addition, node 1's amount = 1293
-after addition, node 7's amount = 184
-At 3 after sent to 1 123
-At 4 after sent to 7 22
-7 sent 91 to node 3
-after addition, node 3's amount = 214
-At 7 after sent to 3 93
-5 sent 26 to node 7
-after addition, node 7's amount = 119
-At 5 after sent to 7 82
-6 sent 37 to node 2
-8 sent 42 to node 5
-after addition, node 5's amount = 124
-after addition, node 2's amount = 106
-At 8 after sent to 5 53
-At 6 after sent to 2 69
-2 sent 31 to node 1
-after addition, node 1's amount = 1324
-At 2 after sent to 1 75
-4 sent 5 to node 7
-3 sent 41 to node 4
-after addition, node 4's amount = 63
-after addition, node 7's amount = 124
-At 4 after sent to 7 58
-At 3 after sent to 4 173
-7 sent 52 to node 8
-after addition, node 8's amount = 105
-At 7 after sent to 8 72
-5 sent 27 to node 8
-after addition, node 8's amount = 132
-At 5 after sent to 8 97
-8 sent 20 to node 7
-6 sent 22 to node 7
-after addition, node 7's amount = 94
-after addition, node 7's amount = 114
-At 6 after sent to 7 47
-At 8 after sent to 7 112
-2 sent 20 to node 7
-after addition, node 7's amount = 134
-At 2 after sent to 7 55
-3 sent 13 to node 6
-4 sent 10 to node 2
-after addition, node 6's amount = 60
-after addition, node 2's amount = 65
-At 3 after sent to 6 160
-At 4 after sent to 2 48
-7 sent 27 to node 3
-after addition, node 3's amount = 187
-At 7 after sent to 3 107
-5 sent 2 to node 8
-after addition, node 8's amount = 114
-At 5 after sent to 8 95
-6 sent 8 to node 2
-8 sent 8 to node 5
-after addition, node 2's amount = 73
-after addition, node 5's amount = 103
-At 6 after sent to 2 52
-At 8 after sent to 5 106
-2 sent 8 to node 4
-after addition, node 4's amount = 56
-At 2 after sent to 4 65
-4 sent 18 to node 5
-3 sent 65 to node 2
-after addition, node 5's amount = 121
-after addition, node 2's amount = 130
-At 4 after sent to 5 38
-At 3 after sent to 2 122
-7 sent 45 to node 8
-after addition, node 8's amount = 151
-At 7 after sent to 8 62
-5 sent 47 to node 7
-after addition, node 7's amount = 109
-At 5 after sent to 7 74
-6 sent 7 to node 7
-8 sent 47 to node 7
-after addition, node 7's amount = 156
-after addition, node 7's amount = 163
-At 8 after sent to 7 104
-At 6 after sent to 7 45
-2 sent 59 to node 3
-after addition, node 3's amount = 181
-At 2 after sent to 3 71
-4 sent 9 to node 5
-3 sent 64 to node 1
-after addition, node 1's amount = 1388
-after addition, node 5's amount = 83
-At 3 after sent to 1 117
-At 4 after sent to 5 29
-7 sent 2 to node 3
-after addition, node 3's amount = 119
-At 7 after sent to 3 161
-5 sent 5 to node 7
-after addition, node 7's amount = 166
-At 5 after sent to 7 78
-8 sent 38 to node 2
-after addition, node 2's amount = 109
-At 8 after sent to 2 66
-6 sent 11 to node 2
-after addition, node 2's amount = 120
-At 6 after sent to 2 34
-2 sent 43 to node 1
-after addition, node 1's amount = 1431
-At 2 after sent to 1 77
-4 sent 10 to node 7
-3 sent 24 to node 4
-after addition, node 7's amount = 176
-after addition, node 4's amount = 53
-At 4 after sent to 7 43
-At 3 after sent to 4 95
-7 sent 46 to node 1
-after addition, node 1's amount = 1477
-At 7 after sent to 1 130
-5 sent 9 to node 8
-after addition, node 8's amount = 75
-At 5 after sent to 8 69
-8 sent 31 to node 7
-after addition, node 7's amount = 161
-At 8 after sent to 7 44
-6 sent 15 to node 5
-after addition, node 5's amount = 84
-At 6 after sent to 5 19
-2 sent 2 to node 5
-after addition, node 5's amount = 86
-At 2 after sent to 5 75
-4 sent 18 to node 2
-3 sent 16 to node 8
-after addition, node 8's amount = 60
-after addition, node 2's amount = 93
-At 4 after sent to 2 25
-At 3 after sent to 8 79
-7 sent 15 to node 3
-after addition, node 3's amount = 94
-At 7 after sent to 3 146
-5 sent 30 to node 7
-after addition, node 7's amount = 176
-At 5 after sent to 7 56
-8 sent 21 to node 2
-after addition, node 2's amount = 114
-At 8 after sent to 2 39
-6 sent 1 to node 2
-after addition, node 2's amount = 115
-At 6 after sent to 2 18
-2 sent 41 to node 5
-after addition, node 5's amount = 97
-At 2 after sent to 5 74
-3 sent 9 to node 8
-4 sent 6 to node 7
-after addition, node 8's amount = 48
-after addition, node 7's amount = 182
-At 4 after sent to 7 19
-At 3 after sent to 8 85
-7 sent 84 to node 1
-after addition, node 1's amount = 1561
-At 7 after sent to 1 98
-5 sent 27 to node 7
-after addition, node 7's amount = 125
-At 5 after sent to 7 70
-8 sent 10 to node 7
-after addition, node 7's amount = 135
-At 8 after sent to 7 38
-6 sent 3 to node 5
-after addition, node 5's amount = 73
-At 6 after sent to 5 15
-2 sent 14 to node 3
-after addition, node 3's amount = 99
-At 2 after sent to 3 60
-3 sent 48 to node 1
-4 sent 4 to node 5
-after addition, node 1's amount = 1609
-after addition, node 5's amount = 77
-At 3 after sent to 1 51
-At 4 after sent to 5 15
-7 sent 32 to node 3
-after addition, node 3's amount = 83
-At 7 after sent to 3 103
-5 sent 11 to node 8
-after addition, node 8's amount = 49
-At 5 after sent to 8 66
-8 sent 22 to node 3
-after addition, node 3's amount = 105
-At 8 after sent to 3 27
-6 sent 1 to node 2
-after addition, node 2's amount = 61
-At 6 after sent to 2 14
-2 sent 4 to node 1
-after addition, node 1's amount = 1613
-At 2 after sent to 1 57
-4 sent 1 to node 2
-3 sent 36 to node 4
-after addition, node 2's amount = 58
-after addition, node 4's amount = 51
-At 4 after sent to 2 50
-At 3 after sent to 4 69
-7 sent 31 to node 6
-after addition, node 6's amount = 45
-At 7 after sent to 6 72
-5 sent 26 to node 8
-after addition, node 8's amount = 53
-At 5 after sent to 8 40
-8 sent 20 to node 7
-after addition, node 7's amount = 92
-At 8 after sent to 7 33
-6 sent 6 to node 8
-after addition, node 8's amount = 39
-At 6 after sent to 8 39
-2 sent 1 to node 7
-after addition, node 7's amount = 93
-At 2 after sent to 7 57
-4 sent 6 to node 3
-after addition, node 3's amount = 75
-At 4 after sent to 3 44
-3 sent 28 to node 6
-after addition, node 6's amount = 67
-At 3 after sent to 6 47
-7 sent 24 to node 3
-after addition, node 3's amount = 71
-At 7 after sent to 3 69
-5 sent 18 to node 4
-after addition, node 4's amount = 62
-At 5 after sent to 4 22
-8 sent 16 to node 2
-6 sent 23 to node 2
-after addition, node 2's amount = 80
-after addition, node 2's amount = 96
-At 6 after sent to 2 44
-At 8 after sent to 2 23
-2 sent 47 to node 5
-after addition, node 5's amount = 69
-At 2 after sent to 5 49
-3 sent 11 to node 8
-4 sent 3 to node 7
-after addition, node 7's amount = 72
-after addition, node 8's amount = 34
-At 4 after sent to 7 59
-At 3 after sent to 8 60
-7 sent 26 to node 1
-after addition, node 1's amount = 1639
-At 7 after sent to 1 46
-5 sent 26 to node 8
-after addition, node 8's amount = 60
-At 5 after sent to 8 43
-6 sent 4 to node 5
-after addition, node 5's amount = 47
-At 6 after sent to 5 40
-8 sent 16 to node 5
-after addition, node 5's amount = 63
-At 8 after sent to 5 44
-2 sent 18 to node 7
-after addition, node 7's amount = 64
-At 2 after sent to 7 31
-4 sent 19 to node 5
-3 sent 24 to node 8
-after addition, node 5's amount = 82
-after addition, node 8's amount = 68
-At 4 after sent to 5 40
-At 3 after sent to 8 36
-7 sent 6 to node 8
-after addition, node 8's amount = 74
-At 7 after sent to 8 58
-5 sent 26 to node 1
-after addition, node 1's amount = 1665
-At 5 after sent to 1 56
-8 sent 6 to node 3
-6 sent 6 to node 7
-after addition, node 3's amount = 42
-after addition, node 7's amount = 64
-At 8 after sent to 3 68
-At 6 after sent to 7 34
-2 sent 8 to node 5
-after addition, node 5's amount = 64
-At 2 after sent to 5 23
-4 sent 3 to node 2
-3 sent 6 to node 8
-after addition, node 2's amount = 26
-after addition, node 8's amount = 74
-At 4 after sent to 2 37
-At 3 after sent to 8 36
-7 sent 24 to node 6
-after addition, node 6's amount = 58
-At 7 after sent to 6 40
-5 sent 25 to node 7
-after addition, node 7's amount = 65
-At 5 after sent to 7 39
-8 sent 17 to node 7
-6 sent 26 to node 8
-after addition, node 7's amount = 82
-after addition, node 8's amount = 100
-At 8 after sent to 7 83
-At 6 after sent to 8 32
-2 sent 8 to node 3
-after addition, node 3's amount = 44
-At 2 after sent to 3 18
-3 sent 15 to node 1
-4 sent 1 to node 3
-after addition, node 1's amount = 1680
-after addition, node 3's amount = 45
-At 3 after sent to 1 30
-At 4 after sent to 3 36
-7 sent 17 to node 3
-after addition, node 3's amount = 47
-At 7 after sent to 3 65
-5 sent 17 to node 7
-after addition, node 7's amount = 82
-At 5 after sent to 7 22
-6 sent 9 to node 2
-8 sent 16 to node 7
-after addition, node 2's amount = 27
-after addition, node 7's amount = 98
-At 6 after sent to 2 23
-At 8 after sent to 7 67
-2 sent 8 to node 1
-after addition, node 1's amount = 1688
-At 2 after sent to 1 19
-3 sent 21 to node 1
-4 sent 8 to node 2
-after addition, node 2's amount = 27
-after addition, node 1's amount = 1709
-At 4 after sent to 2 28
-At 3 after sent to 1 26
-7 sent 8 to node 3
-after addition, node 3's amount = 34
-At 7 after sent to 3 90
-5 sent 9 to node 4
-after addition, node 4's amount = 37
-At 5 after sent to 4 13
-6 sent 1 to node 2
-8 sent 31 to node 2
-after addition, node 2's amount = 28
-after addition, node 2's amount = 59
-At 6 after sent to 2 22
-At 8 after sent to 2 36
-2 sent 23 to node 4
-after addition, node 4's amount = 60
-At 2 after sent to 4 36
-4 sent 13 to node 7
-3 sent 12 to node 4
-after addition, node 7's amount = 103
-after addition, node 4's amount = 72
-At 3 after sent to 4 22
-At 4 after sent to 7 59
-7 sent 48 to node 1
-after addition, node 1's amount = 1757
-At 7 after sent to 1 55
-5 sent 5 to node 7
-after addition, node 7's amount = 60
-At 5 after sent to 7 8
-8 sent 5 to node 7
-6 sent 9 to node 8
-after addition, node 7's amount = 65
-after addition, node 8's amount = 45
-At 6 after sent to 8 13
-At 8 after sent to 7 40
-2 sent 7 to node 5
-after addition, node 5's amount = 15
-At 2 after sent to 5 29
-4 sent 23 to node 3
-3 sent 7 to node 2
-after addition, node 3's amount = 45
-after addition, node 2's amount = 36
-At 4 after sent to 3 36
-At 3 after sent to 2 38
-7 sent 15 to node 6
-after addition, node 6's amount = 28
-At 7 after sent to 6 50
-5 sent 4 to node 7
-after addition, node 7's amount = 54
-At 5 after sent to 7 11
-6 sent 13 to node 2
-after addition, node 2's amount = 49
-At 6 after sent to 2 15
-8 sent 3 to node 7
-after addition, node 7's amount = 57
-At 8 after sent to 7 37
-2 sent 23 to node 4
-after addition, node 4's amount = 59
-At 2 after sent to 4 26
-3 sent 14 to node 8
-4 sent 13 to node 7
-after addition, node 7's amount = 70
-after addition, node 8's amount = 51
-At 4 after sent to 7 46
-At 3 after sent to 8 24
-7 sent 23 to node 3
-after addition, node 3's amount = 47
-At 7 after sent to 3 47
-5 sent 2 to node 8
-after addition, node 8's amount = 53
-At 5 after sent to 8 9
-6 sent 4 to node 2
-after addition, node 2's amount = 30
-At 6 after sent to 2 11
-8 sent 16 to node 5
-after addition, node 5's amount = 25
-At 8 after sent to 5 37
-2 sent 11 to node 3
-after addition, node 3's amount = 58
-At 2 after sent to 3 19
-3 sent 11 to node 2
-4 sent 13 to node 7
-after addition, node 2's amount = 30
-after addition, node 7's amount = 60
-At 4 after sent to 7 33
-At 3 after sent to 2 47
-7 sent 26 to node 3
-after addition, node 3's amount = 73
-At 7 after sent to 3 34
-5 sent 5 to node 7
-after addition, node 7's amount = 39
-At 5 after sent to 7 20
-6 sent 2 to node 7
-after addition, node 7's amount = 41
-At 6 after sent to 7 9
-8 sent 17 to node 7
-after addition, node 7's amount = 58
-At 8 after sent to 7 20
-2 sent 9 to node 1
-after addition, node 1's amount = 1766
-At 2 after sent to 1 21
-3 sent 3 to node 1
-4 sent 15 to node 2
-after addition, node 1's amount = 1769
-after addition, node 2's amount = 36
-At 3 after sent to 1 70
-At 4 after sent to 2 18
-7 sent 22 to node 8
-after addition, node 8's amount = 42
-At 7 after sent to 8 36
-5 sent 6 to node 1
-after addition, node 1's amount = 1775
-At 5 after sent to 1 14
-6 sent 1 to node 2
-after addition, node 2's amount = 37
-At 6 after sent to 2 8
-8 sent 11 to node 3
-after addition, node 3's amount = 81
-At 8 after sent to 3 31
-2 sent 11 to node 7
-after addition, node 7's amount = 47
-At 2 after sent to 7 26
-4 sent 2 to node 3
-3 sent 16 to node 4
-after addition, node 3's amount = 83
-after addition, node 4's amount = 34
-At 3 after sent to 4 67
-At 4 after sent to 3 32
-7 sent 13 to node 6
-after addition, node 6's amount = 21
-At 7 after sent to 6 34
-5 sent 1 to node 1
-after addition, node 1's amount = 1776
-At 5 after sent to 1 13
-6 sent 6 to node 8
-after addition, node 8's amount = 37
-At 6 after sent to 8 15
-8 sent 17 to node 3
-after addition, node 3's amount = 84
-At 8 after sent to 3 20
-2 sent 3 to node 7
-after addition, node 7's amount = 37
-At 2 after sent to 7 23
-4 sent 5 to node 3
-3 sent 11 to node 6
-after addition, node 3's amount = 89
-after addition, node 6's amount = 26
-At 4 after sent to 3 27
-At 3 after sent to 6 78
-7 sent 3 to node 8
-after addition, node 8's amount = 23
-At 7 after sent to 8 34
-5 sent 1 to node 1
-after addition, node 1's amount = 1777
-At 5 after sent to 1 12
-6 sent 8 to node 8
-after addition, node 8's amount = 31
-At 6 after sent to 8 18
-8 sent 13 to node 3
-after addition, node 3's amount = 91
-At 8 after sent to 3 18
-2 sent 9 to node 7
-after addition, node 7's amount = 43
-At 2 after sent to 7 14
-4 sent 2 to node 5
-3 sent 9 to node 6
-after addition, node 6's amount = 27
-after addition, node 5's amount = 14
-At 3 after sent to 6 82
-At 4 after sent to 5 25
-7 sent 6 to node 6
-after addition, node 6's amount = 33
-At 7 after sent to 6 37
-5 sent 2 to node 8
-after addition, node 8's amount = 20
-At 5 after sent to 8 12
-6 sent 7 to node 8
-after addition, node 8's amount = 27
-At 6 after sent to 8 26
-8 sent 7 to node 5
-after addition, node 5's amount = 19
-At 8 after sent to 5 20
-2 sent 2 to node 4
-after addition, node 4's amount = 27
-At 2 after sent to 4 12
-3 sent 26 to node 2
-4 sent 6 to node 7
-after addition, node 2's amount = 38
-after addition, node 7's amount = 43
-At 4 after sent to 7 21
-At 3 after sent to 2 56
-7 sent 18 to node 3
-after addition, node 3's amount = 74
-At 7 after sent to 3 25
-5 sent 6 to node 7
-after addition, node 7's amount = 31
-At 5 after sent to 7 13
-6 sent 7 to node 7
-8 sent 6 to node 7
-after addition, node 7's amount = 38
-after addition, node 7's amount = 44
-At 6 after sent to 7 19
-At 8 after sent to 7 14
-2 sent 6 to node 3
-after addition, node 3's amount = 80
-At 2 after sent to 3 32
-3 sent 27 to node 8
-4 sent 4 to node 3
-after addition, node 8's amount = 41
-after addition, node 3's amount = 84
-At 3 after sent to 8 57
-At 4 after sent to 3 17
-7 sent 5 to node 1
-after addition, node 1's amount = 1782
-At 7 after sent to 1 39
-5 sent 3 to node 4
-after addition, node 4's amount = 20
-At 5 after sent to 4 10
-8 sent 17 to node 2
-6 sent 6 to node 2
-after addition, node 2's amount = 38
-after addition, node 2's amount = 55
-At 6 after sent to 2 13
-At 8 after sent to 2 24
-2 sent 19 to node 7
-after addition, node 7's amount = 58
-At 2 after sent to 7 36
-4 sent 6 to node 7
-3 sent 9 to node 6
-after addition, node 7's amount = 64
-after addition, node 6's amount = 22
-At 4 after sent to 7 14
-At 3 after sent to 6 48
-7 sent 4 to node 8
-after addition, node 8's amount = 28
-At 7 after sent to 8 60
-5 sent 2 to node 1
-after addition, node 1's amount = 1784
-At 5 after sent to 1 8
-8 sent 12 to node 3
-6 sent 9 to node 5
-after addition, node 5's amount = 17
-after addition, node 3's amount = 60
-At 6 after sent to 5 13
-At 8 after sent to 3 16
-2 sent 6 to node 3
-after addition, node 3's amount = 66
-At 2 after sent to 3 30
-4 sent 2 to node 5
-3 sent 20 to node 1
-after addition, node 1's amount = 1804
-after addition, node 5's amount = 19
-At 4 after sent to 5 12
-At 3 after sent to 1 46
-7 sent 23 to node 6
-after addition, node 6's amount = 36
-At 7 after sent to 6 37
-5 sent 8 to node 8
-after addition, node 8's amount = 24
-At 5 after sent to 8 11
-8 sent 5 to node 5
-6 sent 16 to node 8
-after addition, node 5's amount = 16
-after addition, node 8's amount = 40
-At 8 after sent to 5 35
-At 6 after sent to 8 20
-2 sent 10 to node 5
-after addition, node 5's amount = 26
-At 2 after sent to 5 20
-3 sent 11 to node 1
-4 sent 1 to node 5
-after addition, node 5's amount = 27
-after addition, node 1's amount = 1815
-At 4 after sent to 5 11
-At 3 after sent to 1 35
-7 sent 14 to node 8
-after addition, node 8's amount = 49
-At 7 after sent to 8 23
-5 sent 5 to node 8
-after addition, node 8's amount = 54
-At 5 after sent to 8 22
-6 sent 5 to node 7
-8 sent 23 to node 5
-after addition, node 5's amount = 45
-after addition, node 7's amount = 28
-At 6 after sent to 7 15
-At 8 after sent to 5 31
-2 sent 6 to node 7
-after addition, node 7's amount = 34
-At 2 after sent to 7 14
-4 sent 3 to node 3
-3 sent 7 to node 4
-after addition, node 3's amount = 38
-after addition, node 4's amount = 18
-At 4 after sent to 3 15
-At 3 after sent to 4 31
-7 sent 7 to node 6
-after addition, node 6's amount = 22
-At 7 after sent to 6 27
-5 sent 15 to node 4
-after addition, node 4's amount = 30
-At 5 after sent to 4 30
-6 sent 5 to node 7
-after addition, node 7's amount = 32
-At 6 after sent to 7 17
-8 sent 6 to node 2
-after addition, node 2's amount = 20
-At 8 after sent to 2 25
-2 sent 1 to node 5
-after addition, node 5's amount = 31
-At 2 after sent to 5 19
-3 sent 14 to node 1
-4 sent 2 to node 5
-after addition, node 1's amount = 1829
-after addition, node 5's amount = 33
-At 3 after sent to 1 17
-At 4 after sent to 5 28
-7 sent 8 to node 3
-after addition, node 3's amount = 25
-At 7 after sent to 3 24
-5 sent 9 to node 4
-after addition, node 4's amount = 37
-At 5 after sent to 4 24
-6 sent 5 to node 5
-after addition, node 5's amount = 29
-At 6 after sent to 5 12
-8 sent 9 to node 2
-after addition, node 2's amount = 28
-At 8 after sent to 2 16
-2 sent 8 to node 5
-after addition, node 5's amount = 37
-At 2 after sent to 5 20
-3 sent 1 to node 4
-4 sent 17 to node 5
-after addition, node 4's amount = 38
-after addition, node 5's amount = 54
-At 3 after sent to 4 24
-At 4 after sent to 5 21
-7 sent 8 to node 6
-after addition, node 6's amount = 20
-At 7 after sent to 6 16
-5 sent 2 to node 8
-after addition, node 8's amount = 18
-At 5 after sent to 8 52
-6 sent 7 to node 5
-after addition, node 5's amount = 59
-At 6 after sent to 5 13
-8 sent 2 to node 5
-after addition, node 5's amount = 61
-At 8 after sent to 5 16
-2 sent 3 to node 4
-after addition, node 4's amount = 24
-At 2 after sent to 4 17
-4 sent 1 to node 5
-3 sent 10 to node 4
-after addition, node 4's amount = 34
-after addition, node 5's amount = 62
-At 3 after sent to 4 14
-At 4 after sent to 5 33
-7 sent 2 to node 6
-after addition, node 6's amount = 15
-At 7 after sent to 6 14
-5 sent 12 to node 4
-after addition, node 4's amount = 45
-At 5 after sent to 4 50
-6 sent 5 to node 7
-after addition, node 7's amount = 19
-8 sent 2 to node 2
-At 6 after sent to 7 10
-after addition, node 2's amount = 19
-At 8 after sent to 2 14
-2 sent 4 to node 5
-after addition, node 5's amount = 54
-At 2 after sent to 5 15
-3 sent 1 to node 4
-4 sent 8 to node 2
-after addition, node 4's amount = 46
-after addition, node 2's amount = 23
-At 3 after sent to 4 13
-At 4 after sent to 2 38
-7 sent 3 to node 3
-after addition, node 3's amount = 16
-At 7 after sent to 3 16
-5 sent 9 to node 8
-after addition, node 8's amount = 23
-At 5 after sent to 8 45
-6 sent 4 to node 5
-8 sent 4 to node 5
-after addition, node 5's amount = 49
-after addition, node 5's amount = 53
-At 8 after sent to 5 19
-At 6 after sent to 5 6
-2 sent 8 to node 7
-after addition, node 7's amount = 24
-At 2 after sent to 7 15
-4 sent 7 to node 5
-3 sent 1 to node 2
-after addition, node 2's amount = 16
-after addition, node 5's amount = 60
-At 3 after sent to 2 15
-At 4 after sent to 5 31
-7 sent 2 to node 8
-after addition, node 8's amount = 21
-At 7 after sent to 8 22
-5 sent 12 to node 1
-after addition, node 1's amount = 1841
-At 5 after sent to 1 48
-6 sent 2 to node 7
-8 sent 1 to node 2
-after addition, node 7's amount = 24
-after addition, node 2's amount = 17
-At 6 after sent to 7 4
-At 8 after sent to 2 20
-2 sent 1 to node 7
-after addition, node 7's amount = 25
-At 2 after sent to 7 16
-4 sent 13 to node 3
-3 sent 1 to node 8
-after addition, node 3's amount = 28
-after addition, node 8's amount = 21
-At 4 after sent to 3 18
-At 3 after sent to 8 27
-7 sent 9 to node 3
-after addition, node 3's amount = 36
-At 7 after sent to 3 16
-5 sent 3 to node 8
-after addition, node 8's amount = 24
-At 5 after sent to 8 45
-8 sent 2 to node 2
-6 sent 4 to node 2
-after addition, node 2's amount = 18
-after addition, node 2's amount = 22
-At 8 after sent to 2 22
-At 6 after sent to 2 0
-2 sent 1 to node 3
-after addition, node 3's amount = 37
-At 2 after sent to 3 21
-4 sent 1 to node 5
-3 sent 6 to node 6
-after addition, node 5's amount = 46
-after addition, node 6's amount = 6
-7 sent 6 to node 1
-At 3 after sent to 6 31
-At 4 after sent to 5 17
-after addition, node 1's amount = 1847
-At 7 after sent to 1 10
-5 sent 3 to node 1
-after addition, node 1's amount = 1850
-At 5 after sent to 1 43
-8 sent 8 to node 7
-6 sent 1 to node 8
-after addition, node 8's amount = 23
-after addition, node 7's amount = 18
-At 6 after sent to 8 5
-At 8 after sent to 7 15
-2 sent 1 to node 4
-after addition, node 4's amount = 18
-At 2 after sent to 4 20
-4 sent 8 to node 5
-3 sent 4 to node 4
-after addition, node 5's amount = 51
-after addition, node 4's amount = 22
-7 sent 7 to node 3
-At 4 after sent to 5 14
-At 3 after sent to 4 27
-after addition, node 3's amount = 34
-At 7 after sent to 3 11
-5 sent 23 to node 1
-after addition, node 1's amount = 1873
-At 5 after sent to 1 28
-6 sent 1 to node 8
-8 sent 1 to node 7
-after addition, node 8's amount = 16
-after addition, node 7's amount = 12
-At 6 after sent to 8 4
-At 8 after sent to 7 15
-2 sent 9 to node 5
-after addition, node 5's amount = 37
-At 2 after sent to 5 11
-3 sent 5 to node 1
-4 sent 2 to node 7
-after addition, node 1's amount = 1878
-after addition, node 7's amount = 14
-At 3 after sent to 1 29
-7 sent 1 to node 3
-At 4 after sent to 7 12
-after addition, node 3's amount = 30
-At 7 after sent to 3 13
-5 sent 1 to node 1
-after addition, node 1's amount = 1879
-At 5 after sent to 1 36
-8 sent 5 to node 2
-6 sent 4 to node 8
-after addition, node 2's amount = 16
-after addition, node 8's amount = 19
-At 8 after sent to 2 14
-At 6 after sent to 8 0
-2 sent 7 to node 1
-after addition, node 1's amount = 1886
-At 2 after sent to 1 9
-4 sent 3 to node 7
-3 sent 12 to node 8
-after addition, node 7's amount = 16
-after addition, node 8's amount = 26
-At 4 after sent to 7 9
-At 3 after sent to 8 18
-7 sent 5 to node 1
-after addition, node 1's amount = 1891
-At 7 after sent to 1 11
-5 sent 5 to node 7
-after addition, node 7's amount = 16
-At 5 after sent to 7 31
-balance is zero at node 6
-8 sent 8 to node 3
-after addition, node 3's amount = 26
-At 8 after sent to 3 18
-2 sent 1 to node 1
-after addition, node 1's amount = 1892
-At 2 after sent to 1 8
-3 sent 8 to node 4
-4 sent 3 to node 5
-after addition, node 4's amount = 17
-after addition, node 5's amount = 34
-At 4 after sent to 5 14
-At 3 after sent to 4 18
-7 sent 3 to node 6
-after addition, node 6's amount = 3
-At 7 after sent to 6 13
-5 sent 3 to node 1
-after addition, node 1's amount = 1895
-At 5 after sent to 1 31
-8 sent 2 to node 7
-6 sent 3 to node 2
-after addition, node 7's amount = 15
-after addition, node 2's amount = 11
-At 8 after sent to 7 16
-At 6 after sent to 2 0
-2 sent 1 to node 3
-after addition, node 3's amount = 19
-At 2 after sent to 3 10
-3 sent 3 to node 6
-4 sent 3 to node 7
-after addition, node 6's amount = 3
-after addition, node 7's amount = 18
-7 sent 2 to node 3
-At 4 after sent to 7 11
-At 3 after sent to 6 16
-after addition, node 3's amount = 18
-At 7 after sent to 3 16
-5 sent 8 to node 4
-after addition, node 4's amount = 19
-At 5 after sent to 4 23
-6 sent 3 to node 2
-8 sent 3 to node 2
-after addition, node 2's amount = 13
-after addition, node 2's amount = 16
-At 6 after sent to 2 0
-At 8 after sent to 2 13
-2 sent 4 to node 5
-after addition, node 5's amount = 27
-At 2 after sent to 5 12
-3 sent 4 to node 8
-7 sent 3 to node 1
-4 sent 8 to node 2
-after addition, node 8's amount = 17
-after addition, node 2's amount = 20
-after addition, node 1's amount = 1898
-At 3 after sent to 8 14
-At 7 after sent to 1 13
-At 4 after sent to 2 11
-5 sent 1 to node 8
-after addition, node 8's amount = 18
-At 5 after sent to 8 26
-8 sent 7 to node 5
-balance is zero at node 6
-after addition, node 5's amount = 33
-At 8 after sent to 5 11
-2 sent 7 to node 1
-after addition, node 1's amount = 1905
-At 2 after sent to 1 13
-7 sent 1 to node 8
-4 sent 1 to node 5
-3 sent 3 to node 2
-after addition, node 8's amount = 12
-after addition, node 5's amount = 34
-after addition, node 2's amount = 16
-At 7 after sent to 8 12
-At 4 after sent to 5 10
-At 3 after sent to 2 11
-5 sent 8 to node 1
-after addition, node 1's amount = 1913
-At 5 after sent to 1 26
-balance is zero at node 6
-8 sent 2 to node 3
-after addition, node 3's amount = 13
-At 8 after sent to 3 10
-2 sent 1 to node 5
-after addition, node 5's amount = 27
-At 2 after sent to 5 15
-7 sent 2 to node 6
-5 sent 11 to node 1
-3 sent 3 to node 4
-4 sent 1 to node 5
-after addition, node 6's amount = 2
-after addition, node 1's amount = 1924
-after addition, node 4's amount = 13
-after addition, node 5's amount = 28
-At 5 after sent to 1 17
-At 7 after sent to 6 10
-At 3 after sent to 4 10
-At 4 after sent to 5 12
-6 sent 2 to node 8
-8 sent 2 to node 3
-after addition, node 8's amount = 12
-after addition, node 3's amount = 12
-At 8 after sent to 3 10
-At 6 after sent to 8 0
-2 sent 1 to node 3
-after addition, node 3's amount = 13
-At 2 after sent to 3 14
-5 sent 2 to node 8
-after addition, node 8's amount = 12
-At 5 after sent to 8 15
-7 sent 2 to node 6
-after addition, node 6's amount = 2
-At 7 after sent to 6 8
-4 sent 3 to node 7
-3 sent 4 to node 1
-after addition, node 7's amount = 11
-after addition, node 1's amount = 1928
-At 4 after sent to 7 9
-At 3 after sent to 1 9
-6 sent 2 to node 5
-8 sent 2 to node 5
-after addition, node 5's amount = 17
-after addition, node 5's amount = 19
-At 6 after sent to 5 0
-At 8 after sent to 5 10
-2 sent 3 to node 7
-after addition, node 7's amount = 14
-At 2 after sent to 7 11
-5 sent 1 to node 1
-after addition, node 1's amount = 1929
-At 5 after sent to 1 18
-7 sent 5 to node 8
-after addition, node 8's amount = 15
-At 7 after sent to 8 9
-4 sent 1 to node 5
-3 sent 2 to node 2
-after addition, node 5's amount = 19
-after addition, node 2's amount = 13
-At 4 after sent to 5 8
-At 3 after sent to 2 7
-8 sent 2 to node 3
-balance is zero at node 6
-after addition, node 3's amount = 9
-At 8 after sent to 3 13
-2 sent 5 to node 5
-after addition, node 5's amount = 24
-At 2 after sent to 5 8
-5 sent 3 to node 7
-7 sent 3 to node 6
-3 sent 2 to node 4
-4 sent 3 to node 7
-balance is zero at node 6
-8 sent 3 to node 7
-after addition, node 6's amount = 3
-after addition, node 7's amount = 12
-after addition, node 4's amount = 10
-At 3 after sent to 4 7
-after addition, node 7's amount = 15
-after addition, node 7's amount = 18
-At 7 after sent to 6 15
-At 5 after sent to 7 21
-At 4 after sent to 7 7
-At 8 after sent to 7 10
-2 sent 1 to node 4
-after addition, node 4's amount = 8
-At 2 after sent to 4 7
-6 sent 3 to node 5
-after addition, node 5's amount = 24
-At 6 after sent to 5 0
-3 sent 1 to node 4
-after addition, node 4's amount = 9
-At 3 after sent to 4 6
-7 sent 3 to node 3
-after addition, node 3's amount = 9
-At 7 after sent to 3 12
-8 sent 3 to node 2
-4 sent 1 to node 3
-5 sent 2 to node 4
-after addition, node 2's amount = 10
-after addition, node 3's amount = 10
-after addition, node 4's amount = 11
-At 8 after sent to 2 7
-At 4 after sent to 3 10
-At 5 after sent to 4 22
-2 sent 3 to node 5
-after addition, node 5's amount = 25
-At 2 after sent to 5 7
-balance is zero at node 6
-3 sent 3 to node 8
-after addition, node 8's amount = 10
-At 3 after sent to 8 7
-7 sent 3 to node 8
-after addition, node 8's amount = 13
-At 7 after sent to 8 9
-8 sent 5 to node 7
-4 sent 3 to node 7
-5 sent 5 to node 7
-after addition, node 7's amount = 14
-after addition, node 7's amount = 17
-At 8 after sent to 7 8
-after addition, node 7's amount = 22
-At 4 after sent to 7 7
-At 5 after sent to 7 20
-2 sent 1 to node 1
-after addition, node 1's amount = 1930
-At 2 after sent to 1 6
-balance is zero at node 6
-3 sent 1 to node 1
-after addition, node 1's amount = 1931
-At 3 after sent to 1 6
-7 sent 6 to node 6
-after addition, node 6's amount = 6
-At 7 after sent to 6 16
-8 sent 1 to node 5
-after addition, node 5's amount = 21
-At 8 after sent to 5 7
-5 sent 9 to node 8
-4 sent 1 to node 5
-after addition, node 5's amount = 22
-after addition, node 8's amount = 16
-At 5 after sent to 8 13
-At 4 after sent to 5 6
-2 sent 2 to node 5
-after addition, node 5's amount = 15
-At 2 after sent to 5 4
-6 sent 1 to node 2
-after addition, node 2's amount = 5
-At 6 after sent to 2 5
-3 sent 1 to node 6
-after addition, node 6's amount = 6
-At 3 after sent to 6 5
-7 sent 5 to node 6
-after addition, node 6's amount = 11
-At 7 after sent to 6 11
-8 sent 3 to node 3
-after addition, node 3's amount = 8
-At 8 after sent to 3 13
-5 sent 2 to node 1
-4 sent 2 to node 3
-after addition, node 1's amount = 1933
-after addition, node 3's amount = 10
-At 5 after sent to 1 13
-At 4 after sent to 3 4
-2 sent 1 to node 4
-after addition, node 4's amount = 5
-At 2 after sent to 4 4
-6 sent 1 to node 8
-after addition, node 8's amount = 14
-At 6 after sent to 8 10
-3 sent 1 to node 8
-after addition, node 8's amount = 15
-At 3 after sent to 8 9
-7 sent 3 to node 3
-after addition, node 3's amount = 12
-At 7 after sent to 3 8
-8 sent 3 to node 2
-after addition, node 2's amount = 7
-At 8 after sent to 2 12
-4 sent 1 to node 2
-5 sent 2 to node 4
-after addition, node 2's amount = 8
-after addition, node 4's amount = 7
-At 4 after sent to 2 6
-At 5 after sent to 4 11
-2 sent 1 to node 4
-after addition, node 4's amount = 7
-At 2 after sent to 4 7
-6 sent 2 to node 7
-after addition, node 7's amount = 10
-At 6 after sent to 7 8
-3 sent 5 to node 4
-after addition, node 4's amount = 12
-At 3 after sent to 4 7
-7 sent 4 to node 8
-after addition, node 8's amount = 16
-At 7 after sent to 8 6
-8 sent 5 to node 7
-after addition, node 7's amount = 11
-At 8 after sent to 7 11
-4 sent 5 to node 7
-5 sent 4 to node 7
-after addition, node 7's amount = 16
-after addition, node 7's amount = 20
-At 4 after sent to 7 7
-At 5 after sent to 7 7
-2 sent 2 to node 7
-after addition, node 7's amount = 22
-At 2 after sent to 7 5
-6 sent 2 to node 7
-after addition, node 7's amount = 24
-At 6 after sent to 7 6
-3 sent 2 to node 8
-after addition, node 8's amount = 13
-At 3 after sent to 8 5
-7 sent 3 to node 3
-after addition, node 3's amount = 8
-At 7 after sent to 3 21
-8 sent 3 to node 7
-after addition, node 7's amount = 24
-At 8 after sent to 7 10
-4 sent 2 to node 2
-after addition, node 2's amount = 7
-At 4 after sent to 2 5
-5 sent 1 to node 7
-after addition, node 7's amount = 25
-At 5 after sent to 7 6
-2 sent 2 to node 5
-after addition, node 5's amount = 8
-At 2 after sent to 5 5
-6 sent 1 to node 8
-after addition, node 8's amount = 11
-At 6 after sent to 8 5
-3 sent 2 to node 2
-after addition, node 2's amount = 7
-At 3 after sent to 2 6
-7 sent 4 to node 6
-after addition, node 6's amount = 9
-At 7 after sent to 6 21
-8 sent 1 to node 3
-after addition, node 3's amount = 7
-At 8 after sent to 3 10
-4 sent 1 to node 3
-after addition, node 3's amount = 8
-5 sent 3 to node 4
-At 4 after sent to 3 4
-after addition, node 4's amount = 7
-At 5 after sent to 4 5
-2 sent 2 to node 3
-after addition, node 3's amount = 10
-At 2 after sent to 3 5
-6 sent 3 to node 2
-after addition, node 2's amount = 8
-At 6 after sent to 2 6
-3 sent 2 to node 1
-after addition, node 1's amount = 1935
-At 3 after sent to 1 8
-7 sent 1 to node 3
-after addition, node 3's amount = 9
-At 7 after sent to 3 20
-8 sent 1 to node 7
-after addition, node 7's amount = 21
-At 8 after sent to 7 9
-4 sent 1 to node 3
-5 sent 1 to node 1
-after addition, node 3's amount = 10
-after addition, node 1's amount = 1936
-At 4 after sent to 3 6
-At 5 after sent to 1 4
-2 sent 1 to node 4
-after addition, node 4's amount = 7
-At 2 after sent to 4 7
-6 sent 2 to node 5
-after addition, node 5's amount = 6
-At 6 after sent to 5 4
-3 sent 4 to node 4
-after addition, node 4's amount = 11
-At 3 after sent to 4 6
-7 sent 4 to node 3
-after addition, node 3's amount = 10
-At 7 after sent to 3 17
-8 sent 2 to node 7
-after addition, node 7's amount = 19
-At 8 after sent to 7 7
-5 sent 2 to node 8
-4 sent 2 to node 3
-after addition, node 8's amount = 9
-after addition, node 3's amount = 12
-At 4 after sent to 3 9
-At 5 after sent to 8 4
-2 sent 1 to node 5
-after addition, node 5's amount = 5
-At 2 after sent to 5 6
-6 sent 4 to node 2
-after addition, node 2's amount = 10
-At 6 after sent to 2 0
-3 sent 3 to node 1
-after addition, node 1's amount = 1939
-At 3 after sent to 1 9
-7 sent 2 to node 3
-after addition, node 3's amount = 11
-At 7 after sent to 3 17
-8 sent 1 to node 7
-after addition, node 7's amount = 18
-At 8 after sent to 7 8
-4 sent 3 to node 3
+Rollback5 completed and it took 4945 ms.
+7 rec control from 4
+After Recovery Node 7's account has 344
+8 rec control from 4
+After Recovery Node 8's account has 124
+4 sent 21 to node 2
 5 sent 1 to node 4
-after addition, node 4's amount = 10
-after addition, node 3's amount = 14
-At 5 after sent to 4 4
-At 4 after sent to 3 7
-2 sent 2 to node 4
-after addition, node 4's amount = 9
-At 2 after sent to 4 8
-balance is zero at node 6
-3 sent 4 to node 8
-after addition, node 8's amount = 12
-At 3 after sent to 8 10
-7 sent 4 to node 1
-after addition, node 1's amount = 1943
-At 7 after sent to 1 14
-8 sent 4 to node 2
-after addition, node 2's amount = 12
-At 8 after sent to 2 8
-4 sent 3 to node 2
-5 sent 4 to node 8
-after addition, node 8's amount = 12
-after addition, node 2's amount = 15
-At 5 after sent to 8 0
-At 4 after sent to 2 6
-2 sent 4 to node 3
-after addition, node 3's amount = 14
-At 2 after sent to 3 11
-balance is zero at node 6
-3 sent 3 to node 4
-after addition, node 4's amount = 9
-At 3 after sent to 4 11
-7 sent 3 to node 3
-after addition, node 3's amount = 14
-At 7 after sent to 3 11
-8 sent 4 to node 7
-after addition, node 7's amount = 15
-At 8 after sent to 7 8
-balance is zero at node 5
-4 sent 1 to node 3
-after addition, node 3's amount = 15
-At 4 after sent to 3 8
-2 sent 3 to node 3
-after addition, node 3's amount = 18
-At 2 after sent to 3 8
-balance is zero at node 6
-3 sent 4 to node 6
-after addition, node 6's amount = 4
-At 3 after sent to 6 14
-7 sent 4 to node 3
-after addition, node 3's amount = 18
-At 7 after sent to 3 11
-8 sent 3 to node 7
-after addition, node 7's amount = 14
-At 8 after sent to 7 5
-balance is zero at node 5
-4 sent 3 to node 7
-after addition, node 7's amount = 17
-At 4 after sent to 7 5
-2 sent 1 to node 3
-after addition, node 3's amount = 19
-At 2 after sent to 3 7
+2 sent 10 to node 5
+After addition, node 2's amount = 177
+After addition, node 5's amount = 166
+After addition, node 4's amount = 123
+Balace at 4 after sent to 2= 102
+Balace at 5 after sent to 4= 165
+Balace at 2 after sent to 5= 167
+8 sent 6 to node 2
+After addition, node 2's amount = 173
+Balace at 8 after sent to 2= 118
+6 sent 8 to node 5
+After addition, node 5's amount = 173
+Balace at 6 after sent to 5= 32
+7 sent 52 to node 1
+3 sent 148 to node 8
+After addition, node 1's amount = 790
+After addition, node 8's amount = 266
+Balace at 3 after sent to 8= 172
+Balace at 7 after sent to 1= 292
+2 sent 83 to node 4
+5 sent 14 to node 1
+4 sent 35 to node 3
+After addition, node 3's amount = 207
+After addition, node 1's amount = 804
+After addition, node 4's amount = 185
+Balace at 2 after sent to 4= 90
+Balace at 4 after sent to 3= 150
+Balace at 5 after sent to 1= 159
+8 sent 90 to node 3
+After addition, node 3's amount = 297
+Balace at 8 after sent to 3= 176
+6 sent 9 to node 8
+After addition, node 8's amount = 185
+Balace at 6 after sent to 8= 23
+3 sent 49 to node 2
+7 sent 63 to node 6
+After addition, node 6's amount = 86
+After addition, node 2's amount = 139
+Balace at 7 after sent to 6= 229
+Balace at 3 after sent to 2= 248
+5 sent 53 to node 1
+4 sent 63 to node 2
+2 sent 66 to node 5
+After addition, node 1's amount = 857
+After addition, node 5's amount = 225
+After addition, node 2's amount = 202
+Balace at 5 after sent to 1= 172
+Balace at 2 after sent to 5= 136
+Balace at 4 after sent to 2= 87
+8 sent 89 to node 2
+After addition, node 2's amount = 225
+Balace at 8 after sent to 2= 96
+6 sent 16 to node 5
+After addition, node 5's amount = 188
+Balace at 6 after sent to 5= 70
+3 sent 13 to node 8
+7 sent 21 to node 1
+After addition, node 8's amount = 109
+After addition, node 1's amount = 878
+Balace at 3 after sent to 8= 235
+Balace at 7 after sent to 1= 208
+5 sent 36 to node 4
+4 sent 20 to node 2
+2 sent 100 to node 4
+After addition, node 2's amount = 245
+After addition, node 4's amount = 123
+Balace at 5 after sent to 4= 152
+After addition, node 4's amount = 223
+Balace at 2 after sent to 4= 145
+Balace at 4 after sent to 2= 203
+8 sent 38 to node 2
+After addition, node 2's amount = 183
+Balace at 8 after sent to 2= 71
+6 sent 23 to node 5
+After addition, node 5's amount = 175
+Balace at 6 after sent to 5= 47
+7 sent 84 to node 1
+3 sent 110 to node 2
+After addition, node 1's amount = 962
+After addition, node 2's amount = 293
+Balace at 7 after sent to 1= 124
+Balace at 3 after sent to 2= 125
+2 sent 122 to node 4
+4 sent 35 to node 2
+5 sent 57 to node 4
+After addition, node 4's amount = 325
+After addition, node 2's amount = 328
+After addition, node 4's amount = 382
+Balace at 2 after sent to 4= 206
+Balace at 5 after sent to 4= 118
+Balace at 4 after sent to 2= 347
+8 sent 20 to node 2
+After addition, node 2's amount = 226
+Balace at 8 after sent to 2= 51
+6 sent 19 to node 5
+After addition, node 5's amount = 137
+Balace at 6 after sent to 5= 28
+7 sent 40 to node 1
+After addition, node 1's amount = 1002
+Balace at 7 after sent to 1= 84
+3 sent 40 to node 2
+After addition, node 2's amount = 266
+Balace at 3 after sent to 2= 85
+4 sent 149 to node 2
+5 sent 38 to node 1
+2 sent 67 to node 5
+After addition, node 2's amount = 415
+After addition, node 5's amount = 204
+After addition, node 1's amount = 1040
+Balace at 2 after sent to 5= 348
+Balace at 5 after sent to 1= 166
+Balace at 4 after sent to 2= 198
+8 sent 6 to node 2
+After addition, node 2's amount = 354
+Balace at 8 after sent to 2= 45
+6 sent 11 to node 5
+After addition, node 5's amount = 177
+Balace at 6 after sent to 5= 17
+7 sent 25 to node 1
+After addition, node 1's amount = 1065
+Balace at 7 after sent to 1= 59
+3 sent 25 to node 8
+After addition, node 8's amount = 70
+Balace at 3 after sent to 8= 60
+5 sent 66 to node 7
+4 sent 83 to node 5
+2 sent 98 to node 7
+After addition, node 5's amount = 260
+After addition, node 7's amount = 157
+After addition, node 7's amount = 223
+Balace at 4 after sent to 5= 115
+Balace at 2 after sent to 7= 256
+Balace at 5 after sent to 7= 194
+8 sent 8 to node 5
+After addition, node 5's amount = 202
+Balace at 8 after sent to 5= 62
+6 sent 3 to node 7
+After addition, node 7's amount = 226
+Balace at 6 after sent to 7= 14
+7 sent 54 to node 8
+After addition, node 8's amount = 116
+Balace at 7 after sent to 8= 172
+3 sent 5 to node 6
+After addition, node 6's amount = 19
+Balace at 3 after sent to 6= 55
+2 sent 78 to node 5
+4 sent 55 to node 5
+5 sent 54 to node 8
+After addition, node 8's amount = 170
+After addition, node 5's amount = 257
+After addition, node 5's amount = 335
+Balace at 5 after sent to 8= 281
+Balace at 4 after sent to 5= 60
+Balace at 2 after sent to 5= 178
+8 sent 40 to node 5
+After addition, node 5's amount = 321
+Balace at 8 after sent to 5= 130
+6 sent 7 to node 7
+After addition, node 7's amount = 179
+Balace at 6 after sent to 7= 12
+7 sent 59 to node 8
+After addition, node 8's amount = 189
+Balace at 7 after sent to 8= 120
+3 sent 7 to node 8
+After addition, node 8's amount = 196
+Balace at 3 after sent to 8= 48
+2 sent 33 to node 3
+4 sent 10 to node 3
+5 sent 32 to node 4
+After addition, node 4's amount = 92
+After addition, node 3's amount = 58
+After addition, node 3's amount = 91
+Balace at 5 after sent to 4= 289
+Balace at 4 after sent to 3= 82
+Balace at 2 after sent to 3= 145
+8 sent 92 to node 2
+After addition, node 2's amount = 237
+Balace at 8 after sent to 2= 104
 6 sent 4 to node 8
-after addition, node 8's amount = 9
-At 6 after sent to 8 0
-3 sent 3 to node 2
-after addition, node 2's amount = 10
-At 3 after sent to 2 16
-7 sent 7 to node 3
-after addition, node 3's amount = 23
-At 7 after sent to 3 10
-8 sent 3 to node 5
-after addition, node 5's amount = 3
-At 8 after sent to 5 6
-5 sent 3 to node 7
-after addition, node 7's amount = 13
-At 5 after sent to 7 0
-4 sent 1 to node 2
-after addition, node 2's amount = 11
-At 4 after sent to 2 4
-2 sent 2 to node 7
-after addition, node 7's amount = 15
-At 2 after sent to 7 9
-balance is zero at node 6
-3 sent 9 to node 1
-after addition, node 1's amount = 1952
-At 3 after sent to 1 14
-7 sent 3 to node 1
-after addition, node 1's amount = 1955
-At 7 after sent to 1 12
-8 sent 2 to node 7
-after addition, node 7's amount = 14
-At 8 after sent to 7 4
-balance is zero at node 5
+After addition, node 8's amount = 108
+Balace at 6 after sent to 8= 8
+7 sent 40 to node 6
+After addition, node 6's amount = 48
+Balace at 7 after sent to 6= 80
+3 sent 10 to node 1
+After addition, node 1's amount = 1075
+Balace at 3 after sent to 1= 81
+2 sent 105 to node 4
+5 sent 104 to node 1
+4 sent 40 to node 2
+After addition, node 1's amount = 1179
+After addition, node 2's amount = 277
+After addition, node 4's amount = 187
+Balace at 5 after sent to 1= 185
+Balace at 2 after sent to 4= 172
+Balace at 4 after sent to 2= 147
+8 sent 50 to node 3
+After addition, node 3's amount = 131
+Balace at 8 after sent to 3= 58
+6 sent 1 to node 5
+After addition, node 5's amount = 186
+Balace at 6 after sent to 5= 47
+7 sent 17 to node 1
+After addition, node 1's amount = 1196
+Balace at 7 after sent to 1= 63
+3 sent 52 to node 2
+After addition, node 2's amount = 224
+Balace at 3 after sent to 2= 79
+4 sent 70 to node 2
+5 sent 84 to node 8
+2 sent 106 to node 1
+After addition, node 2's amount = 294
+After addition, node 1's amount = 1302
+After addition, node 8's amount = 142
+Balace at 2 after sent to 1= 188
+Balace at 4 after sent to 2= 77
+Balace at 5 after sent to 8= 102
+8 sent 48 to node 5
+6 sent 6 to node 5
+7 sent 22 to node 1
+3 sent 14 to node 4
+After addition, node 5's amount = 108
+After addition, node 1's amount = 1324
+After addition, node 4's amount = 91
+After addition, node 5's amount = 156
+Balace at 6 after sent to 5= 41
+Balace at 7 after sent to 1= 41
+Balace at 8 after sent to 5= 94
+Balace at 3 after sent to 4= 65
+5 sent 5 to node 7
+4 sent 8 to node 5
+2 sent 29 to node 3
+After addition, node 5's amount = 164
+After addition, node 7's amount = 46
+6 sent 3 to node 7
+After addition, node 3's amount = 94
+After addition, node 7's amount = 49
+Balace at 4 after sent to 5= 83
+Balace at 5 after sent to 7= 159
+Balace at 2 after sent to 3= 159
+Balace at 6 after sent to 7= 38
+8 sent 22 to node 7
+3 sent 29 to node 1
+7 sent 11 to node 8
+After addition, node 7's amount = 71
+After addition, node 8's amount = 105
+After addition, node 1's amount = 1353
+Balace at 7 after sent to 8= 60
+Balace at 8 after sent to 7= 83
+Balace at 3 after sent to 1= 65
+2 sent 57 to node 4
+4 sent 12 to node 3
+6 sent 8 to node 8
+5 sent 14 to node 7
+After addition, node 3's amount = 77
+After addition, node 4's amount = 140
+After addition, node 8's amount = 91
+After addition, node 7's amount = 74
+Balace at 4 after sent to 3= 128
+Balace at 2 after sent to 4= 102
+Balace at 6 after sent to 8= 30
+Balace at 5 after sent to 7= 145
+8 sent 20 to node 7
+7 sent 33 to node 6
+3 sent 27 to node 2
+After addition, node 7's amount = 94
+After addition, node 6's amount = 63
+After addition, node 2's amount = 129
+Balace at 8 after sent to 7= 71
+Balace at 7 after sent to 6= 61
+Balace at 3 after sent to 2= 50
+6 sent 29 to node 7
+4 sent 35 to node 5
+2 sent 35 to node 3
+5 sent 22 to node 7
+After addition, node 5's amount = 180
+After addition, node 3's amount = 85
+After addition, node 7's amount = 90
+After addition, node 7's amount = 112
+Balace at 4 after sent to 5= 93
+Balace at 2 after sent to 3= 94
+Balace at 6 after sent to 7= 34
+Balace at 5 after sent to 7= 158
+3 sent 29 to node 1
+7 sent 43 to node 8
+8 sent 19 to node 7
+After addition, node 1's amount = 1382
+After addition, node 7's amount = 131
+After addition, node 8's amount = 114
+Balace at 3 after sent to 1= 56
+Balace at 8 after sent to 7= 95
+Balace at 7 after sent to 8= 88
+4 sent 30 to node 5
+After addition, node 5's amount = 188
+Balace at 4 after sent to 5= 63
+5 sent 54 to node 4
+6 sent 15 to node 7
+2 sent 19 to node 7
+After addition, node 4's amount = 117
+After addition, node 7's amount = 103
+After addition, node 7's amount = 122
+Balace at 5 after sent to 4= 134
+Balace at 6 after sent to 7= 19
+Balace at 2 after sent to 7= 75
+7 sent 3 to node 8
+3 sent 4 to node 6
+8 sent 7 to node 2
+After addition, node 6's amount = 23
+After addition, node 8's amount = 98
+After addition, node 2's amount = 82
+Balace at 7 after sent to 8= 119
+Balace at 3 after sent to 6= 52
+Balace at 8 after sent to 2= 91
+4 sent 52 to node 5
+After addition, node 5's amount = 186
+Balace at 4 after sent to 5= 65
+2 sent 24 to node 4
+6 sent 5 to node 7
+5 sent 77 to node 8
+After addition, node 7's amount = 124
+After addition, node 4's amount = 89
+After addition, node 8's amount = 168
+Balace at 6 after sent to 7= 18
+Balace at 2 after sent to 4= 58
+Balace at 5 after sent to 8= 109
+8 sent 32 to node 5
+3 sent 16 to node 2
+7 sent 34 to node 8
+After addition, node 5's amount = 141
+After addition, node 2's amount = 74
+After addition, node 8's amount = 202
+Balace at 3 after sent to 2= 36
+Balace at 8 after sent to 5= 170
+Balace at 7 after sent to 8= 90
 4 sent 4 to node 2
-after addition, node 2's amount = 13
-At 4 after sent to 2 0
+After addition, node 2's amount = 78
+Balace at 4 after sent to 2= 85
+5 sent 22 to node 4
+2 sent 28 to node 7
+6 sent 7 to node 5
+After addition, node 4's amount = 107
+After addition, node 5's amount = 148
+After addition, node 7's amount = 118
+Balace at 6 after sent to 5= 11
+Balace at 5 after sent to 4= 126
+Balace at 2 after sent to 7= 50
+8 sent 17 to node 2
+3 sent 12 to node 1
+7 sent 46 to node 1
+After addition, node 2's amount = 67
+After addition, node 1's amount = 1394
+After addition, node 1's amount = 1440
+Balace at 8 after sent to 2= 153
+Balace at 3 after sent to 1= 24
+Balace at 7 after sent to 1= 72
+4 sent 49 to node 2
+After addition, node 2's amount = 116
+Balace at 4 after sent to 2= 58
+2 sent 22 to node 4
+6 sent 4 to node 5
+5 sent 38 to node 4
+After addition, node 4's amount = 80
+After addition, node 5's amount = 130
+After addition, node 4's amount = 118
+Balace at 2 after sent to 4= 94
+Balace at 6 after sent to 5= 7
+Balace at 5 after sent to 4= 92
+8 sent 53 to node 2
+After addition, node 2's amount = 147
+Balace at 8 after sent to 2= 100
+7 sent 12 to node 1
+3 sent 4 to node 1
+After addition, node 1's amount = 1452
+After addition, node 1's amount = 1456
+Balace at 7 after sent to 1= 60
+Balace at 3 after sent to 1= 20
+4 sent 54 to node 3
+After addition, node 3's amount = 74
+Balace at 4 after sent to 3= 64
+2 sent 8 to node 3
+5 sent 36 to node 4
+6 sent 1 to node 8
+After addition, node 3's amount = 82
+After addition, node 8's amount = 101
+After addition, node 4's amount = 100
+Balace at 2 after sent to 3= 139
+Balace at 5 after sent to 4= 56
+Balace at 6 after sent to 8= 6
+8 sent 12 to node 2
+After addition, node 2's amount = 151
+Balace at 8 after sent to 2= 89
+3 sent 11 to node 2
+7 sent 4 to node 6
+After addition, node 2's amount = 162
+After addition, node 6's amount = 10
+Balace at 3 after sent to 2= 71
+Balace at 7 after sent to 6= 56
+4 sent 9 to node 2
+After addition, node 2's amount = 171
+Balace at 4 after sent to 2= 91
+5 sent 4 to node 1
+2 sent 79 to node 4
+6 sent 4 to node 5
+After addition, node 1's amount = 1460
+After addition, node 4's amount = 170
+After addition, node 5's amount = 60
+Balace at 2 after sent to 4= 92
+Balace at 5 after sent to 1= 56
+Balace at 6 after sent to 5= 6
+8 sent 16 to node 3
+After addition, node 3's amount = 87
+Balace at 8 after sent to 3= 73
+3 sent 32 to node 4
+7 sent 1 to node 1
+After addition, node 4's amount = 202
+After addition, node 1's amount = 1461
+Balace at 7 after sent to 1= 55
+Balace at 3 after sent to 4= 55
+4 sent 18 to node 2
+After addition, node 2's amount = 110
+Balace at 4 after sent to 2= 184
+6 sent 2 to node 5
+2 sent 25 to node 1
+5 sent 26 to node 4
+After addition, node 5's amount = 58
+After addition, node 1's amount = 1486
+After addition, node 4's amount = 210
+Balace at 6 after sent to 5= 4
+Balace at 2 after sent to 1= 85
+Balace at 5 after sent to 4= 32
+8 sent 18 to node 2
+After addition, node 2's amount = 103
+Balace at 8 after sent to 2= 55
+7 sent 23 to node 1
+3 sent 3 to node 1
+After addition, node 1's amount = 1509
+After addition, node 1's amount = 1512
+Balace at 7 after sent to 1= 32
+Balace at 3 after sent to 1= 52
+4 sent 15 to node 5
+After addition, node 5's amount = 47
+Balace at 4 after sent to 5= 195
+5 sent 9 to node 8
+2 sent 6 to node 3
+6 sent 4 to node 7
+After addition, node 3's amount = 58
+After addition, node 8's amount = 64
+After addition, node 7's amount = 36
+Balace at 2 after sent to 3= 97
+Balace at 5 after sent to 8= 38
+Balace at 6 after sent to 7= 0
+8 sent 8 to node 5
+After addition, node 5's amount = 46
+Balace at 8 after sent to 5= 56
+7 sent 12 to node 8
+3 sent 19 to node 8
+After addition, node 8's amount = 68
+After addition, node 8's amount = 87
+Balace at 7 after sent to 8= 24
+Balace at 3 after sent to 8= 39
+4 sent 21 to node 2
+After addition, node 2's amount = 118
+Balace at 4 after sent to 2= 174
+balance is zero at node 6
+2 sent 53 to node 5
+5 sent 14 to node 1
+After addition, node 1's amount = 1526
+After addition, node 5's amount = 99
+Balace at 2 after sent to 5= 65
+Balace at 5 after sent to 1= 85
+8 sent 36 to node 3
+After addition, node 3's amount = 75
+Balace at 8 after sent to 3= 51
+3 sent 23 to node 2
+7 sent 9 to node 1
+After addition, node 2's amount = 88
+After addition, node 1's amount = 1535
+Balace at 3 after sent to 2= 52
+Balace at 7 after sent to 1= 15
+4 sent 23 to node 2
+After addition, node 2's amount = 111
+Balace at 4 after sent to 2= 151
+balance is zero at node 6
+2 sent 40 to node 4
+5 sent 7 to node 1
+After addition, node 4's amount = 191
+After addition, node 1's amount = 1542
+Balace at 2 after sent to 4= 71
+Balace at 5 after sent to 1= 78
+8 sent 4 to node 3
+After addition, node 3's amount = 56
+Balace at 8 after sent to 3= 47
+3 sent 17 to node 6
+7 sent 3 to node 1
+After addition, node 1's amount = 1545
+After addition, node 6's amount = 17
+Balace at 7 after sent to 1= 12
+Balace at 3 after sent to 6= 39
+4 sent 32 to node 3
+After addition, node 3's amount = 71
+Balace at 4 after sent to 3= 159
+6 sent 5 to node 7
+After addition, node 7's amount = 17
+Balace at 6 after sent to 7= 12
+2 sent 17 to node 7
+5 sent 16 to node 1
+After addition, node 7's amount = 34
+After addition, node 1's amount = 1561
+Balace at 2 after sent to 7= 54
+Balace at 5 after sent to 1= 62
+8 sent 15 to node 3
+After addition, node 3's amount = 86
+Balace at 8 after sent to 3= 32
+3 sent 16 to node 6
+7 sent 13 to node 6
+After addition, node 6's amount = 28
+Balace at 3 after sent to 6= 70
+After addition, node 6's amount = 41
+Balace at 7 after sent to 6= 21
+4 sent 58 to node 5
+After addition, node 5's amount = 120
+Balace at 4 after sent to 5= 101
+6 sent 5 to node 5
+After addition, node 5's amount = 125
+Balace at 6 after sent to 5= 36
+5 sent 5 to node 1
+2 sent 21 to node 7
+After addition, node 1's amount = 1566
+After addition, node 7's amount = 42
+Balace at 5 after sent to 1= 120
+Balace at 2 after sent to 7= 33
+8 sent 3 to node 3
+After addition, node 3's amount = 73
+Balace at 8 after sent to 3= 29
+3 sent 5 to node 6
+7 sent 9 to node 8
+After addition, node 6's amount = 41
+After addition, node 8's amount = 38
+Balace at 3 after sent to 6= 68
+Balace at 7 after sent to 8= 33
+4 sent 5 to node 7
+After addition, node 7's amount = 38
+Balace at 4 after sent to 7= 96
+6 sent 17 to node 8
+After addition, node 8's amount = 55
+Balace at 6 after sent to 8= 24
+2 sent 1 to node 3
+5 sent 57 to node 1
+After addition, node 3's amount = 69
+After addition, node 1's amount = 1623
+Balace at 2 after sent to 3= 32
+Balace at 5 after sent to 1= 63
+8 sent 24 to node 3
+After addition, node 3's amount = 93
+Balace at 8 after sent to 3= 31
+3 sent 29 to node 1
+7 sent 1 to node 6
+After addition, node 1's amount = 1652
+After addition, node 6's amount = 25
+Balace at 3 after sent to 1= 64
+Balace at 7 after sent to 6= 37
+4 sent 33 to node 2
+After addition, node 2's amount = 65
+Balace at 4 after sent to 2= 63
+6 sent 9 to node 7
+After addition, node 7's amount = 46
+Balace at 6 after sent to 7= 16
+2 sent 22 to node 3
+5 sent 29 to node 4
+After addition, node 3's amount = 86
+After addition, node 4's amount = 92
+Balace at 2 after sent to 3= 43
+8 sent 10 to node 3
+3 sent 36 to node 1
+7 sent 6 to node 6
+Balace at 5 after sent to 4= 34
+After addition, node 6's amount = 22
+After addition, node 3's amount = 96
+After addition, node 1's amount = 1688
+Balace at 3 after sent to 1= 60
+Balace at 7 after sent to 6= 40
+Balace at 8 after sent to 3= 21
+4 sent 32 to node 2
+After addition, node 2's amount = 75
+Balace at 4 after sent to 2= 60
+6 sent 5 to node 2
+After addition, node 2's amount = 80
+Balace at 6 after sent to 2= 17
+2 sent 15 to node 4
+After addition, node 4's amount = 75
+Balace at 2 after sent to 4= 65
+5 sent 15 to node 4
+After addition, node 4's amount = 90
+Balace at 5 after sent to 4= 19
+7 sent 12 to node 8
+3 sent 15 to node 2
+8 sent 2 to node 5
+After addition, node 8's amount = 33
+After addition, node 2's amount = 80
+After addition, node 5's amount = 21
+Balace at 3 after sent to 2= 45
+Balace at 7 after sent to 8= 28
+Balace at 8 after sent to 5= 31
+4 sent 30 to node 2
+After addition, node 2's amount = 110
+Balace at 4 after sent to 2= 60
+6 sent 1 to node 5
+After addition, node 5's amount = 22
+Balace at 6 after sent to 5= 16
+2 sent 45 to node 3
+After addition, node 3's amount = 90
+Balace at 2 after sent to 3= 65
+5 sent 9 to node 7
+After addition, node 7's amount = 37
+Balace at 5 after sent to 7= 13
+8 sent 5 to node 7
+7 sent 2 to node 3
+3 sent 39 to node 1
+After addition, node 7's amount = 42
+After addition, node 3's amount = 92
+After addition, node 1's amount = 1727
+Balace at 8 after sent to 7= 26
+Balace at 3 after sent to 1= 53
+Balace at 7 after sent to 3= 40
+4 sent 15 to node 5
+After addition, node 5's amount = 28
+Balace at 4 after sent to 5= 45
+6 sent 6 to node 5
+After addition, node 5's amount = 34
+Balace at 6 after sent to 5= 10
+2 sent 10 to node 7
+After addition, node 7's amount = 50
+Balace at 2 after sent to 7= 55
+5 sent 16 to node 8
+After addition, node 8's amount = 42
+Balace at 5 after sent to 8= 18
+8 sent 12 to node 7
+7 sent 14 to node 3
+3 sent 13 to node 4
+After addition, node 7's amount = 62
+After addition, node 3's amount = 67
+After addition, node 4's amount = 58
+Balace at 7 after sent to 3= 48
+Balace at 3 after sent to 4= 54
+Balace at 8 after sent to 7= 30
+4 sent 11 to node 3
+After addition, node 3's amount = 65
+Balace at 4 after sent to 3= 47
+6 sent 4 to node 5
+After addition, node 5's amount = 22
+Balace at 6 after sent to 5= 6
+2 sent 12 to node 4
+After addition, node 4's amount = 59
+Balace at 2 after sent to 4= 43
+5 sent 3 to node 1
+After addition, node 1's amount = 1730
+Balace at 5 after sent to 1= 19
+3 sent 6 to node 4
+7 sent 23 to node 8
+8 sent 2 to node 5
+After addition, node 4's amount = 65
+After addition, node 8's amount = 53
+Balace at 3 after sent to 4= 59
+Balace at 7 after sent to 8= 25
+After addition, node 5's amount = 21
+Balace at 8 after sent to 5= 51
+4 sent 21 to node 7
+After addition, node 7's amount = 46
+Balace at 4 after sent to 7= 44
+6 sent 2 to node 7
+After addition, node 7's amount = 48
+Balace at 6 after sent to 7= 4
+2 sent 13 to node 3
+After addition, node 3's amount = 72
+Balace at 2 after sent to 3= 30
+5 sent 8 to node 4
+After addition, node 4's amount = 52
+Balace at 5 after sent to 4= 13
+7 sent 14 to node 6
+3 sent 30 to node 2
+After addition, node 6's amount = 18
+After addition, node 2's amount = 60
+Balace at 3 after sent to 2= 42
+Balace at 7 after sent to 6= 34
+8 sent 20 to node 3
+After addition, node 3's amount = 62
+Balace at 8 after sent to 3= 31
+4 sent 14 to node 5
+After addition, node 5's amount = 27
+Balace at 4 after sent to 5= 38
+6 sent 2 to node 8
+After addition, node 8's amount = 33
+Balace at 6 after sent to 8= 16
+2 sent 14 to node 5
+After addition, node 5's amount = 41
+Balace at 2 after sent to 5= 46
+5 sent 1 to node 8
+After addition, node 8's amount = 34
+Balace at 5 after sent to 8= 40
+7 sent 4 to node 1
+3 sent 29 to node 6
+After addition, node 6's amount = 45
+After addition, node 1's amount = 1734
+Balace at 3 after sent to 6= 33
+Balace at 7 after sent to 1= 30
+8 sent 4 to node 2
+After addition, node 2's amount = 50
+Balace at 8 after sent to 2= 30
+4 sent 5 to node 5
+After addition, node 5's amount = 45
+Balace at 4 after sent to 5= 33
+6 sent 6 to node 5
+2 sent 9 to node 1
+After addition, node 5's amount = 51
+After addition, node 1's amount = 1743
+Balace at 6 after sent to 5= 39
+Balace at 2 after sent to 1= 41
+5 sent 10 to node 8
+After addition, node 8's amount = 40
+Balace at 5 after sent to 8= 41
+8 sent 1 to node 5
+7 sent 6 to node 8
+3 sent 11 to node 6
+After addition, node 5's amount = 42
+After addition, node 8's amount = 46
+After addition, node 6's amount = 50
+Balace at 8 after sent to 5= 45
+Balace at 7 after sent to 8= 24
+Balace at 3 after sent to 6= 22
+4 sent 6 to node 3
+After addition, node 3's amount = 28
+Balace at 4 after sent to 3= 27
+2 sent 3 to node 3
+6 sent 21 to node 7
+After addition, node 3's amount = 31
+After addition, node 7's amount = 45
+Balace at 2 after sent to 3= 38
+Balace at 6 after sent to 7= 29
+5 sent 16 to node 7
+After addition, node 7's amount = 61
+Balace at 5 after sent to 7= 26
+7 sent 5 to node 8
+8 sent 15 to node 5
+After addition, node 8's amount = 50
+After addition, node 5's amount = 41
+Balace at 7 after sent to 8= 56
+Balace at 8 after sent to 5= 35
+3 sent 7 to node 8
+After addition, node 8's amount = 42
+Balace at 3 after sent to 8= 24
+4 sent 1 to node 7
+After addition, node 7's amount = 57
+Balace at 4 after sent to 7= 26
+2 sent 13 to node 4
+6 sent 9 to node 7
+After addition, node 4's amount = 39
+After addition, node 7's amount = 66
+Balace at 6 after sent to 7= 20
+Balace at 2 after sent to 4= 25
+5 sent 12 to node 7
+After addition, node 7's amount = 78
+Balace at 5 after sent to 7= 29
+7 sent 13 to node 3
+8 sent 16 to node 7
+After addition, node 3's amount = 37
+After addition, node 7's amount = 94
+Balace at 7 after sent to 3= 81
+Balace at 8 after sent to 7= 26
+3 sent 4 to node 1
+After addition, node 1's amount = 1747
+Balace at 3 after sent to 1= 33
+4 sent 13 to node 3
+After addition, node 3's amount = 46
+Balace at 4 after sent to 3= 26
+2 sent 5 to node 4
+6 sent 7 to node 2
+After addition, node 4's amount = 31
+After addition, node 2's amount = 32
+Balace at 2 after sent to 4= 27
+Balace at 6 after sent to 2= 13
+5 sent 6 to node 1
+After addition, node 1's amount = 1753
+Balace at 5 after sent to 1= 23
+8 sent 1 to node 7
+7 sent 12 to node 3
+After addition, node 3's amount = 58
+After addition, node 7's amount = 82
+Balace at 7 after sent to 3= 70
+3 sent 2 to node 6
+Balace at 8 after sent to 7= 25
+After addition, node 6's amount = 15
+Balace at 3 after sent to 6= 56
+4 sent 14 to node 2
+After addition, node 2's amount = 41
+Balace at 4 after sent to 2= 17
+2 sent 13 to node 3
+6 sent 3 to node 2
+After addition, node 3's amount = 69
+After addition, node 2's amount = 44
+Balace at 2 after sent to 3= 31
+Balace at 6 after sent to 2= 12
+5 sent 10 to node 1
+After addition, node 1's amount = 1763
+Balace at 5 after sent to 1= 13
+8 sent 8 to node 3
+7 sent 20 to node 6
+After addition, node 3's amount = 77
+After addition, node 6's amount = 32
+3 sent 26 to node 8
+Balace at 8 after sent to 3= 17
+Balace at 7 after sent to 6= 50
+After addition, node 8's amount = 43
+Balace at 3 after sent to 8= 51
+4 sent 1 to node 2
+After addition, node 2's amount = 32
+Balace at 4 after sent to 2= 16
+6 sent 9 to node 8
+2 sent 7 to node 5
+After addition, node 8's amount = 52
+After addition, node 5's amount = 20
+Balace at 6 after sent to 8= 23
+Balace at 2 after sent to 5= 25
+5 sent 8 to node 7
+After addition, node 7's amount = 58
+Balace at 5 after sent to 7= 12
+3 sent 5 to node 1
+7 sent 27 to node 6
+8 sent 12 to node 3
+After addition, node 1's amount = 1768
+After addition, node 6's amount = 50
+Balace at 3 after sent to 1= 46
+After addition, node 3's amount = 58
+Balace at 7 after sent to 6= 31
+Balace at 8 after sent to 3= 40
+4 sent 7 to node 5
+After addition, node 5's amount = 19
+Balace at 4 after sent to 5= 9
+2 sent 10 to node 3
+6 sent 20 to node 7
+After addition, node 3's amount = 68
+After addition, node 7's amount = 51
+Balace at 2 after sent to 3= 15
+5 sent 1 to node 4
+Balace at 6 after sent to 7= 30
+After addition, node 4's amount = 10
+Balace at 5 after sent to 4= 18
+3 sent 22 to node 8
+8 sent 10 to node 7
+7 sent 5 to node 3
+After addition, node 8's amount = 62
+After addition, node 7's amount = 61
+After addition, node 3's amount = 73
+Balace at 3 after sent to 8= 51
+Balace at 8 after sent to 7= 52
+Balace at 7 after sent to 3= 56
+4 sent 3 to node 5
+After addition, node 5's amount = 21
+Balace at 4 after sent to 5= 7
+6 sent 13 to node 7
+2 sent 5 to node 3
+After addition, node 7's amount = 69
+After addition, node 3's amount = 56
+Balace at 6 after sent to 7= 17
+Balace at 2 after sent to 3= 10
+5 sent 4 to node 7
+After addition, node 7's amount = 73
+Balace at 5 after sent to 7= 17
+3 sent 11 to node 1
+7 sent 12 to node 8
+8 sent 18 to node 5
+After addition, node 1's amount = 1779
+After addition, node 8's amount = 64
+After addition, node 5's amount = 35
+Balace at 3 after sent to 1= 45
+Balace at 7 after sent to 8= 61
+Balace at 8 after sent to 5= 46
+4 sent 1 to node 2
+After addition, node 2's amount = 11
+Balace at 4 after sent to 2= 6
+6 sent 6 to node 5
 2 sent 4 to node 3
-after addition, node 3's amount = 18
-At 2 after sent to 3 9
+After addition, node 3's amount = 49
+After addition, node 5's amount = 41
+Balace at 2 after sent to 3= 7
+Balace at 6 after sent to 5= 11
+5 sent 7 to node 7
+After addition, node 7's amount = 68
+Balace at 5 after sent to 7= 34
+3 sent 20 to node 1
+7 sent 13 to node 8
+8 sent 12 to node 5
+After addition, node 8's amount = 59
+After addition, node 5's amount = 46
+After addition, node 1's amount = 1799
+Balace at 7 after sent to 8= 55
+Balace at 8 after sent to 5= 47
+Balace at 3 after sent to 1= 29
+4 sent 1 to node 7
+After addition, node 7's amount = 56
+Balace at 4 after sent to 7= 5
+6 sent 4 to node 2
+2 sent 2 to node 4
+After addition, node 4's amount = 7
+After addition, node 2's amount = 11
+Balace at 6 after sent to 2= 7
+Balace at 2 after sent to 4= 9
+5 sent 10 to node 8
+After addition, node 8's amount = 57
+Balace at 5 after sent to 8= 36
+3 sent 13 to node 2
+7 sent 19 to node 1
+8 sent 19 to node 2
+After addition, node 1's amount = 1818
+After addition, node 2's amount = 22
+After addition, node 2's amount = 41
+Balace at 7 after sent to 1= 37
+Balace at 3 after sent to 2= 16
+Balace at 8 after sent to 2= 38
+4 sent 1 to node 2
+After addition, node 2's amount = 42
+Balace at 4 after sent to 2= 6
+2 sent 14 to node 1
+6 sent 2 to node 2
+After addition, node 2's amount = 44
+After addition, node 1's amount = 1832
+Balace at 6 after sent to 2= 5
+Balace at 2 after sent to 1= 30
+5 sent 4 to node 1
+After addition, node 1's amount = 1836
+Balace at 5 after sent to 1= 32
+8 sent 11 to node 7
+3 sent 2 to node 4
+7 sent 14 to node 3
+After addition, node 4's amount = 8
+After addition, node 3's amount = 30
+After addition, node 7's amount = 48
+Balace at 8 after sent to 7= 27
+Balace at 3 after sent to 4= 28
+Balace at 7 after sent to 3= 34
+4 sent 2 to node 7
+After addition, node 7's amount = 36
+Balace at 4 after sent to 7= 6
+2 sent 7 to node 4
+6 sent 1 to node 7
+After addition, node 7's amount = 37
+After addition, node 4's amount = 13
+Balace at 6 after sent to 7= 4
+Balace at 2 after sent to 4= 23
+5 sent 2 to node 1
+After addition, node 1's amount = 1838
+Balace at 5 after sent to 1= 30
+7 sent 15 to node 8
+3 sent 12 to node 2
+8 sent 6 to node 5
+After addition, node 2's amount = 35
+After addition, node 8's amount = 42
+After addition, node 5's amount = 36
+Balace at 3 after sent to 2= 16
+Balace at 8 after sent to 5= 36
+Balace at 7 after sent to 8= 22
+4 sent 3 to node 5
+After addition, node 5's amount = 39
+Balace at 4 after sent to 5= 10
+6 sent 4 to node 5
+2 sent 12 to node 5
+After addition, node 5's amount = 43
+After addition, node 5's amount = 55
+Balace at 6 after sent to 5= 0
+5 sent 12 to node 8
+Balace at 2 after sent to 5= 23
+After addition, node 8's amount = 48
+Balace at 5 after sent to 8= 43
+3 sent 2 to node 8
+After addition, node 8's amount = 50
+Balace at 3 after sent to 8= 14
+7 sent 6 to node 1
+8 sent 23 to node 2
+After addition, node 2's amount = 46
+After addition, node 1's amount = 1844
+Balace at 8 after sent to 2= 27
+Balace at 7 after sent to 1= 16
+4 sent 3 to node 2
+After addition, node 2's amount = 49
+Balace at 4 after sent to 2= 7
+balance is zero at node 6
+2 sent 21 to node 7
+After addition, node 7's amount = 37
+Balace at 2 after sent to 7= 28
+5 sent 7 to node 4
+After addition, node 4's amount = 14
+Balace at 5 after sent to 4= 36
+3 sent 2 to node 6
+After addition, node 6's amount = 2
+Balace at 3 after sent to 6= 12
+7 sent 4 to node 8
+8 sent 7 to node 5
+After addition, node 8's amount = 31
+After addition, node 5's amount = 43
+Balace at 7 after sent to 8= 33
+Balace at 8 after sent to 5= 24
+4 sent 2 to node 5
+After addition, node 5's amount = 45
+Balace at 4 after sent to 5= 12
+6 sent 2 to node 8
+After addition, node 8's amount = 26
+Balace at 6 after sent to 8= 0
+2 sent 7 to node 1
+After addition, node 1's amount = 1851
+Balace at 2 after sent to 1= 21
+5 sent 7 to node 8
+After addition, node 8's amount = 33
+Balace at 5 after sent to 8= 38
+3 sent 4 to node 6
+After addition, node 6's amount = 4
+Balace at 3 after sent to 6= 8
+7 sent 8 to node 6
+After addition, node 6's amount = 12
+Balace at 7 after sent to 6= 25
+8 sent 8 to node 3
+After addition, node 3's amount = 16
+Balace at 8 after sent to 3= 25
+4 sent 1 to node 3
+After addition, node 3's amount = 17
+Balace at 4 after sent to 3= 11
+6 sent 4 to node 7
+After addition, node 7's amount = 29
+Balace at 6 after sent to 7= 8
+2 sent 3 to node 5
+After addition, node 5's amount = 41
+Balace at 2 after sent to 5= 18
+5 sent 2 to node 4
+After addition, node 4's amount = 13
+Balace at 5 after sent to 4= 39
+3 sent 4 to node 8
+After addition, node 8's amount = 29
+Balace at 3 after sent to 8= 13
+7 sent 12 to node 6
+After addition, node 6's amount = 20
+Balace at 7 after sent to 6= 17
+8 sent 12 to node 3
+After addition, node 3's amount = 25
+Balace at 8 after sent to 3= 17
+4 sent 1 to node 5
+After addition, node 5's amount = 40
+Balace at 4 after sent to 5= 12
+6 sent 6 to node 8
+After addition, node 8's amount = 23
+Balace at 6 after sent to 8= 14
+2 sent 6 to node 1
+After addition, node 1's amount = 1857
+Balace at 2 after sent to 1= 12
+5 sent 11 to node 4
+After addition, node 4's amount = 23
+Balace at 5 after sent to 4= 29
+3 sent 8 to node 2
+After addition, node 2's amount = 20
+Balace at 3 after sent to 2= 17
+7 sent 4 to node 3
+After addition, node 3's amount = 21
+Balace at 7 after sent to 3= 13
+8 sent 10 to node 7
+After addition, node 7's amount = 23
+Balace at 8 after sent to 7= 13
+4 sent 9 to node 2
+After addition, node 2's amount = 29
+Balace at 4 after sent to 2= 14
+6 sent 5 to node 8
+After addition, node 8's amount = 18
+2 sent 3 to node 3
+5 sent 1 to node 8
+Balace at 6 after sent to 8= 9
+After addition, node 3's amount = 24
+After addition, node 8's amount = 19
+Balace at 2 after sent to 3= 26
+Balace at 5 after sent to 8= 28
+3 sent 2 to node 4
+After addition, node 4's amount = 16
+Balace at 3 after sent to 4= 22
+7 sent 9 to node 8
+After addition, node 8's amount = 28
+Balace at 7 after sent to 8= 14
+8 sent 12 to node 5
+After addition, node 5's amount = 40
+Balace at 8 after sent to 5= 16
+4 sent 7 to node 2
+After addition, node 2's amount = 33
+Balace at 4 after sent to 2= 9
+6 sent 2 to node 2
+5 sent 6 to node 7
+2 sent 9 to node 1
+After addition, node 2's amount = 35
+After addition, node 7's amount = 20
+After addition, node 1's amount = 1866
+Balace at 6 after sent to 2= 7
+Balace at 5 after sent to 7= 34
+Balace at 2 after sent to 1= 26
+3 sent 4 to node 4
+After addition, node 4's amount = 13
+Balace at 3 after sent to 4= 18
+7 sent 1 to node 8
+8 sent 6 to node 7
+After addition, node 8's amount = 17
+After addition, node 7's amount = 26
+Balace at 7 after sent to 8= 25
+Balace at 8 after sent to 7= 11
+4 sent 5 to node 5
+After addition, node 5's amount = 39
+Balace at 4 after sent to 5= 8
+2 sent 6 to node 1
+5 sent 11 to node 8
+6 sent 1 to node 5
+After addition, node 1's amount = 1872
+After addition, node 8's amount = 22
+3 sent 1 to node 1
+After addition, node 5's amount = 40
+After addition, node 1's amount = 1873
+Balace at 2 after sent to 1= 20
+Balace at 5 after sent to 8= 29
+Balace at 6 after sent to 5= 6
+Balace at 3 after sent to 1= 17
+8 sent 4 to node 3
+7 sent 10 to node 3
+After addition, node 3's amount = 27
+After addition, node 3's amount = 31
+Balace at 7 after sent to 3= 15
+Balace at 8 after sent to 3= 18
+4 sent 2 to node 7
+After addition, node 7's amount = 17
+Balace at 4 after sent to 7= 6
+2 sent 6 to node 3
+5 sent 1 to node 8
+After addition, node 8's amount = 19
+After addition, node 3's amount = 37
+Balace at 2 after sent to 3= 14
+Balace at 5 after sent to 8= 28
+3 sent 8 to node 1
+6 sent 2 to node 7
+After addition, node 1's amount = 1881
+After addition, node 7's amount = 19
+Balace at 3 after sent to 1= 29
+Balace at 6 after sent to 7= 4
+8 sent 1 to node 2
+7 sent 8 to node 8
+After addition, node 2's amount = 15
+After addition, node 8's amount = 27
+Balace at 7 after sent to 8= 11
+Balace at 8 after sent to 2= 26
+4 sent 2 to node 5
+After addition, node 5's amount = 30
+Balace at 4 after sent to 5= 4
+2 sent 1 to node 3
+5 sent 11 to node 1
+After addition, node 3's amount = 30
+After addition, node 1's amount = 1892
+Balace at 2 after sent to 3= 14
+Balace at 5 after sent to 1= 19
+6 sent 4 to node 2
+3 sent 13 to node 8
+After addition, node 2's amount = 18
+After addition, node 8's amount = 39
+Balace at 6 after sent to 2= 0
+Balace at 3 after sent to 8= 17
+7 sent 3 to node 8
+8 sent 11 to node 5
+After addition, node 8's amount = 42
+After addition, node 5's amount = 30
+Balace at 8 after sent to 5= 31
+Balace at 7 after sent to 8= 8
+4 sent 4 to node 5
+After addition, node 5's amount = 34
+Balace at 4 after sent to 5= 0
+5 sent 2 to node 1
+2 sent 1 to node 5
+After addition, node 5's amount = 35
+After addition, node 1's amount = 1894
+Balace at 2 after sent to 5= 17
+Balace at 5 after sent to 1= 33
 balance is zero at node 6
 3 sent 7 to node 1
-after addition, node 1's amount = 1962
-At 3 after sent to 1 11
-7 sent 4 to node 6
-after addition, node 6's amount = 4
-At 7 after sent to 6 10
-8 sent 4 to node 7
-after addition, node 7's amount = 14
-At 8 after sent to 7 0
-balance is zero at node 5
+After addition, node 1's amount = 1901
+Balace at 3 after sent to 1= 10
+8 sent 13 to node 5
+7 sent 3 to node 6
+After addition, node 5's amount = 46
+After addition, node 6's amount = 3
+Balace at 8 after sent to 5= 18
+Balace at 7 after sent to 6= 5
 balance is zero at node 4
-2 sent 2 to node 4
-after addition, node 4's amount = 2
-At 2 after sent to 4 7
-6 sent 4 to node 7
-after addition, node 7's amount = 18
-At 6 after sent to 7 0
+2 sent 7 to node 3
+5 sent 18 to node 8
+After addition, node 3's amount = 17
+After addition, node 8's amount = 36
+Balace at 2 after sent to 3= 10
+Balace at 5 after sent to 8= 28
+6 sent 3 to node 5
+3 sent 4 to node 6
+After addition, node 5's amount = 31
+After addition, node 6's amount = 7
+Balace at 6 after sent to 5= 4
+Balace at 3 after sent to 6= 13
+8 sent 11 to node 3
+7 sent 1 to node 6
+After addition, node 6's amount = 5
+After addition, node 3's amount = 24
+Balace at 7 after sent to 6= 4
+Balace at 8 after sent to 3= 25
+balance is zero at node 4
+5 sent 2 to node 7
+2 sent 4 to node 7
+After addition, node 7's amount = 6
+After addition, node 7's amount = 10
+Balace at 5 after sent to 7= 29
+Balace at 2 after sent to 7= 6
 3 sent 4 to node 8
-after addition, node 8's amount = 4
-At 3 after sent to 8 7
-7 sent 4 to node 1
-after addition, node 1's amount = 1966
-At 7 after sent to 1 14
-8 sent 4 to node 3
-after addition, node 3's amount = 11
-At 8 after sent to 3 0
-balance is zero at node 5
-4 sent 2 to node 5
-after addition, node 5's amount = 2
-At 4 after sent to 5 0
-2 sent 1 to node 4
-after addition, node 4's amount = 1
-At 2 after sent to 4 6
-balance is zero at node 6
-3 sent 2 to node 6
-after addition, node 6's amount = 2
-At 3 after sent to 6 9
-7 sent 2 to node 6
-after addition, node 6's amount = 4
-At 7 after sent to 6 12
-balance is zero at node 8
-5 sent 2 to node 4
-after addition, node 4's amount = 3
-At 5 after sent to 4 0
-4 sent 3 to node 3
-after addition, node 3's amount = 12
-At 4 after sent to 3 0
-2 sent 2 to node 1
-after addition, node 1's amount = 1968
-At 2 after sent to 1 4
-6 sent 4 to node 8
-after addition, node 8's amount = 4
-At 6 after sent to 8 0
-3 sent 4 to node 1
-after addition, node 1's amount = 1972
-At 3 after sent to 1 8
-7 sent 4 to node 1
-after addition, node 1's amount = 1976
-At 7 after sent to 1 8
-8 sent 4 to node 5
-after addition, node 5's amount = 4
-At 8 after sent to 5 0
-5 sent 4 to node 7
-after addition, node 7's amount = 12
-At 5 after sent to 7 0
-balance is zero at node 4
-2 sent 4 to node 1
-after addition, node 1's amount = 1980
-At 2 after sent to 1 0
-balance is zero at node 6
-3 sent 2 to node 2
-after addition, node 2's amount = 2
-At 3 after sent to 2 6
-7 sent 1 to node 3
-after addition, node 3's amount = 7
-At 7 after sent to 3 11
-balance is zero at node 8
-balance is zero at node 5
-balance is zero at node 4
-2 sent 2 to node 1
-after addition, node 1's amount = 1982
-At 2 after sent to 1 0
-balance is zero at node 6
-3 sent 1 to node 2
-after addition, node 2's amount = 1
-At 3 after sent to 2 6
-balance is zero at node 8
-7 sent 1 to node 3
-after addition, node 3's amount = 7
-At 7 after sent to 3 10
-balance is zero at node 5
+6 sent 1 to node 5
+After addition, node 5's amount = 30
+After addition, node 8's amount = 29
+Balace at 6 after sent to 5= 4
+Balace at 3 after sent to 8= 20
+7 sent 3 to node 3
+8 sent 8 to node 3
+After addition, node 3's amount = 23
+Balace at 7 after sent to 3= 7
+After addition, node 3's amount = 31
+Balace at 8 after sent to 3= 21
 balance is zero at node 4
 2 sent 1 to node 5
-after addition, node 5's amount = 1
-At 2 after sent to 5 0
-balance is zero at node 6
+5 sent 14 to node 4
+After addition, node 5's amount = 31
+After addition, node 4's amount = 14
+Balace at 2 after sent to 5= 5
+Balace at 5 after sent to 4= 17
+6 sent 4 to node 8
 3 sent 2 to node 4
-after addition, node 4's amount = 2
-At 3 after sent to 4 5
-7 sent 4 to node 3
-balance is zero at node 8
-after addition, node 3's amount = 9
-At 7 after sent to 3 6
-4 sent 2 to node 2
-5 sent 1 to node 8
-after addition, node 8's amount = 1
-after addition, node 2's amount = 2
-At 5 after sent to 8 0
-At 4 after sent to 2 0
-2 sent 2 to node 4
-after addition, node 4's amount = 2
-At 2 after sent to 4 0
-balance is zero at node 6
-3 sent 2 to node 4
-after addition, node 4's amount = 4
-At 3 after sent to 4 7
-8 sent 1 to node 2
-7 sent 2 to node 8
-after addition, node 2's amount = 1
-after addition, node 8's amount = 3
-At 8 after sent to 2 2
-4 sent 4 to node 3
-balance is zero at node 5
-At 7 after sent to 8 4
-after addition, node 3's amount = 11
-At 4 after sent to 3 0
-2 sent 1 to node 7
-after addition, node 7's amount = 5
-At 2 after sent to 7 0
-balance is zero at node 6
-3 sent 4 to node 2
-after addition, node 2's amount = 4
-At 3 after sent to 2 7
+After addition, node 8's amount = 25
+After addition, node 4's amount = 16
+Balace at 6 after sent to 8= 0
+Balace at 3 after sent to 4= 29
+8 sent 4 to node 5
 7 sent 1 to node 1
-balance is zero at node 5
-8 sent 2 to node 5
-after addition, node 1's amount = 1983
-after addition, node 5's amount = 2
-balance is zero at node 4
-At 8 after sent to 5 0
-At 7 after sent to 1 4
-2 sent 4 to node 7
-after addition, node 7's amount = 8
-At 2 after sent to 7 0
+After addition, node 5's amount = 21
+After addition, node 1's amount = 1902
+Balace at 8 after sent to 5= 21
+Balace at 7 after sent to 1= 6
+4 sent 1 to node 3
+After addition, node 3's amount = 30
+Balace at 4 after sent to 3= 15
+5 sent 3 to node 8
+2 sent 1 to node 1
+After addition, node 1's amount = 1903
+After addition, node 8's amount = 24
+Balace at 5 after sent to 8= 18
+Balace at 2 after sent to 1= 4
 balance is zero at node 6
-3 sent 2 to node 6
-after addition, node 6's amount = 2
-At 3 after sent to 6 5
-5 sent 2 to node 7
-balance is zero at node 4
-7 sent 3 to node 6
-balance is zero at node 8
-after addition, node 7's amount = 10
-after addition, node 6's amount = 5
-At 5 after sent to 7 0
-At 7 after sent to 6 7
-balance is zero at node 2
-6 sent 1 to node 8
-after addition, node 8's amount = 1
-At 6 after sent to 8 4
-3 sent 1 to node 6
-after addition, node 6's amount = 5
-At 3 after sent to 6 4
-balance is zero at node 4
-8 sent 1 to node 3
-after addition, node 3's amount = 5
+3 sent 14 to node 8
+After addition, node 8's amount = 38
+Balace at 3 after sent to 8= 16
+8 sent 15 to node 7
 7 sent 1 to node 3
-balance is zero at node 5
-At 8 after sent to 3 0
-after addition, node 3's amount = 6
-At 7 after sent to 3 6
-balance is zero at node 2
-6 sent 1 to node 5
-after addition, node 5's amount = 1
-At 6 after sent to 5 4
-3 sent 1 to node 4
-after addition, node 4's amount = 1
-At 3 after sent to 4 5
-4 sent 1 to node 7
-after addition, node 7's amount = 7
-At 4 after sent to 7 0
-5 sent 1 to node 7
-after addition, node 7's amount = 8
-At 5 after sent to 7 0
-balance is zero at node 8
-7 sent 3 to node 6
-after addition, node 6's amount = 7
-At 7 after sent to 6 5
-balance is zero at node 2
-6 sent 1 to node 8
-after addition, node 8's amount = 1
-At 6 after sent to 8 6
-3 sent 1 to node 6
-after addition, node 6's amount = 7
-At 3 after sent to 6 4
-balance is zero at node 4
-balance is zero at node 5
-8 sent 1 to node 3
+After addition, node 3's amount = 17
+After addition, node 7's amount = 21
+Balace at 8 after sent to 7= 23
+Balace at 7 after sent to 3= 20
+4 sent 6 to node 7
+After addition, node 7's amount = 26
+Balace at 4 after sent to 7= 9
+2 sent 4 to node 5
+5 sent 8 to node 8
+After addition, node 8's amount = 31
+After addition, node 5's amount = 22
+Balace at 2 after sent to 5= 0
+Balace at 5 after sent to 8= 14
+balance is zero at node 6
+3 sent 3 to node 8
+After addition, node 8's amount = 34
+Balace at 3 after sent to 8= 14
+8 sent 13 to node 2
 7 sent 1 to node 8
-after addition, node 3's amount = 5
-after addition, node 8's amount = 2
-At 8 after sent to 3 1
-At 7 after sent to 8 4
-balance is zero at node 2
-6 sent 2 to node 5
-after addition, node 5's amount = 2
-At 6 after sent to 5 5
-3 sent 1 to node 1
-after addition, node 1's amount = 1984
-At 3 after sent to 1 4
-5 sent 2 to node 4
-balance is zero at node 4
-after addition, node 4's amount = 2
-At 5 after sent to 4 0
-7 sent 4 to node 8
-8 sent 1 to node 2
-after addition, node 8's amount = 5
-after addition, node 2's amount = 1
-At 7 after sent to 8 0
-At 8 after sent to 2 4
-2 sent 1 to node 4
-after addition, node 4's amount = 3
-At 2 after sent to 4 0
-6 sent 1 to node 8
-after addition, node 8's amount = 5
-At 6 after sent to 8 4
-3 sent 4 to node 1
-after addition, node 1's amount = 1988
-At 3 after sent to 1 0
+After addition, node 2's amount = 13
+After addition, node 8's amount = 35
+Balace at 7 after sent to 8= 25
+Balace at 8 after sent to 2= 22
+4 sent 2 to node 2
+After addition, node 2's amount = 15
+Balace at 4 after sent to 2= 7
+5 sent 5 to node 4
+2 sent 5 to node 7
+After addition, node 4's amount = 12
+After addition, node 7's amount = 30
+Balace at 2 after sent to 7= 10
+Balace at 5 after sent to 4= 9
+balance is zero at node 6
+3 sent 5 to node 2
+After addition, node 2's amount = 15
+Balace at 3 after sent to 2= 9
+8 sent 8 to node 5
+7 sent 9 to node 1
+After addition, node 5's amount = 17
+After addition, node 1's amount = 1912
+Balace at 8 after sent to 5= 14
+Balace at 7 after sent to 1= 21
 4 sent 3 to node 2
-after addition, node 2's amount = 3
-balance is zero at node 5
-At 4 after sent to 2 0
-8 sent 1 to node 2
-balance is zero at node 7
-after addition, node 2's amount = 4
-At 8 after sent to 2 4
-2 sent 4 to node 7
-after addition, node 7's amount = 4
-At 2 after sent to 7 0
-6 sent 4 to node 7
-after addition, node 7's amount = 8
-At 6 after sent to 7 0
-balance is zero at node 3
-balance is zero at node 5
-balance is zero at node 4
-7 sent 3 to node 3
-8 sent 4 to node 7
-after addition, node 3's amount = 3
-At 7 after sent to 3 5
-after addition, node 7's amount = 9
-At 8 after sent to 7 0
-balance is zero at node 2
+After addition, node 2's amount = 18
+Balace at 4 after sent to 2= 9
+5 sent 2 to node 1
+2 sent 8 to node 4
+After addition, node 4's amount = 17
+After addition, node 1's amount = 1914
+Balace at 2 after sent to 4= 10
+Balace at 5 after sent to 1= 15
 balance is zero at node 6
-3 sent 3 to node 6
-after addition, node 6's amount = 3
-At 3 after sent to 6 0
-balance is zero at node 4
-balance is zero at node 5
-7 sent 1 to node 8
-after addition, node 8's amount = 1
-At 7 after sent to 8 8
-8 sent 1 to node 7
-after addition, node 7's amount = 9
-At 8 after sent to 7 0
-balance is zero at node 2
-6 sent 3 to node 2
-after addition, node 2's amount = 3
-At 6 after sent to 2 0
-balance is zero at node 3
-balance is zero at node 5
-balance is zero at node 4
-7 sent 3 to node 1
-after addition, node 1's amount = 1991
-balance is zero at node 8
-At 7 after sent to 1 6
-2 sent 3 to node 1
-after addition, node 1's amount = 1994
-At 2 after sent to 1 0
-balance is zero at node 6
-balance is zero at node 3
-balance is zero at node 4
-balance is zero at node 5
-7 sent 1 to node 6
-balance is zero at node 8
-after addition, node 6's amount = 1
-At 7 after sent to 6 5
-balance is zero at node 2
-6 sent 1 to node 8
-after addition, node 8's amount = 1
-At 6 after sent to 8 0
-balance is zero at node 3
-balance is zero at node 4
-balance is zero at node 5
-8 sent 1 to node 7
-after addition, node 7's amount = 6
-7 sent 2 to node 8
-At 8 after sent to 7 0
-after addition, node 8's amount = 2
-At 7 after sent to 8 4
-balance is zero at node 2
-balance is zero at node 6
-balance is zero at node 3
-balance is zero at node 4
-balance is zero at node 5
+3 sent 1 to node 1
+After addition, node 1's amount = 1915
+Balace at 3 after sent to 1= 8
 7 sent 4 to node 1
-8 sent 2 to node 7
-after addition, node 1's amount = 1998
-after addition, node 7's amount = 6
-At 7 after sent to 1 2
-At 8 after sent to 7 0
-balance is zero at node 2
+8 sent 5 to node 5
+After addition, node 5's amount = 20
+After addition, node 1's amount = 1919
+Balace at 8 after sent to 5= 9
+Balace at 7 after sent to 1= 17
+4 sent 6 to node 7
+After addition, node 7's amount = 23
+Balace at 4 after sent to 7= 11
+5 sent 1 to node 1
+2 sent 4 to node 4
+After addition, node 1's amount = 1920
+After addition, node 4's amount = 15
+Balace at 5 after sent to 1= 19
+Balace at 2 after sent to 4= 6
 balance is zero at node 6
-balance is zero at node 3
-balance is zero at node 4
-balance is zero at node 5
-balance is zero at node 8
-7 sent 2 to node 6
-after addition, node 6's amount = 2
-At 7 after sent to 6 0
-balance is zero at node 2
-6 sent 2 to node 5
-after addition, node 5's amount = 2
-At 6 after sent to 5 0
-balance is zero at node 3
-balance is zero at node 4
-5 sent 2 to node 7
-after addition, node 7's amount = 2
-At 5 after sent to 7 0
-balance is zero at node 8
+3 sent 2 to node 8
+After addition, node 8's amount = 11
+Balace at 3 after sent to 8= 6
+8 sent 4 to node 2
+After addition, node 2's amount = 10
+Balace at 8 after sent to 2= 7
+7 sent 4 to node 6
+After addition, node 6's amount = 4
+Balace at 7 after sent to 6= 19
+4 sent 5 to node 7
+After addition, node 7's amount = 24
+Balace at 4 after sent to 7= 10
+2 sent 4 to node 5
+5 sent 3 to node 1
+After addition, node 5's amount = 23
+After addition, node 1's amount = 1923
+Balace at 2 after sent to 5= 6
+6 sent 4 to node 2
+Balace at 5 after sent to 1= 20
+After addition, node 2's amount = 10
+Balace at 6 after sent to 2= 0
+3 sent 2 to node 4
+After addition, node 4's amount = 12
+Balace at 3 after sent to 4= 4
+8 sent 2 to node 2
+After addition, node 2's amount = 12
+Balace at 8 after sent to 2= 5
 7 sent 2 to node 3
-after addition, node 3's amount = 2
-At 7 after sent to 3 0
-balance is zero at node 2
+After addition, node 3's amount = 6
+Balace at 7 after sent to 3= 22
+4 sent 3 to node 2
+After addition, node 2's amount = 15
+Balace at 4 after sent to 2= 9
+2 sent 6 to node 1
+5 sent 3 to node 8
+After addition, node 8's amount = 8
+After addition, node 1's amount = 1929
+Balace at 5 after sent to 8= 17
+Balace at 2 after sent to 1= 9
 balance is zero at node 6
+3 sent 2 to node 4
+After addition, node 4's amount = 11
+Balace at 3 after sent to 4= 4
+8 sent 3 to node 3
+After addition, node 3's amount = 7
+Balace at 8 after sent to 3= 5
+7 sent 6 to node 6
+After addition, node 6's amount = 6
+Balace at 7 after sent to 6= 16
+4 sent 4 to node 2
+After addition, node 2's amount = 13
+Balace at 4 after sent to 2= 7
+5 sent 5 to node 7
+2 sent 3 to node 1
+6 sent 2 to node 8
+After addition, node 1's amount = 1932
+After addition, node 7's amount = 21
+After addition, node 8's amount = 7
+Balace at 2 after sent to 1= 10
+Balace at 6 after sent to 8= 4
+Balace at 5 after sent to 7= 12
+3 sent 1 to node 8
+After addition, node 8's amount = 8
+Balace at 3 after sent to 8= 6
+8 sent 1 to node 5
+After addition, node 5's amount = 13
+Balace at 8 after sent to 5= 7
+7 sent 5 to node 6
+After addition, node 6's amount = 9
+Balace at 7 after sent to 6= 16
+4 sent 2 to node 3
+After addition, node 3's amount = 8
+Balace at 4 after sent to 3= 5
+2 sent 3 to node 4
+After addition, node 4's amount = 8
+Balace at 2 after sent to 4= 7
+6 sent 3 to node 7
+5 sent 3 to node 7
+After addition, node 7's amount = 19
+After addition, node 7's amount = 22
+Balace at 6 after sent to 7= 6
+Balace at 5 after sent to 7= 10
+3 sent 3 to node 4
+After addition, node 4's amount = 11
+Balace at 3 after sent to 4= 5
+8 sent 2 to node 7
+After addition, node 7's amount = 24
+Balace at 8 after sent to 7= 5
+7 sent 11 to node 6
+After addition, node 6's amount = 17
+Balace at 7 after sent to 6= 13
+4 sent 3 to node 3
+After addition, node 3's amount = 8
+Balace at 4 after sent to 3= 8
+2 sent 2 to node 3
+After addition, node 3's amount = 10
+Balace at 2 after sent to 3= 5
+6 sent 6 to node 2
+5 sent 3 to node 7
+After addition, node 2's amount = 11
+After addition, node 7's amount = 16
+Balace at 6 after sent to 2= 11
+3 sent 1 to node 1
+Balace at 5 after sent to 7= 7
+After addition, node 1's amount = 1933
+Balace at 3 after sent to 1= 9
+8 sent 1 to node 7
+After addition, node 7's amount = 17
+Balace at 8 after sent to 7= 4
+7 sent 6 to node 1
+After addition, node 1's amount = 1939
+Balace at 7 after sent to 1= 11
+4 sent 1 to node 5
+After addition, node 5's amount = 8
+Balace at 4 after sent to 5= 7
+2 sent 1 to node 3
+After addition, node 3's amount = 10
+Balace at 2 after sent to 3= 10
+3 sent 2 to node 8
+5 sent 2 to node 8
+6 sent 2 to node 2
+After addition, node 8's amount = 6
+After addition, node 2's amount = 12
+After addition, node 8's amount = 8
+Balace at 3 after sent to 8= 8
+Balace at 6 after sent to 2= 9
+Balace at 5 after sent to 8= 6
+8 sent 2 to node 7
+After addition, node 7's amount = 13
+Balace at 8 after sent to 7= 6
+7 sent 4 to node 8
+After addition, node 8's amount = 10
+Balace at 7 after sent to 8= 9
+4 sent 2 to node 7
+After addition, node 7's amount = 11
+Balace at 4 after sent to 7= 5
+2 sent 4 to node 5
+After addition, node 5's amount = 10
+Balace at 2 after sent to 5= 8
+5 sent 3 to node 8
+3 sent 2 to node 2
+6 sent 1 to node 7
+After addition, node 2's amount = 10
+After addition, node 8's amount = 13
+After addition, node 7's amount = 12
+Balace at 3 after sent to 2= 6
+Balace at 6 after sent to 7= 8
+Balace at 5 after sent to 8= 7
+8 sent 4 to node 5
+After addition, node 5's amount = 11
+Balace at 8 after sent to 5= 9
+7 sent 2 to node 6
+After addition, node 6's amount = 10
+Balace at 7 after sent to 6= 10
+4 sent 1 to node 7
+After addition, node 7's amount = 11
+Balace at 4 after sent to 7= 4
+2 sent 3 to node 4
+After addition, node 4's amount = 7
+Balace at 2 after sent to 4= 7
+3 sent 1 to node 8
+After addition, node 8's amount = 10
+Balace at 3 after sent to 8= 5
+6 sent 4 to node 5
+5 sent 1 to node 1
+After addition, node 1's amount = 1940
+After addition, node 5's amount = 15
+Balace at 6 after sent to 5= 6
+Balace at 5 after sent to 1= 14
+8 sent 1 to node 3
+After addition, node 3's amount = 6
+Balace at 8 after sent to 3= 9
+7 sent 2 to node 6
+After addition, node 6's amount = 8
+Balace at 7 after sent to 6= 9
+4 sent 1 to node 7
+After addition, node 7's amount = 10
+Balace at 4 after sent to 7= 6
+2 sent 1 to node 5
+After addition, node 5's amount = 15
+Balace at 2 after sent to 5= 6
+3 sent 2 to node 4
+After addition, node 4's amount = 8
+Balace at 3 after sent to 4= 4
+5 sent 3 to node 1
+6 sent 3 to node 8
+After addition, node 1's amount = 1943
+After addition, node 8's amount = 12
+Balace at 6 after sent to 8= 5
+Balace at 5 after sent to 1= 12
+8 sent 4 to node 3
+After addition, node 3's amount = 8
+Balace at 8 after sent to 3= 8
+7 sent 1 to node 8
+After addition, node 8's amount = 9
+Balace at 7 after sent to 8= 9
+4 sent 2 to node 5
+After addition, node 5's amount = 14
+Balace at 4 after sent to 5= 6
+2 sent 2 to node 1
+After addition, node 1's amount = 1945
+Balace at 2 after sent to 1= 4
+3 sent 2 to node 2
+5 sent 3 to node 8
+6 sent 1 to node 8
+8 sent 2 to node 5
+After addition, node 2's amount = 6
+After addition, node 8's amount = 12
+After addition, node 8's amount = 13
+After addition, node 5's amount = 16
+Balace at 3 after sent to 2= 6
+Balace at 5 after sent to 8= 13
+7 sent 1 to node 8
+Balace at 6 after sent to 8= 4
+Balace at 8 after sent to 5= 11
+After addition, node 8's amount = 12
+Balace at 7 after sent to 8= 8
+4 sent 1 to node 5
+After addition, node 5's amount = 14
+Balace at 4 after sent to 5= 5
+2 sent 2 to node 4
+After addition, node 4's amount = 7
+Balace at 2 after sent to 4= 4
+3 sent 2 to node 4
+After addition, node 4's amount = 9
+Balace at 3 after sent to 4= 4
+5 sent 1 to node 8
+After addition, node 8's amount = 13
+Balace at 5 after sent to 8= 13
+8 sent 3 to node 5
+6 sent 4 to node 7
+After addition, node 5's amount = 16
+After addition, node 7's amount = 12
+Balace at 8 after sent to 5= 10
+7 sent 5 to node 1
+Balace at 6 after sent to 7= 0
+After addition, node 1's amount = 1950
+Balace at 7 after sent to 1= 7
+4 sent 2 to node 3
+After addition, node 3's amount = 6
+Balace at 4 after sent to 3= 7
+2 sent 4 to node 1
+After addition, node 1's amount = 1954
+Balace at 2 after sent to 1= 0
+3 sent 1 to node 6
+After addition, node 6's amount = 1
+Balace at 3 after sent to 6= 5
+5 sent 1 to node 4
+After addition, node 4's amount = 8
+Balace at 5 after sent to 4= 15
+8 sent 2 to node 2
+6 sent 1 to node 8
+After addition, node 2's amount = 2
+After addition, node 8's amount = 11
+Balace at 8 after sent to 2= 9
+Balace at 6 after sent to 8= 0
+7 sent 1 to node 6
+After addition, node 6's amount = 1
+Balace at 7 after sent to 6= 6
+4 sent 2 to node 3
+After addition, node 3's amount = 7
+Balace at 4 after sent to 3= 6
+2 sent 2 to node 3
+After addition, node 3's amount = 9
+Balace at 2 after sent to 3= 0
+3 sent 1 to node 2
+After addition, node 2's amount = 1
+Balace at 3 after sent to 2= 8
+5 sent 4 to node 1
+After addition, node 1's amount = 1958
+Balace at 5 after sent to 1= 11
+6 sent 1 to node 2
+7 sent 1 to node 8
+8 sent 2 to node 3
+After addition, node 2's amount = 2
+After addition, node 8's amount = 10
+After addition, node 3's amount = 10
+Balace at 6 after sent to 2= 0
+Balace at 7 after sent to 8= 5
+Balace at 8 after sent to 3= 8
+4 sent 2 to node 5
+After addition, node 5's amount = 13
+Balace at 4 after sent to 5= 4
+2 sent 2 to node 7
+After addition, node 7's amount = 7
+Balace at 2 after sent to 7= 0
+3 sent 3 to node 2
+After addition, node 2's amount = 3
+Balace at 3 after sent to 2= 7
+5 sent 1 to node 8
+After addition, node 8's amount = 9
+Balace at 5 after sent to 8= 12
+7 sent 1 to node 3
+balance is zero at node 6
+8 sent 3 to node 3
+After addition, node 3's amount = 8
+After addition, node 3's amount = 11
+Balace at 7 after sent to 3= 6
+Balace at 8 after sent to 3= 6
+4 sent 4 to node 3
+After addition, node 3's amount = 15
+Balace at 4 after sent to 3= 0
+2 sent 3 to node 3
+After addition, node 3's amount = 18
+Balace at 2 after sent to 3= 0
+3 sent 8 to node 8
+After addition, node 8's amount = 14
+Balace at 3 after sent to 8= 10
+5 sent 4 to node 7
+After addition, node 7's amount = 10
+Balace at 5 after sent to 7= 8
+balance is zero at node 6
+7 sent 4 to node 1
+8 sent 6 to node 2
+After addition, node 1's amount = 1962
+After addition, node 2's amount = 6
+Balace at 7 after sent to 1= 6
+Balace at 8 after sent to 2= 8
+balance is zero at node 4
+2 sent 1 to node 4
+After addition, node 4's amount = 1
+Balace at 2 after sent to 4= 5
+3 sent 4 to node 1
+After addition, node 1's amount = 1966
+Balace at 3 after sent to 1= 6
+5 sent 3 to node 4
+After addition, node 4's amount = 4
+Balace at 5 after sent to 4= 5
+balance is zero at node 6
+8 sent 3 to node 2
+7 sent 1 to node 6
+After addition, node 2's amount = 8
+After addition, node 6's amount = 1
+Balace at 8 after sent to 2= 5
+Balace at 7 after sent to 6= 5
+4 sent 4 to node 2
+After addition, node 2's amount = 12
+Balace at 4 after sent to 2= 0
+2 sent 1 to node 5
+After addition, node 5's amount = 6
+Balace at 2 after sent to 5= 11
 3 sent 2 to node 1
-after addition, node 1's amount = 2000
-At 3 after sent to 1 0
+After addition, node 1's amount = 1968
+Balace at 3 after sent to 1= 4
+5 sent 1 to node 7
+After addition, node 7's amount = 6
+Balace at 5 after sent to 7= 5
+6 sent 1 to node 8
+After addition, node 8's amount = 6
+Balace at 6 after sent to 8= 0
+7 sent 1 to node 1
+8 sent 1 to node 7
+After addition, node 1's amount = 1969
+After addition, node 7's amount = 7
+Balace at 7 after sent to 1= 6
+Balace at 8 after sent to 7= 5
 balance is zero at node 4
-balance is zero at node 5
-balance is zero at node 8
-balance is zero at node 7
-balance is zero at node 2
+2 sent 4 to node 4
+After addition, node 4's amount = 4
+Balace at 2 after sent to 4= 7
+3 sent 4 to node 6
+After addition, node 6's amount = 4
+Balace at 3 after sent to 6= 0
+5 sent 1 to node 8
+After addition, node 8's amount = 6
+Balace at 5 after sent to 8= 4
+6 sent 4 to node 2
+After addition, node 2's amount = 11
+Balace at 6 after sent to 2= 0
+8 sent 1 to node 5
+7 sent 1 to node 3
+After addition, node 5's amount = 5
+After addition, node 3's amount = 1
+Balace at 8 after sent to 5= 5
+Balace at 7 after sent to 3= 5
+4 sent 4 to node 3
+After addition, node 3's amount = 5
+Balace at 4 after sent to 3= 0
+2 sent 4 to node 3
+After addition, node 3's amount = 9
+Balace at 2 after sent to 3= 7
+3 sent 2 to node 8
+After addition, node 8's amount = 7
+Balace at 3 after sent to 8= 7
+5 sent 1 to node 7
+After addition, node 7's amount = 6
+Balace at 5 after sent to 7= 4
 balance is zero at node 6
+8 sent 1 to node 2
+7 sent 2 to node 6
+After addition, node 2's amount = 8
+After addition, node 6's amount = 2
+Balace at 8 after sent to 2= 6
+Balace at 7 after sent to 6= 4
+balance is zero at node 4
+2 sent 2 to node 5
+After addition, node 5's amount = 6
+Balace at 2 after sent to 5= 6
+3 sent 1 to node 2
+After addition, node 2's amount = 7
+Balace at 3 after sent to 2= 6
+5 sent 2 to node 1
+After addition, node 1's amount = 1971
+Balace at 5 after sent to 1= 4
+6 sent 2 to node 8
+After addition, node 8's amount = 8
+Balace at 6 after sent to 8= 0
+8 sent 1 to node 7
+7 sent 4 to node 3
+After addition, node 7's amount = 5
+After addition, node 3's amount = 10
+Balace at 7 after sent to 3= 1
+Balace at 8 after sent to 7= 7
+balance is zero at node 4
+2 sent 1 to node 4
+After addition, node 4's amount = 1
+Balace at 2 after sent to 4= 6
+3 sent 3 to node 2
+After addition, node 2's amount = 9
+Balace at 3 after sent to 2= 7
+5 sent 4 to node 7
+After addition, node 7's amount = 5
+Balace at 5 after sent to 7= 0
+balance is zero at node 6
+7 sent 1 to node 3
+8 sent 2 to node 3
+After addition, node 3's amount = 8
+After addition, node 3's amount = 10
+Balace at 7 after sent to 3= 4
+Balace at 8 after sent to 3= 5
+4 sent 1 to node 3
+After addition, node 3's amount = 11
+Balace at 4 after sent to 3= 0
+2 sent 3 to node 4
+After addition, node 4's amount = 3
+Balace at 2 after sent to 4= 6
+3 sent 1 to node 6
+After addition, node 6's amount = 1
+Balace at 3 after sent to 6= 10
+balance is zero at node 5
+6 sent 1 to node 2
+After addition, node 2's amount = 7
+Balace at 6 after sent to 2= 0
+8 sent 1 to node 7
+7 sent 4 to node 6
+After addition, node 6's amount = 4
+After addition, node 7's amount = 5
+Balace at 8 after sent to 7= 4
+Balace at 7 after sent to 6= 1
+4 sent 3 to node 2
+After addition, node 2's amount = 10
+Balace at 4 after sent to 2= 0
+2 sent 1 to node 7
+After addition, node 7's amount = 2
+Balace at 2 after sent to 7= 9
+3 sent 4 to node 8
+After addition, node 8's amount = 8
+Balace at 3 after sent to 8= 6
+balance is zero at node 5
+6 sent 4 to node 5
+After addition, node 5's amount = 4
+Balace at 6 after sent to 5= 0
+8 sent 1 to node 3
+7 sent 2 to node 3
+After addition, node 3's amount = 8
+After addition, node 3's amount = 9
+Balace at 7 after sent to 3= 0
+Balace at 8 after sent to 3= 7
+balance is zero at node 4
+2 sent 3 to node 5
+After addition, node 5's amount = 7
+Balace at 2 after sent to 5= 6
+3 sent 3 to node 6
+After addition, node 6's amount = 3
+Balace at 3 after sent to 6= 6
+5 sent 1 to node 7
+After addition, node 7's amount = 1
+Balace at 5 after sent to 7= 6
+6 sent 3 to node 7
+After addition, node 7's amount = 4
+Balace at 6 after sent to 7= 0
+7 sent 4 to node 3
+8 sent 1 to node 7
+After addition, node 3's amount = 10
+After addition, node 7's amount = 5
+Balace at 8 after sent to 7= 6
+Balace at 7 after sent to 3= 1
+balance is zero at node 4
+2 sent 2 to node 7
+After addition, node 7's amount = 3
+Balace at 2 after sent to 7= 4
+3 sent 1 to node 1
+After addition, node 1's amount = 1972
+Balace at 3 after sent to 1= 9
+5 sent 1 to node 1
+After addition, node 1's amount = 1973
+Balace at 5 after sent to 1= 5
+balance is zero at node 6
+7 sent 3 to node 3
+8 sent 2 to node 5
+After addition, node 5's amount = 7
+After addition, node 3's amount = 12
+Balace at 8 after sent to 5= 4
+Balace at 7 after sent to 3= 0
+balance is zero at node 4
+2 sent 4 to node 3
+After addition, node 3's amount = 16
+Balace at 2 after sent to 3= 0
+3 sent 3 to node 1
+After addition, node 1's amount = 1976
+Balace at 3 after sent to 1= 13
+5 sent 2 to node 8
+After addition, node 8's amount = 6
+Balace at 5 after sent to 8= 5
+balance is zero at node 6
+balance is zero at node 7
+8 sent 2 to node 7
+After addition, node 7's amount = 2
+Balace at 8 after sent to 7= 4
+balance is zero at node 4
+balance is zero at node 2
+3 sent 5 to node 6
+After addition, node 6's amount = 5
+Balace at 3 after sent to 6= 8
+5 sent 1 to node 7
+After addition, node 7's amount = 3
+Balace at 5 after sent to 7= 4
+6 sent 1 to node 7
+After addition, node 7's amount = 4
+Balace at 6 after sent to 7= 4
+7 sent 4 to node 8
+8 sent 4 to node 5
+After addition, node 8's amount = 8
+After addition, node 5's amount = 8
+Balace at 7 after sent to 8= 0
+Balace at 8 after sent to 5= 4
+balance is zero at node 4
+balance is zero at node 2
+3 sent 3 to node 6
+After addition, node 6's amount = 7
+Balace at 3 after sent to 6= 5
+5 sent 3 to node 8
+After addition, node 8's amount = 7
+Balace at 5 after sent to 8= 5
+6 sent 2 to node 7
+After addition, node 7's amount = 2
+Balace at 6 after sent to 7= 5
+7 sent 2 to node 6
+After addition, node 6's amount = 7
+8 sent 1 to node 3
+Balace at 7 after sent to 6= 0
+After addition, node 3's amount = 6
+Balace at 8 after sent to 3= 6
+balance is zero at node 4
+balance is zero at node 2
+3 sent 2 to node 8
+After addition, node 8's amount = 8
+Balace at 3 after sent to 8= 4
+5 sent 1 to node 1
+After addition, node 1's amount = 1977
+Balace at 5 after sent to 1= 4
+6 sent 2 to node 5
+After addition, node 5's amount = 6
+Balace at 6 after sent to 5= 5
+balance is zero at node 7
+8 sent 3 to node 7
+After addition, node 7's amount = 3
+Balace at 8 after sent to 7= 5
+balance is zero at node 4
+balance is zero at node 2
+3 sent 4 to node 1
+After addition, node 1's amount = 1981
+Balace at 3 after sent to 1= 0
+5 sent 1 to node 4
+After addition, node 4's amount = 1
+Balace at 5 after sent to 4= 5
+6 sent 1 to node 7
+After addition, node 7's amount = 4
+Balace at 6 after sent to 7= 4
+7 sent 4 to node 3
+After addition, node 3's amount = 4
+Balace at 7 after sent to 3= 0
+8 sent 1 to node 5
+After addition, node 5's amount = 6
+Balace at 8 after sent to 5= 4
+4 sent 1 to node 5
+After addition, node 5's amount = 7
+Balace at 4 after sent to 5= 0
+balance is zero at node 2
+3 sent 4 to node 8
+After addition, node 8's amount = 8
+Balace at 3 after sent to 8= 0
+5 sent 2 to node 7
+After addition, node 7's amount = 2
+Balace at 5 after sent to 7= 5
+6 sent 4 to node 5
+After addition, node 5's amount = 9
+Balace at 6 after sent to 5= 0
+7 sent 2 to node 3
+8 sent 1 to node 2
+After addition, node 3's amount = 2
+After addition, node 2's amount = 1
+Balace at 7 after sent to 3= 0
+Balace at 8 after sent to 2= 7
+balance is zero at node 4
+2 sent 1 to node 1
+After addition, node 1's amount = 1982
+Balace at 2 after sent to 1= 0
+3 sent 2 to node 8
+After addition, node 8's amount = 9
+Balace at 3 after sent to 8= 0
+5 sent 3 to node 8
+After addition, node 8's amount = 12
+Balace at 5 after sent to 8= 6
+balance is zero at node 6
+8 sent 3 to node 7
+balance is zero at node 7
+After addition, node 7's amount = 3
+Balace at 8 after sent to 7= 9
+balance is zero at node 4
+balance is zero at node 2
 balance is zero at node 3
-balance is zero at node 4
-balance is zero at node 5
-balance is zero at node 8
-balance is zero at node 7
-balance is zero at node 2
+5 sent 2 to node 4
+After addition, node 4's amount = 2
+Balace at 5 after sent to 4= 4
 balance is zero at node 6
+7 sent 3 to node 8
+After addition, node 8's amount = 12
+Balace at 7 after sent to 8= 0
+8 sent 5 to node 5
+After addition, node 5's amount = 9
+Balace at 8 after sent to 5= 7
+4 sent 2 to node 3
+After addition, node 3's amount = 2
+Balace at 4 after sent to 3= 0
+balance is zero at node 2
+3 sent 2 to node 1
+After addition, node 1's amount = 1984
+Balace at 3 after sent to 1= 0
+5 sent 2 to node 1
+After addition, node 1's amount = 1986
+Balace at 5 after sent to 1= 7
+balance is zero at node 6
+balance is zero at node 7
+8 sent 2 to node 2
+After addition, node 2's amount = 2
+Balace at 8 after sent to 2= 5
+balance is zero at node 4
+2 sent 2 to node 3
+After addition, node 3's amount = 2
+Balace at 2 after sent to 3= 0
+3 sent 2 to node 1
+After addition, node 1's amount = 1988
+Balace at 3 after sent to 1= 0
+5 sent 2 to node 1
+After addition, node 1's amount = 1990
+Balace at 5 after sent to 1= 5
+balance is zero at node 6
+balance is zero at node 7
+8 sent 1 to node 3
+After addition, node 3's amount = 1
+Balace at 8 after sent to 3= 4
+balance is zero at node 4
+balance is zero at node 2
+3 sent 1 to node 6
+After addition, node 6's amount = 1
+Balace at 3 after sent to 6= 0
+5 sent 1 to node 1
+After addition, node 1's amount = 1991
+Balace at 5 after sent to 1= 4
+6 sent 1 to node 8
+After addition, node 8's amount = 5
+Balace at 6 after sent to 8= 0
+balance is zero at node 7
+8 sent 1 to node 7
+After addition, node 7's amount = 1
+Balace at 8 after sent to 7= 4
+balance is zero at node 4
+balance is zero at node 2
 balance is zero at node 3
-balance is zero at node 4
-balance is zero at node 5
-balance is zero at node 8
-balance is zero at node 7
-balance is zero at node 2
+5 sent 4 to node 7
+After addition, node 7's amount = 5
+Balace at 5 after sent to 7= 0
 balance is zero at node 6
+7 sent 1 to node 3
+After addition, node 3's amount = 1
+Balace at 7 after sent to 3= 4
+8 sent 4 to node 3
+After addition, node 3's amount = 5
+Balace at 8 after sent to 3= 0
+balance is zero at node 4
+balance is zero at node 2
+3 sent 1 to node 1
+After addition, node 1's amount = 1992
+Balace at 3 after sent to 1= 4
+balance is zero at node 5
+balance is zero at node 6
+7 sent 4 to node 1
+After addition, node 1's amount = 1996
+Balace at 7 after sent to 1= 0
+balance is zero at node 8
+balance is zero at node 4
+balance is zero at node 2
+3 sent 4 to node 4
+After addition, node 4's amount = 4
+Balace at 3 after sent to 4= 0
+balance is zero at node 5
+balance is zero at node 6
+balance is zero at node 7
+balance is zero at node 8
+4 sent 4 to node 7
+After addition, node 7's amount = 4
+Balace at 4 after sent to 7= 0
+balance is zero at node 2
+balance is zero at node 3
+balance is zero at node 5
+balance is zero at node 6
+7 sent 4 to node 8
+After addition, node 8's amount = 4
+Balace at 7 after sent to 8= 0
+8 sent 4 to node 3
+After addition, node 3's amount = 4
+Balace at 8 after sent to 3= 0
+balance is zero at node 4
+balance is zero at node 2
+3 sent 4 to node 6
+After addition, node 6's amount = 4
+Balace at 3 after sent to 6= 0
+balance is zero at node 5
+6 sent 4 to node 8
+After addition, node 8's amount = 4
+Balace at 6 after sent to 8= 0
+balance is zero at node 7
+8 sent 4 to node 2
+After addition, node 2's amount = 4
+Balace at 8 after sent to 2= 0
+balance is zero at node 4
+2 sent 4 to node 1
+After addition, node 1's amount = 2000
+Balace at 2 after sent to 1= 0
+balance is zero at node 3
+balance is zero at node 5
+balance is zero at node 6
+balance is zero at node 7
+balance is zero at node 8
+balance is zero at node 4
+balance is zero at node 2
+balance is zero at node 3
+balance is zero at node 5
+balance is zero at node 6
+balance is zero at node 7
+balance is zero at node 8
+balance is zero at node 4
 1 closure started 
+balance is zero at node 2
 0 receive terminated 
-Completeion time = 137396233 ms.
-balance is zero at node 3
+Completeion time = 138645332 ms.
 My branch id is 2 and account balance is 0
 My branch id is 3 and account balance is 0
 My branch id is 4 and account balance is 0
 My branch id is 5 and account balance is 0
-My branch id is 7 and account balance is 0
 My branch id is 6 and account balance is 0
+My branch id is 7 and account balance is 0
 My branch id is 8 and account balance is 0
-balance is zero at node 4
-4 exit
+balance is zero at node 3
 balance is zero at node 5
+3 exit
 5 exit
-balance is zero at node 8
-8 exit
-balance is zero at node 7
-7 exit
-balance is zero at node 2
-2 exit
 balance is zero at node 6
 6 exit
-balance is zero at node 3
-3 exit
+balance is zero at node 7
+7 exit
+balance is zero at node 8
+8 exit
+balance is zero at node 4
+4 exit
+balance is zero at node 2
+2 exit
 My branch id is 1 and account balance is 2000
 0 exit
