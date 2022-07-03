@@ -1,0 +1,7 @@
+Input
+
+total branches total amount
+connections between branches tree
+initial amounts at all branches
+ 
+ 

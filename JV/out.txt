@@ -1,0 +1,4755 @@
+My branch id is 2 and account balance is 300
+My branch id is 3 and account balance is 250
+My branch id is 4 and account balance is 250
+My branch id is 5 and account balance is 300
+My branch id is 6 and account balance is 300
+My branch id is 7 and account balance is 200
+My branch id is 1 and account balance is 0
+My branch id is 8 and account balance is 400
+2 sent 59 to node 3
+Amount after add to node 3 = 309
+The amount at 2 after sent to 3 = 241
+3 sent 135 to node 1
+Amount after add to node 1 = 135
+The amount at 3 after sent to 1 = 174
+4 sent 9 to node 7
+Amount after add to node 7 = 209
+The amount at 4 after sent to 7 = 241
+5 sent 59 to node 7
+Amount after add to node 7 = 268
+The amount at 5 after sent to 7 = 241
+6 sent 59 to node 2
+Amount after add to node 2 = 300
+The amount at 6 after sent to 2 = 241
+7 sent 33 to node 3
+Amount after add to node 3 = 207
+The amount at 7 after sent to 3 = 235
+8 sent 109 to node 7
+Amount after add to node 7 = 344
+The amount at 8 after sent to 7 = 291
+2 sent 79 to node 5
+Amount after add to node 5 = 320
+3 sent 83 to node 8
+The amount at 2 after sent to 5 = 221
+Amount after add to node 8 = 374
+The amount at 3 after sent to 8 = 124
+4 sent 79 to node 3
+Amount after add to node 3 = 203
+The amount at 4 after sent to 3 = 162
+5 sent 79 to node 1
+Amount after add to node 1 = 214
+The amount at 5 after sent to 1 = 241
+6 sent 79 to node 8
+Amount after add to node 8 = 453
+The amount at 6 after sent to 8 = 162
+7 sent 131 to node 6
+Amount after add to node 6 = 293
+The amount at 7 after sent to 6 = 213
+8 sent 101 to node 3
+Amount after add to node 3 = 304
+The amount at 8 after sent to 3 = 352
+2 sent 94 to node 4
+3 sent 130 to node 2
+Amount after add to node 2 = 351
+Amount after add to node 4 = 256
+The amount at 3 after sent to 2 = 174
+The amount at 2 after sent to 4 = 257
+4 sent 50 to node 7
+Amount after add to node 7 = 263
+The amount at 4 after sent to 7 = 206
+5 sent 114 to node 7
+Amount after add to node 7 = 377
+The amount at 5 after sent to 7 = 127
+6 sent 42 to node 2
+Amount after add to node 2 = 299
+The amount at 6 after sent to 2 = 251
+7 sent 42 to node 3
+Amount after add to node 3 = 216
+The amount at 7 after sent to 3 = 335
+8 sent 50 to node 7
+Amount after add to node 7 = 385
+The amount at 8 after sent to 7 = 302
+3 sent 28 to node 1
+Amount after add to node 1 = 242
+2 sent 77 to node 3
+The amount at 3 after sent to 1 = 188
+Amount after add to node 3 = 265
+The amount at 2 after sent to 3 = 222
+4 sent 80 to node 7
+Amount after add to node 7 = 465
+The amount at 4 after sent to 7 = 126
+5 sent 46 to node 7
+Amount after add to node 7 = 511
+The amount at 5 after sent to 7 = 81
+6 sent 22 to node 2
+Amount after add to node 2 = 244
+The amount at 6 after sent to 2 = 229
+7 sent 232 to node 3
+Amount after add to node 3 = 497
+The amount at 7 after sent to 3 = 279
+8 sent 6 to node 7
+Amount after add to node 7 = 285
+The amount at 8 after sent to 7 = 296
+3 sent 184 to node 1
+2 sent 48 to node 3
+Amount after add to node 1 = 426
+Amount after add to node 3 = 545
+The amount at 3 after sent to 1 = 361
+The amount at 2 after sent to 3 = 196
+4 sent 40 to node 7
+5 sent 8 to node 7
+Amount after add to node 7 = 293
+Amount after add to node 7 = 333
+The amount at 5 after sent to 7 = 73
+6 sent 106 to node 2
+The amount at 4 after sent to 7 = 86
+Amount after add to node 2 = 302
+7 sent 64 to node 3
+The amount at 6 after sent to 2 = 123
+Amount after add to node 3 = 425
+The amount at 7 after sent to 3 = 269
+8 sent 124 to node 7
+Amount after add to node 7 = 393
+The amount at 8 after sent to 7 = 172
+3 sent 206 to node 8
+2 sent 106 to node 5
+Amount after add to node 5 = 179
+Amount after add to node 8 = 378
+The amount at 2 after sent to 5 = 196
+The amount at 3 after sent to 8 = 219
+4 sent 32 to node 7
+5 sent 3 to node 7
+Amount after add to node 7 = 396
+Amount after add to node 7 = 428
+The amount at 5 after sent to 7 = 176
+6 sent 14 to node 2
+Amount after add to node 2 = 210
+The amount at 4 after sent to 7 = 54
+The amount at 6 after sent to 2 = 109
+7 sent 188 to node 3
+Amount after add to node 3 = 407
+The amount at 7 after sent to 3 = 240
+8 sent 42 to node 7
+Amount after add to node 7 = 282
+The amount at 8 after sent to 7 = 336
+3 sent 158 to node 6
+Amount after add to node 7 = 335
+2 sent 53 to node 7
+Amount after add to node 6 = 267
+The amount at 2 after sent to 7 = 157
+The amount at 3 after sent to 6 = 249
+5 sent 32 to node 7
+4 sent 17 to node 7
+Amount after add to node 7 = 367
+Amount after add to node 2 = 182
+6 sent 25 to node 2
+Amount after add to node 7 = 384
+The amount at 6 after sent to 2 = 242
+The amount at 5 after sent to 7 = 144
+7 sent 176 to node 3
+Amount after add to node 3 = 425
+The amount at 4 after sent to 7 = 37
+The amount at 7 after sent to 3 = 208
+Amount after add to node 7 = 240
+8 sent 32 to node 7
+The amount at 8 after sent to 7 = 304
+2 sent 22 to node 5
+3 sent 55 to node 8
+Amount after add to node 5 = 166
+Amount after add to node 8 = 359
+The amount at 2 after sent to 5 = 160
+The amount at 3 after sent to 8 = 370
+5 sent 44 to node 1
+6 sent 29 to node 8
+Amount after add to node 8 = 388
+Amount after add to node 1 = 470
+The amount at 6 after sent to 8 = 213
+4 sent 15 to node 3
+The amount at 5 after sent to 1 = 122
+7 sent 15 to node 6
+Amount after add to node 3 = 385
+Amount after add to node 6 = 228
+The amount at 4 after sent to 3 = 22
+The amount at 7 after sent to 6 = 225
+8 sent 93 to node 3
+Amount after add to node 3 = 478
+The amount at 8 after sent to 3 = 295
+3 sent 30 to node 1
+Amount after add to node 1 = 500
+2 sent 22 to node 3
+Amount after add to node 3 = 500
+The amount at 3 after sent to 1 = 470
+The amount at 2 after sent to 3 = 138
+6 sent 78 to node 2
+Amount after add to node 7 = 278
+4 sent 1 to node 7
+Amount after add to node 2 = 216
+5 sent 53 to node 7
+Amount after add to node 7 = 279
+The amount at 5 after sent to 7 = 69
+The amount at 6 after sent to 2 = 150
+7 sent 12 to node 3
+The amount at 4 after sent to 7 = 21
+Amount after add to node 3 = 482
+The amount at 7 after sent to 3 = 267
+8 sent 105 to node 7
+Amount after add to node 7 = 372
+The amount at 8 after sent to 7 = 190
+3 sent 162 to node 6
+2 sent 90 to node 7
+Amount after add to node 6 = 312
+Amount after add to node 7 = 462
+The amount at 2 after sent to 7 = 126
+The amount at 3 after sent to 6 = 320
+6 sent 78 to node 2
+Amount after add to node 2 = 204
+4 sent 2 to node 7
+5 sent 14 to node 7
+7 sent 147 to node 3
+Amount after add to node 3 = 467
+Amount after add to node 7 = 464
+The amount at 6 after sent to 2 = 234
+Amount after add to node 7 = 478
+The amount at 4 after sent to 7 = 19
+The amount at 7 after sent to 3 = 331
+The amount at 5 after sent to 7 = 55
+8 sent 37 to node 7
+Amount after add to node 7 = 368
+The amount at 8 after sent to 7 = 153
+3 recovery initiated with failure as 1
+1 rec control as 4 from 3
+2 rec control as 5 from 3
+no mismatch at 1 with 3
+4 rec control as 2 from 3
+no mismatch at 2 with 3
+5 rec control as 0 from 3
+no mismatch at 4 with 3
+6 rec control as 2 from 3
+no mismatch at 5 with 3
+7 rec control as 7 from 3
+mismatch of 1 at 7 with 3
+7 before update has 368
+7 updated to 478
+no mismatch at 6 with 3
+8 rec control as 5 from 3
+no mismatch at 8 with 3
+1 recovery initiated with failure as 0
+2 recovery initiated with failure as 0
+2 rec control as 0 from 1
+no mismatch at 2 with 1
+4 rec control as 0 from 1
+1 rec control as 0 from 2
+3 rec control as 4 from 1
+no mismatch at 4 with 1
+6 rec control as 0 from 1
+no mismatch at 3 with 1
+3 rec control as 5 from 2
+no mismatch at 1 with 2
+no mismatch at 3 with 2
+5 rec control as 2 from 1
+no mismatch at 6 with 1
+7 rec control as 0 from 1
+8 rec control as 0 from 1
+no mismatch at 5 with 1
+4 rec control as 1 from 2
+no mismatch at 7 with 1
+no mismatch at 8 with 1
+4 recovery initiated with failure as 0
+5 recovery initiated with failure as 0
+no mismatch at 4 with 2
+5 rec control as 3 from 2
+6 rec control as 8 from 2
+1 rec control as 0 from 4
+6 recovery initiated with failure as 0
+7 recovery initiated with failure as 0
+no mismatch at 6 with 2
+no mismatch at 1 with 4
+7 rec control as 2 from 2
+1 rec control as 2 from 5
+no mismatch at 7 with 2
+no mismatch at 5 with 2
+no mismatch at 1 with 5
+5 rec control as 0 from 4
+1 rec control as 0 from 7
+no mismatch at 5 with 4
+2 rec control as 1 from 4
+8 rec control as 0 from 2
+3 rec control as 2 from 4
+no mismatch at 8 with 2
+no mismatch at 1 with 7
+8 rec control as 0 from 4
+no mismatch at 2 with 4
+2 rec control as 2 from 7
+no mismatch at 3 with 4
+3 rec control as 7 from 7
+no mismatch at 8 with 4
+4 rec control as 8 from 7
+no mismatch at 2 with 7
+6 rec control as 0 from 4
+no mismatch at 3 with 7
+7 rec control as 8 from 4
+no mismatch at 4 with 7
+5 rec control as 8 from 7
+no mismatch at 6 with 4
+8 recovery initiated with failure as 0
+no mismatch at 7 with 4
+8 rec control as 7 from 7
+mismatch of 1 at 8 with 7
+8 before update has 153
+8 updated to 190
+6 rec control as 2 from 7
+no mismatch at 6 with 7
+no mismatch at 5 with 7
+2 rec control as 3 from 5
+no mismatch at 2 with 5
+1 rec control as 0 from 6
+no mismatch at 1 with 6
+1 rec control as 0 from 8
+no mismatch at 1 with 8
+3 rec control as 0 from 5
+no mismatch at 3 with 5
+3 rec control as 5 from 8
+no mismatch at 3 with 8
+3 rec control as 2 from 6
+2 rec control as 8 from 6
+no mismatch at 3 with 6
+6 rec control as 0 from 5
+no mismatch at 2 with 6
+4 rec control as 0 from 5
+2 rec control as 0 from 8
+no mismatch at 4 with 5
+no mismatch at 2 with 8
+4 rec control as 0 from 6
+5 rec control as 0 from 8
+8 rec control as 0 from 5
+no mismatch at 6 with 5
+no mismatch at 4 with 6
+4 rec control as 0 from 8
+no mismatch at 5 with 8
+7 rec control as 8 from 5
+5 rec control as 0 from 6
+no mismatch at 8 with 5
+8 rec control as 2 from 6
+no mismatch at 4 with 8
+no mismatch at 5 with 6
+6 rec control as 2 from 8
+no mismatch at 8 with 6
+no mismatch at 7 with 5
+7 rec control as 2 from 6
+no mismatch at 7 with 6
+7 rec control as 7 from 8
+no mismatch at 6 with 8
+no mismatch at 7 with 8
+round 1 completed
+1 recovery initiated with failure as 0
+2 recovery initiated with failure as 0
+2 rec control as 0 from 1
+3 recovery initiated with failure as 0
+no mismatch at 2 with 1
+1 rec control as 0 from 2
+3 rec control as 4 from 1
+no mismatch at 3 with 1
+3 rec control as 5 from 2
+2 rec control as 5 from 3
+5 recovery initiated with failure as 0
+4 rec control as 0 from 1
+no mismatch at 1 with 2
+1 rec control as 4 from 3
+no mismatch at 4 with 1
+4 rec control as 2 from 3
+no mismatch at 2 with 3
+6 rec control as 2 from 3
+no mismatch at 4 with 3
+4 rec control as 1 from 2
+7 rec control as 2 from 2
+no mismatch at 7 with 2
+7 rec control as 0 from 1
+no mismatch at 4 with 2
+no mismatch at 3 with 2
+5 rec control as 2 from 1
+no mismatch at 7 with 1
+4 recovery initiated with failure as 0
+8 rec control as 0 from 2
+no mismatch at 5 with 1
+5 rec control as 0 from 3
+no mismatch at 8 with 2
+8 rec control as 0 from 1
+no mismatch at 1 with 3
+1 rec control as 2 from 5
+no mismatch at 8 with 1
+no mismatch at 6 with 3
+6 rec control as 0 from 1
+no mismatch at 1 with 5
+1 rec control as 0 from 4
+no mismatch at 6 with 1
+6 rec control as 8 from 2
+no mismatch at 1 with 4
+6 recovery initiated with failure as 0
+no mismatch at 5 with 3
+no mismatch at 6 with 2
+5 rec control as 3 from 2
+6 rec control as 0 from 5
+no mismatch at 6 with 5
+6 rec control as 0 from 4
+no mismatch at 5 with 2
+5 rec control as 0 from 4
+no mismatch at 6 with 4
+8 recovery initiated with failure as 0
+no mismatch at 5 with 4
+3 rec control as 0 from 5
+no mismatch at 3 with 5
+3 rec control as 2 from 4
+no mismatch at 3 with 4
+3 rec control as 2 from 6
+7 recovery initiated with failure as 0
+no mismatch at 3 with 6
+3 rec control as 5 from 8
+8 rec control as 0 from 5
+4 rec control as 0 from 5
+no mismatch at 3 with 8
+1 rec control as 0 from 6
+no mismatch at 8 with 5
+8 rec control as 5 from 3
+no mismatch at 4 with 5
+4 rec control as 0 from 6
+no mismatch at 1 with 6
+1 rec control as 0 from 8
+2 rec control as 3 from 5
+no mismatch at 4 with 6
+4 rec control as 0 from 8
+no mismatch at 1 with 8
+1 rec control as 0 from 7
+no mismatch at 4 with 8
+no mismatch at 2 with 5
+2 rec control as 1 from 4
+5 rec control as 0 from 6
+no mismatch at 1 with 7
+no mismatch at 2 with 4
+2 rec control as 8 from 6
+no mismatch at 5 with 6
+5 rec control as 0 from 8
+no mismatch at 2 with 6
+2 rec control as 0 from 8
+no mismatch at 5 with 8
+5 rec control as 8 from 7
+no mismatch at 2 with 8
+2 rec control as 2 from 7
+no mismatch at 5 with 7
+no mismatch at 2 with 7
+7 rec control as 8 from 5
+6 rec control as 2 from 8
+no mismatch at 6 with 8
+6 rec control as 2 from 7
+no mismatch at 7 with 5
+7 rec control as 7 from 3
+3 rec control as 7 from 7
+no mismatch at 8 with 3
+no mismatch at 6 with 7
+8 rec control as 0 from 4
+4 rec control as 8 from 7
+no mismatch at 7 with 3
+no mismatch at 3 with 7
+7 rec control as 8 from 4
+no mismatch at 4 with 7
+no mismatch at 8 with 4
+8 rec control as 2 from 6
+no mismatch at 7 with 4
+7 rec control as 2 from 6
+no mismatch at 8 with 6
+8 rec control as 7 from 7
+no mismatch at 7 with 6
+7 rec control as 7 from 8
+no mismatch at 8 with 7
+no mismatch at 7 with 8
+round 2 completed
+1 recovery initiated with failure as 0
+5 recovery initiated with failure as 0
+3 recovery initiated with failure as 0
+6 rec control as 2 from 3
+2 recovery initiated with failure as 0
+6 recovery initiated with failure as 0
+4 recovery initiated with failure as 0
+no mismatch at 6 with 3
+6 rec control as 0 from 1
+no mismatch at 6 with 1
+6 rec control as 0 from 5
+no mismatch at 6 with 5
+1 rec control as 2 from 5
+no mismatch at 1 with 5
+1 rec control as 4 from 3
+3 rec control as 4 from 1
+7 rec control as 7 from 3
+4 rec control as 0 from 1
+no mismatch at 7 with 3
+7 rec control as 0 from 1
+no mismatch at 4 with 1
+4 rec control as 2 from 3
+no mismatch at 7 with 1
+7 rec control as 8 from 5
+7 recovery initiated with failure as 0
+no mismatch at 3 with 1
+3 rec control as 0 from 5
+no mismatch at 3 with 5
+3 rec control as 5 from 2
+no mismatch at 7 with 5
+7 rec control as 8 from 4
+no mismatch at 4 with 3
+4 rec control as 0 from 5
+no mismatch at 3 with 2
+3 rec control as 2 from 4
+8 rec control as 5 from 3
+no mismatch at 3 with 4
+5 rec control as 0 from 3
+3 rec control as 2 from 6
+2 rec control as 0 from 1
+no mismatch at 3 with 6
+3 rec control as 7 from 7
+no mismatch at 2 with 1
+no mismatch at 3 with 7
+2 rec control as 5 from 3
+no mismatch at 2 with 3
+2 rec control as 3 from 5
+6 rec control as 8 from 2
+no mismatch at 1 with 3
+1 rec control as 0 from 2
+no mismatch at 1 with 2
+no mismatch at 2 with 5
+1 rec control as 0 from 4
+2 rec control as 1 from 4
+no mismatch at 1 with 4
+no mismatch at 2 with 4
+2 rec control as 8 from 6
+1 rec control as 0 from 6
+no mismatch at 1 with 6
+1 rec control as 0 from 7
+no mismatch at 7 with 4
+7 rec control as 2 from 2
+no mismatch at 1 with 7
+no mismatch at 7 with 2
+7 rec control as 2 from 6
+no mismatch at 4 with 5
+4 rec control as 1 from 2
+no mismatch at 7 with 6
+no mismatch at 8 with 3
+no mismatch at 4 with 2
+8 rec control as 0 from 1
+4 rec control as 0 from 6
+no mismatch at 8 with 1
+no mismatch at 5 with 3
+8 rec control as 0 from 5
+5 rec control as 2 from 1
+no mismatch at 8 with 5
+8 rec control as 0 from 2
+no mismatch at 5 with 1
+5 rec control as 3 from 2
+no mismatch at 8 with 2
+8 rec control as 0 from 4
+no mismatch at 5 with 2
+5 rec control as 0 from 4
+no mismatch at 8 with 4
+8 rec control as 2 from 6
+no mismatch at 5 with 4
+8 recovery initiated with failure as 0
+5 rec control as 0 from 6
+no mismatch at 8 with 6
+8 rec control as 7 from 7
+no mismatch at 8 with 7
+no mismatch at 5 with 6
+5 rec control as 8 from 7
+no mismatch at 5 with 7
+no mismatch at 2 with 6
+no mismatch at 6 with 2
+6 rec control as 0 from 4
+2 rec control as 2 from 7
+no mismatch at 6 with 4
+no mismatch at 2 with 7
+6 rec control as 2 from 7
+no mismatch at 6 with 7
+no mismatch at 4 with 6
+4 rec control as 8 from 7
+no mismatch at 4 with 7
+1 rec control as 0 from 8
+2 rec control as 0 from 8
+3 rec control as 5 from 8
+no mismatch at 2 with 8
+4 rec control as 0 from 8
+no mismatch at 3 with 8
+5 rec control as 0 from 8
+no mismatch at 4 with 8
+7 rec control as 7 from 8
+no mismatch at 5 with 8
+6 rec control as 2 from 8
+no mismatch at 7 with 8
+no mismatch at 6 with 8
+no mismatch at 1 with 8
+round 3 completed
+1 recovery initiated with failure as 0
+2 recovery initiated with failure as 0
+2 rec control as 0 from 1
+no mismatch at 2 with 1
+1 rec control as 0 from 2
+no mismatch at 1 with 2
+4 rec control as 0 from 1
+3 rec control as 4 from 1
+5 recovery initiated with failure as 0
+3 recovery initiated with failure as 0
+no mismatch at 3 with 1
+no mismatch at 4 with 1
+3 rec control as 5 from 2
+1 rec control as 2 from 5
+no mismatch at 3 with 2
+3 rec control as 0 from 5
+no mismatch at 1 with 5
+no mismatch at 3 with 5
+6 rec control as 0 from 1
+6 recovery initiated with failure as 0
+no mismatch at 6 with 1
+8 recovery initiated with failure as 0
+6 rec control as 8 from 2
+no mismatch at 6 with 2
+6 rec control as 0 from 5
+no mismatch at 6 with 5
+6 rec control as 2 from 3
+5 rec control as 2 from 1
+3 rec control as 5 from 8
+no mismatch at 5 with 1
+5 rec control as 3 from 2
+8 rec control as 0 from 1
+no mismatch at 3 with 8
+2 rec control as 3 from 5
+no mismatch at 5 with 2
+5 rec control as 0 from 3
+3 rec control as 2 from 6
+no mismatch at 2 with 5
+7 rec control as 0 from 1
+2 rec control as 5 from 3
+4 rec control as 1 from 2
+no mismatch at 3 with 6
+1 rec control as 4 from 3
+no mismatch at 2 with 3
+2 rec control as 0 from 8
+7 recovery initiated with failure as 0
+no mismatch at 2 with 8
+no mismatch at 4 with 2
+2 rec control as 8 from 6
+no mismatch at 1 with 3
+1 rec control as 0 from 8
+no mismatch at 6 with 3
+no mismatch at 2 with 6
+no mismatch at 5 with 3
+no mismatch at 1 with 8
+1 rec control as 0 from 6
+5 rec control as 0 from 8
+no mismatch at 1 with 6
+no mismatch at 5 with 8
+5 rec control as 0 from 6
+1 rec control as 0 from 7
+no mismatch at 5 with 6
+no mismatch at 8 with 1
+8 rec control as 0 from 2
+no mismatch at 1 with 7
+no mismatch at 7 with 1
+7 rec control as 2 from 2
+6 rec control as 2 from 8
+3 rec control as 7 from 7
+no mismatch at 8 with 2
+8 rec control as 0 from 5
+no mismatch at 3 with 7
+no mismatch at 7 with 2
+2 rec control as 2 from 7
+no mismatch at 6 with 8
+7 rec control as 8 from 5
+4 rec control as 0 from 5
+no mismatch at 8 with 5
+8 rec control as 5 from 3
+no mismatch at 2 with 7
+no mismatch at 7 with 5
+4 recovery initiated with failure as 0
+no mismatch at 8 with 3
+no mismatch at 4 with 5
+8 rec control as 2 from 6
+4 rec control as 2 from 3
+no mismatch at 8 with 6
+no mismatch at 4 with 3
+4 rec control as 0 from 8
+5 rec control as 8 from 7
+7 rec control as 7 from 3
+3 rec control as 2 from 4
+no mismatch at 5 with 7
+no mismatch at 3 with 4
+6 rec control as 2 from 7
+no mismatch at 7 with 3
+7 rec control as 2 from 6
+no mismatch at 6 with 7
+6 rec control as 0 from 4
+no mismatch at 7 with 6
+7 rec control as 7 from 8
+1 rec control as 0 from 4
+no mismatch at 6 with 4
+8 rec control as 7 from 7
+no mismatch at 1 with 4
+2 rec control as 1 from 4
+no mismatch at 7 with 8
+no mismatch at 8 with 7
+8 rec control as 0 from 4
+7 rec control as 8 from 4
+5 rec control as 0 from 4
+no mismatch at 2 with 4
+no mismatch at 4 with 8
+no mismatch at 8 with 4
+4 rec control as 0 from 6
+no mismatch at 7 with 4
+no mismatch at 4 with 6
+4 rec control as 8 from 7
+no mismatch at 5 with 4
+no mismatch at 4 with 7
+round 4 completed
+1 recovery initiated with failure as 0
+2 recovery initiated with failure as 0
+2 rec control as 0 from 1
+3 rec control as 4 from 1
+no mismatch at 2 with 1
+1 rec control as 0 from 2
+3 recovery initiated with failure as 0
+no mismatch at 3 with 1
+3 rec control as 5 from 2
+no mismatch at 1 with 2
+4 rec control as 0 from 1
+no mismatch at 3 with 2
+no mismatch at 4 with 1
+4 rec control as 1 from 2
+5 rec control as 2 from 1
+no mismatch at 4 with 2
+no mismatch at 5 with 1
+1 rec control as 4 from 3
+6 rec control as 0 from 1
+4 recovery initiated with failure as 0
+no mismatch at 6 with 1
+6 rec control as 8 from 2
+no mismatch at 1 with 3
+7 rec control as 0 from 1
+no mismatch at 6 with 2
+2 rec control as 5 from 3
+no mismatch at 7 with 1
+7 rec control as 2 from 2
+8 rec control as 0 from 1
+no mismatch at 8 with 1
+4 rec control as 2 from 3
+1 rec control as 0 from 4
+3 rec control as 2 from 4
+no mismatch at 3 with 4
+no mismatch at 1 with 4
+no mismatch at 4 with 3
+5 recovery initiated with failure as 0
+5 rec control as 3 from 2
+no mismatch at 2 with 3
+2 rec control as 1 from 4
+no mismatch at 5 with 2
+1 rec control as 2 from 5
+5 rec control as 0 from 3
+no mismatch at 1 with 5
+6 rec control as 2 from 3
+no mismatch at 7 with 2
+7 rec control as 7 from 3
+3 rec control as 0 from 5
+no mismatch at 7 with 3
+no mismatch at 3 with 5
+no mismatch at 6 with 3
+8 rec control as 0 from 2
+6 rec control as 0 from 4
+no mismatch at 6 with 4
+no mismatch at 8 with 2
+6 rec control as 0 from 5
+8 rec control as 5 from 3
+no mismatch at 6 with 5
+4 rec control as 0 from 5
+no mismatch at 8 with 3
+8 rec control as 0 from 5
+no mismatch at 4 with 5
+no mismatch at 2 with 4
+2 rec control as 3 from 5
+no mismatch at 8 with 5
+no mismatch at 5 with 3
+7 recovery initiated with failure as 0
+5 rec control as 0 from 4
+no mismatch at 2 with 5
+7 rec control as 8 from 5
+no mismatch at 5 with 4
+no mismatch at 7 with 5
+1 rec control as 0 from 7
+7 rec control as 8 from 4
+no mismatch at 1 with 7
+8 rec control as 0 from 4
+no mismatch at 7 with 4
+no mismatch at 8 with 4
+2 rec control as 2 from 7
+6 recovery initiated with failure as 0
+3 rec control as 7 from 7
+1 rec control as 0 from 6
+no mismatch at 3 with 7
+no mismatch at 2 with 7
+4 rec control as 8 from 7
+no mismatch at 1 with 6
+no mismatch at 4 with 7
+2 rec control as 8 from 6
+5 rec control as 8 from 7
+3 rec control as 2 from 6
+no mismatch at 5 with 7
+no mismatch at 3 with 6
+no mismatch at 2 with 6
+6 rec control as 2 from 7
+8 recovery initiated with failure as 0
+no mismatch at 6 with 7
+4 rec control as 0 from 6
+1 rec control as 0 from 8
+no mismatch at 1 with 8
+no mismatch at 4 with 6
+5 rec control as 0 from 6
+no mismatch at 5 with 6
+8 rec control as 7 from 7
+7 rec control as 2 from 6
+no mismatch at 8 with 7
+8 rec control as 2 from 6
+no mismatch at 7 with 6
+2 rec control as 0 from 8
+3 rec control as 5 from 8
+no mismatch at 2 with 8
+no mismatch at 3 with 8
+4 rec control as 0 from 8
+5 rec control as 0 from 8
+no mismatch at 5 with 8
+no mismatch at 4 with 8
+no mismatch at 8 with 6
+7 rec control as 7 from 8
+6 rec control as 2 from 8
+no mismatch at 7 with 8
+no mismatch at 6 with 8
+round 5 completed
+1 recovery initiated with failure as 0
+2 recovery initiated with failure as 0
+2 rec control as 0 from 1
+1 rec control as 0 from 2
+no mismatch at 2 with 1
+3 recovery initiated with failure as 0
+3 rec control as 4 from 1
+no mismatch at 1 with 2
+1 rec control as 4 from 3
+no mismatch at 3 with 1
+3 rec control as 5 from 2
+no mismatch at 1 with 3
+5 rec control as 2 from 1
+no mismatch at 3 with 2
+2 rec control as 5 from 3
+no mismatch at 5 with 1
+5 rec control as 3 from 2
+no mismatch at 2 with 3
+4 rec control as 0 from 1
+no mismatch at 5 with 2
+5 rec control as 0 from 3
+no mismatch at 5 with 3
+no mismatch at 4 with 1
+4 rec control as 1 from 2
+6 rec control as 0 from 1
+no mismatch at 4 with 2
+4 rec control as 2 from 3
+7 rec control as 0 from 1
+no mismatch at 4 with 3
+8 rec control as 0 from 1
+no mismatch at 7 with 1
+no mismatch at 6 with 1
+5 recovery initiated with failure as 0
+7 rec control as 7 from 3
+no mismatch at 8 with 1
+8 rec control as 5 from 3
+1 rec control as 2 from 5
+no mismatch at 7 with 3
+no mismatch at 1 with 5
+no mismatch at 8 with 3
+2 rec control as 3 from 5
+3 rec control as 0 from 5
+no mismatch at 3 with 5
+4 rec control as 0 from 5
+no mismatch at 4 with 5
+6 rec control as 8 from 2
+7 recovery initiated with failure as 0
+no mismatch at 6 with 2
+1 rec control as 0 from 7
+8 recovery initiated with failure as 0
+no mismatch at 1 with 7
+6 rec control as 2 from 3
+3 rec control as 7 from 7
+no mismatch at 3 with 7
+no mismatch at 6 with 3
+1 rec control as 0 from 8
+4 recovery initiated with failure as 0
+no mismatch at 1 with 8
+1 rec control as 0 from 4
+6 rec control as 0 from 5
+3 rec control as 5 from 8
+no mismatch at 1 with 4
+no mismatch at 6 with 5
+6 rec control as 2 from 7
+no mismatch at 3 with 8
+3 rec control as 2 from 4
+no mismatch at 3 with 4
+no mismatch at 6 with 7
+7 rec control as 8 from 5
+no mismatch at 2 with 5
+no mismatch at 7 with 5
+7 rec control as 2 from 2
+2 rec control as 2 from 7
+no mismatch at 7 with 2
+7 rec control as 8 from 4
+no mismatch at 2 with 7
+6 recovery initiated with failure as 0
+2 rec control as 0 from 8
+no mismatch at 7 with 4
+no mismatch at 2 with 8
+2 rec control as 1 from 4
+1 rec control as 0 from 6
+no mismatch at 2 with 4
+2 rec control as 8 from 6
+no mismatch at 1 with 6
+no mismatch at 2 with 6
+3 rec control as 2 from 6
+no mismatch at 3 with 6
+8 rec control as 0 from 5
+4 rec control as 8 from 7
+no mismatch at 8 with 5
+8 rec control as 0 from 2
+6 rec control as 0 from 4
+no mismatch at 4 with 7
+5 rec control as 8 from 7
+4 rec control as 0 from 8
+no mismatch at 8 with 2
+8 rec control as 7 from 7
+no mismatch at 8 with 7
+no mismatch at 5 with 7
+5 rec control as 0 from 4
+7 rec control as 7 from 8
+8 rec control as 0 from 4
+no mismatch at 4 with 8
+4 rec control as 0 from 6
+no mismatch at 5 with 4
+no mismatch at 7 with 8
+no mismatch at 6 with 4
+7 rec control as 2 from 6
+5 rec control as 0 from 8
+6 rec control as 2 from 8
+no mismatch at 4 with 6
+no mismatch at 8 with 4
+8 rec control as 2 from 6
+no mismatch at 7 with 6
+no mismatch at 6 with 8
+no mismatch at 8 with 6
+no mismatch at 5 with 8
+5 rec control as 0 from 6
+no mismatch at 5 with 6
+round 6 completed
+1 recovery initiated with failure as 0
+2 rec control as 0 from 1
+3 rec control as 4 from 1
+no mismatch at 2 with 1
+2 recovery initiated with failure as 0
+no mismatch at 3 with 1
+3 recovery initiated with failure as 0
+4 rec control as 0 from 1
+no mismatch at 4 with 1
+1 rec control as 4 from 3
+no mismatch at 1 with 3
+5 rec control as 2 from 1
+no mismatch at 5 with 1
+1 rec control as 0 from 2
+5 recovery initiated with failure as 0
+no mismatch at 1 with 2
+1 rec control as 2 from 5
+no mismatch at 1 with 5
+6 rec control as 0 from 1
+3 rec control as 0 from 5
+no mismatch at 6 with 1
+4 recovery initiated with failure as 0
+no mismatch at 3 with 5
+6 rec control as 2 from 3
+1 rec control as 0 from 4
+no mismatch at 1 with 4
+no mismatch at 6 with 3
+6 rec control as 0 from 5
+3 rec control as 2 from 4
+no mismatch at 6 with 5
+no mismatch at 3 with 4
+3 rec control as 5 from 2
+no mismatch at 3 with 2
+2 rec control as 5 from 3
+no mismatch at 2 with 3
+2 rec control as 3 from 5
+6 recovery initiated with failure as 0
+no mismatch at 2 with 5
+7 rec control as 0 from 1
+1 rec control as 0 from 6
+no mismatch at 7 with 1
+7 rec control as 7 from 3
+2 rec control as 1 from 4
+no mismatch at 1 with 6
+no mismatch at 2 with 4
+3 rec control as 2 from 6
+2 rec control as 8 from 6
+no mismatch at 2 with 6
+no mismatch at 3 with 6
+4 rec control as 2 from 3
+no mismatch at 4 with 3
+8 rec control as 0 from 1
+4 rec control as 0 from 5
+no mismatch at 4 with 5
+4 rec control as 1 from 2
+no mismatch at 8 with 1
+8 rec control as 5 from 3
+8 recovery initiated with failure as 0
+no mismatch at 4 with 2
+4 rec control as 0 from 6
+1 rec control as 0 from 8
+no mismatch at 1 with 8
+5 rec control as 0 from 3
+3 rec control as 5 from 8
+no mismatch at 5 with 3
+5 rec control as 0 from 4
+no mismatch at 3 with 8
+no mismatch at 5 with 4
+5 rec control as 3 from 2
+no mismatch at 5 with 2
+5 rec control as 0 from 6
+no mismatch at 5 with 6
+5 rec control as 0 from 8
+6 rec control as 0 from 4
+no mismatch at 5 with 8
+no mismatch at 7 with 3
+no mismatch at 6 with 4
+6 rec control as 8 from 2
+7 recovery initiated with failure as 0
+2 rec control as 0 from 8
+no mismatch at 6 with 2
+no mismatch at 8 with 3
+1 rec control as 0 from 7
+6 rec control as 2 from 8
+8 rec control as 0 from 5
+no mismatch at 1 with 7
+no mismatch at 6 with 8
+no mismatch at 4 with 6
+4 rec control as 0 from 8
+no mismatch at 8 with 5
+8 rec control as 0 from 4
+7 rec control as 8 from 5
+3 rec control as 7 from 7
+no mismatch at 2 with 8
+2 rec control as 2 from 7
+no mismatch at 8 with 4
+8 rec control as 0 from 2
+no mismatch at 3 with 7
+no mismatch at 2 with 7
+no mismatch at 8 with 2
+no mismatch at 4 with 8
+8 rec control as 2 from 6
+4 rec control as 8 from 7
+no mismatch at 7 with 5
+7 rec control as 8 from 4
+no mismatch at 8 with 6
+no mismatch at 4 with 7
+5 rec control as 8 from 7
+no mismatch at 7 with 4
+7 rec control as 2 from 2
+no mismatch at 5 with 7
+6 rec control as 2 from 7
+no mismatch at 7 with 2
+8 rec control as 7 from 7
+7 rec control as 2 from 6
+no mismatch at 8 with 7
+no mismatch at 7 with 6
+7 rec control as 7 from 8
+no mismatch at 6 with 7
+no mismatch at 7 with 8
+round 7 completed
+1 recovery initiated with failure as 0
+2 recovery initiated with failure as 0
+3 recovery initiated with failure as 0
+2 rec control as 0 from 1
+1 rec control as 0 from 2
+3 rec control as 4 from 1
+no mismatch at 1 with 2
+1 rec control as 4 from 3
+no mismatch at 3 with 1
+no mismatch at 2 with 1
+3 rec control as 5 from 2
+2 rec control as 5 from 3
+no mismatch at 1 with 3
+no mismatch at 3 with 2
+4 rec control as 2 from 3
+5 recovery initiated with failure as 0
+no mismatch at 2 with 3
+1 rec control as 2 from 5
+5 rec control as 0 from 3
+no mismatch at 1 with 5
+3 rec control as 0 from 5
+no mismatch at 3 with 5
+no mismatch at 4 with 3
+4 rec control as 0 from 5
+no mismatch at 4 with 5
+4 rec control as 1 from 2
+no mismatch at 4 with 2
+8 rec control as 5 from 3
+6 rec control as 2 from 3
+no mismatch at 6 with 3
+6 rec control as 0 from 5
+no mismatch at 8 with 3
+no mismatch at 6 with 5
+8 rec control as 0 from 5
+6 rec control as 8 from 2
+no mismatch at 6 with 2
+4 recovery initiated with failure as 0
+no mismatch at 8 with 5
+8 rec control as 0 from 2
+1 rec control as 0 from 4
+no mismatch at 8 with 2
+no mismatch at 1 with 4
+2 rec control as 3 from 5
+3 rec control as 2 from 4
+6 recovery initiated with failure as 0
+no mismatch at 5 with 3
+no mismatch at 3 with 4
+5 rec control as 3 from 2
+1 rec control as 0 from 6
+7 recovery initiated with failure as 0
+no mismatch at 5 with 2
+5 rec control as 2 from 1
+no mismatch at 1 with 6
+no mismatch at 5 with 1
+5 rec control as 0 from 4
+1 rec control as 0 from 7
+3 rec control as 2 from 6
+8 recovery initiated with failure as 0
+no mismatch at 5 with 4
+no mismatch at 1 with 7
+no mismatch at 3 with 6
+7 rec control as 7 from 3
+1 rec control as 0 from 8
+no mismatch at 1 with 8
+3 rec control as 7 from 7
+no mismatch at 3 with 7
+3 rec control as 5 from 8
+4 rec control as 0 from 1
+no mismatch at 3 with 8
+6 rec control as 0 from 1
+no mismatch at 4 with 1
+no mismatch at 6 with 1
+6 rec control as 0 from 4
+4 rec control as 0 from 6
+no mismatch at 2 with 5
+2 rec control as 1 from 4
+no mismatch at 6 with 4
+no mismatch at 4 with 6
+6 rec control as 2 from 8
+4 rec control as 8 from 7
+8 rec control as 0 from 1
+no mismatch at 2 with 4
+5 rec control as 0 from 6
+2 rec control as 8 from 6
+no mismatch at 6 with 8
+no mismatch at 4 with 7
+4 rec control as 0 from 8
+6 rec control as 2 from 7
+no mismatch at 2 with 6
+2 rec control as 2 from 7
+no mismatch at 7 with 3
+no mismatch at 5 with 6
+no mismatch at 4 with 8
+5 rec control as 0 from 8
+no mismatch at 6 with 7
+no mismatch at 2 with 7
+7 rec control as 8 from 5
+2 rec control as 0 from 8
+no mismatch at 8 with 1
+8 rec control as 0 from 4
+no mismatch at 2 with 8
+no mismatch at 8 with 4
+no mismatch at 5 with 8
+5 rec control as 8 from 7
+8 rec control as 2 from 6
+no mismatch at 7 with 5
+7 rec control as 2 from 2
+no mismatch at 8 with 6
+no mismatch at 5 with 7
+8 rec control as 7 from 7
+no mismatch at 7 with 2
+7 rec control as 0 from 1
+no mismatch at 8 with 7
+no mismatch at 7 with 1
+7 rec control as 8 from 4
+no mismatch at 7 with 4
+7 rec control as 2 from 6
+no mismatch at 7 with 6
+7 rec control as 7 from 8
+no mismatch at 7 with 8
+round 8 completed
+Rollback1 completed and it took 14097353 ms.
+1 has 500
+2 has 204
+3 has 320
+4 has 19
+5 has 55
+6 has 234
+7 has 478
+8 has 190
+2 sent 78 to node 5
+Amount after add to node 5 = 133
+7 sent 20 to node 1
+Amount after add to node 1 = 520
+3 sent 84 to node 8
+5 sent 9 to node 4
+Amount after add to node 4 = 28
+Amount after add to node 8 = 274
+The amount at 2 after sent to 5 = 126
+8 sent 89 to node 2
+Amount after add to node 2 = 215
+6 sent 81 to node 5
+Amount after add to node 5 = 214
+4 sent 1 to node 2
+The amount at 7 after sent to 1 = 458
+The amount at 3 after sent to 8 = 236
+The amount at 8 after sent to 2 = 185
+The amount at 6 after sent to 5 = 153
+Amount after add to node 2 = 216
+The amount at 5 after sent to 4 = 205
+The amount at 4 after sent to 2 = 27
+6 sent 37 to node 5
+2 sent 100 to node 7
+Amount after add to node 3 = 266
+Amount after add to node 6 = 203
+5 sent 76 to node 7
+3 sent 50 to node 6
+4 sent 9 to node 3
+7 sent 30 to node 3
+Amount after add to node 5 = 242
+8 sent 36 to node 7
+Amount after add to node 7 = 558
+Amount after add to node 3 = 275
+Amount after add to node 7 = 634
+The amount at 3 after sent to 6 = 225
+The amount at 4 after sent to 3 = 18
+The amount at 6 after sent to 5 = 166
+Amount after add to node 7 = 670
+The amount at 2 after sent to 7 = 116
+The amount at 5 after sent to 7 = 166
+The amount at 7 after sent to 3 = 640
+The amount at 8 after sent to 7 = 149
+2 sent 54 to node 4
+Amount after add to node 3 = 265
+Amount after add to node 2 = 128
+8 sent 40 to node 3
+Amount after add to node 6 = 386
+7 sent 220 to node 6
+Amount after add to node 5 = 187
+4 sent 1 to node 2
+5 sent 62 to node 1
+6 sent 21 to node 5
+Amount after add to node 1 = 582
+3 sent 12 to node 2
+Amount after add to node 4 = 72
+The amount at 3 after sent to 2 = 253
+The amount at 8 after sent to 3 = 109
+The amount at 7 after sent to 6 = 420
+The amount at 6 after sent to 5 = 365
+Amount after add to node 2 = 129
+The amount at 5 after sent to 1 = 125
+The amount at 2 after sent to 4 = 75
+The amount at 4 after sent to 2 = 71
+2 sent 34 to node 1
+5 sent 18 to node 1
+Amount after add to node 1 = 616
+Amount after add to node 2 = 93
+4 sent 18 to node 2
+3 sent 102 to node 4
+Amount after add to node 4 = 173
+7 sent 18 to node 6
+Amount after add to node 5 = 157
+Amount after add to node 6 = 383
+8 sent 12 to node 3
+Amount after add to node 3 = 265
+Amount after add to node 1 = 634
+6 sent 32 to node 5
+The amount at 2 after sent to 1 = 59
+The amount at 4 after sent to 2 = 155
+The amount at 5 after sent to 1 = 139
+The amount at 7 after sent to 6 = 402
+The amount at 6 after sent to 5 = 351
+The amount at 3 after sent to 4 = 163
+The amount at 8 after sent to 3 = 97
+6 recovery initiated with failure as 1
+1 rec control as 0 from 6
+2 rec control as 8 from 6
+3 rec control as 3 from 6
+no mismatch at 1 with 6
+4 rec control as 0 from 6
+no mismatch at 2 with 6
+no mismatch at 3 with 6
+5 rec control as 3 from 6
+mismatch of 1 at 5 with 6
+5 before update has 139
+5 updated to 125
+no mismatch at 4 with 6
+7 rec control as 4 from 6
+8 rec control as 2 from 6
+no mismatch at 7 with 6
+no mismatch at 8 with 6
+1 recovery initiated with failure as 0
+2 recovery initiated with failure as 0
+2 rec control as 1 from 1
+3 recovery initiated with failure as 0
+3 rec control as 4 from 1
+no mismatch at 2 with 1
+no mismatch at 3 with 1
+4 recovery initiated with failure as 0
+1 rec control as 1 from 2
+no mismatch at 1 with 2
+1 rec control as 4 from 3
+3 rec control as 4 from 4
+6 rec control as 3 from 3
+no mismatch at 1 with 3
+1 rec control as 0 from 4
+no mismatch at 6 with 3
+no mismatch at 3 with 4
+6 rec control as 0 from 1
+3 rec control as 6 from 2
+no mismatch at 1 with 4
+no mismatch at 6 with 1
+no mismatch at 3 with 2
+6 rec control as 0 from 4
+no mismatch at 6 with 4
+5 recovery initiated with failure as 0
+2 rec control as 6 from 3
+1 rec control as 3 from 5
+mismatch of 1 at 1 with 5
+no mismatch at 2 with 3
+1 before update has 634
+1 updated to 616
+2 rec control as 5 from 4
+no mismatch at 2 with 4
+2 rec control as 4 from 5
+7 rec control as 1 from 1
+3 rec control as 0 from 5
+no mismatch at 2 with 5
+no mismatch at 7 with 1
+7 rec control as 8 from 3
+no mismatch at 3 with 5
+8 rec control as 0 from 1
+no mismatch at 7 with 3
+7 rec control as 8 from 4
+6 rec control as 3 from 5
+no mismatch at 7 with 4
+no mismatch at 8 with 1
+8 rec control as 8 from 3
+no mismatch at 6 with 5
+5 rec control as 0 from 3
+no mismatch at 8 with 3
+8 rec control as 0 from 4
+7 recovery initiated with failure as 0
+no mismatch at 5 with 3
+5 rec control as 4 from 1
+no mismatch at 8 with 4
+1 rec control as 1 from 7
+8 rec control as 0 from 5
+8 recovery initiated with failure as 0
+6 rec control as 8 from 2
+no mismatch at 1 with 7
+no mismatch at 8 with 5
+no mismatch at 5 with 1
+1 rec control as 0 from 8
+no mismatch at 6 with 2
+5 rec control as 1 from 4
+no mismatch at 1 with 8
+3 rec control as 8 from 7
+no mismatch at 5 with 4
+5 rec control as 4 from 2
+no mismatch at 3 with 7
+4 rec control as 0 from 1
+3 rec control as 8 from 8
+no mismatch at 5 with 2
+no mismatch at 3 with 8
+5 rec control as 9 from 7
+7 rec control as 9 from 5
+6 rec control as 4 from 7
+no mismatch at 5 with 7
+no mismatch at 7 with 5
+7 rec control as 3 from 2
+no mismatch at 6 with 7
+6 rec control as 2 from 8
+no mismatch at 7 with 2
+2 rec control as 3 from 7
+no mismatch at 6 with 8
+no mismatch at 4 with 1
+5 rec control as 0 from 8
+4 rec control as 4 from 3
+no mismatch at 2 with 7
+2 rec control as 1 from 8
+no mismatch at 4 with 3
+no mismatch at 5 with 8
+8 rec control as 1 from 2
+4 rec control as 5 from 2
+no mismatch at 2 with 8
+no mismatch at 8 with 2
+no mismatch at 4 with 2
+8 rec control as 8 from 7
+4 rec control as 1 from 5
+no mismatch at 4 with 5
+no mismatch at 8 with 7
+4 rec control as 8 from 7
+7 rec control as 8 from 8
+no mismatch at 7 with 8
+no mismatch at 4 with 7
+4 rec control as 0 from 8
+no mismatch at 4 with 8
+round 1 completed
+1 recovery initiated with failure as 0
+2 recovery initiated with failure as 0
+3 rec control as 4 from 1
+2 rec control as 1 from 1
+no mismatch at 3 with 1
+4 rec control as 0 from 1
+no mismatch at 2 with 1
+1 rec control as 1 from 2
+no mismatch at 4 with 1
+4 recovery initiated with failure as 0
+5 rec control as 3 from 1
+no mismatch at 1 with 2
+3 rec control as 6 from 2
+1 rec control as 0 from 4
+no mismatch at 3 with 2
+no mismatch at 5 with 1
+5 recovery initiated with failure as 0
+6 rec control as 0 from 1
+no mismatch at 1 with 4
+4 rec control as 5 from 2
+3 rec control as 4 from 4
+no mismatch at 4 with 2
+no mismatch at 6 with 1
+6 rec control as 8 from 2
+no mismatch at 3 with 4
+7 rec control as 1 from 1
+no mismatch at 6 with 2
+6 rec control as 0 from 4
+no mismatch at 7 with 1
+7 rec control as 3 from 2
+no mismatch at 7 with 2
+no mismatch at 6 with 4
+7 rec control as 8 from 4
+2 rec control as 5 from 4
+6 rec control as 3 from 5
+no mismatch at 7 with 4
+7 rec control as 9 from 5
+no mismatch at 6 with 5
+no mismatch at 2 with 4
+8 rec control as 0 from 1
+2 rec control as 4 from 5
+3 recovery initiated with failure as 0
+no mismatch at 2 with 5
+no mismatch at 8 with 1
+8 rec control as 1 from 2
+no mismatch at 8 with 2
+8 rec control as 0 from 4
+no mismatch at 8 with 4
+8 rec control as 0 from 5
+no mismatch at 8 with 5
+no mismatch at 7 with 5
+7 rec control as 8 from 3
+1 rec control as 3 from 5
+no mismatch at 7 with 3
+5 rec control as 4 from 2
+4 rec control as 1 from 5
+no mismatch at 5 with 2
+5 rec control as 1 from 4
+no mismatch at 4 with 5
+no mismatch at 5 with 4
+5 rec control as 0 from 3
+4 rec control as 4 from 3
+no mismatch at 5 with 3
+no mismatch at 4 with 3
+3 rec control as 0 from 5
+6 rec control as 3 from 3
+no mismatch at 3 with 5
+2 rec control as 6 from 3
+no mismatch at 6 with 3
+8 rec control as 8 from 3
+no mismatch at 8 with 3
+no mismatch at 1 with 5
+1 rec control as 4 from 3
+no mismatch at 2 with 3
+6 recovery initiated with failure as 0
+no mismatch at 1 with 3
+7 recovery initiated with failure as 0
+1 rec control as 0 from 6
+2 rec control as 8 from 6
+no mismatch at 1 with 6
+1 rec control as 1 from 7
+no mismatch at 2 with 6
+2 rec control as 3 from 7
+no mismatch at 1 with 7
+3 rec control as 3 from 6
+no mismatch at 2 with 7
+4 rec control as 0 from 6
+no mismatch at 3 with 6
+3 rec control as 8 from 7
+no mismatch at 4 with 6
+4 rec control as 8 from 7
+no mismatch at 3 with 7
+no mismatch at 4 with 7
+5 rec control as 9 from 7
+6 rec control as 4 from 7
+8 recovery initiated with failure as 0
+no mismatch at 5 with 7
+no mismatch at 6 with 7
+8 rec control as 8 from 7
+no mismatch at 8 with 7
+3 rec control as 8 from 8
+2 rec control as 1 from 8
+no mismatch at 2 with 8
+1 rec control as 0 from 8
+no mismatch at 3 with 8
+no mismatch at 1 with 8
+5 rec control as 3 from 6
+no mismatch at 5 with 6
+7 rec control as 4 from 6
+5 rec control as 0 from 8
+no mismatch at 5 with 8
+no mismatch at 7 with 6
+4 rec control as 0 from 8
+no mismatch at 4 with 8
+8 rec control as 2 from 6
+no mismatch at 8 with 6
+6 rec control as 2 from 8
+no mismatch at 6 with 8
+7 rec control as 8 from 8
+no mismatch at 7 with 8
+round 2 completed
+1 recovery initiated with failure as 0
+2 recovery initiated with failure as 0
+2 rec control as 1 from 1
+no mismatch at 2 with 1
+3 rec control as 4 from 1
+4 recovery initiated with failure as 0
+5 rec control as 3 from 1
+no mismatch at 3 with 1
+3 rec control as 6 from 2
+no mismatch at 3 with 2
+no mismatch at 5 with 1
+1 rec control as 1 from 2
+5 recovery initiated with failure as 0
+5 rec control as 4 from 2
+4 rec control as 0 from 1
+no mismatch at 1 with 2
+1 rec control as 0 from 4
+no mismatch at 4 with 1
+4 rec control as 5 from 2
+no mismatch at 1 with 4
+1 rec control as 3 from 5
+no mismatch at 5 with 2
+no mismatch at 4 with 2
+no mismatch at 1 with 5
+5 rec control as 1 from 4
+6 rec control as 0 from 1
+7 rec control as 1 from 1
+no mismatch at 6 with 1
+6 rec control as 8 from 2
+no mismatch at 5 with 4
+8 rec control as 0 from 1
+no mismatch at 6 with 2
+3 rec control as 4 from 4
+6 rec control as 0 from 4
+no mismatch at 6 with 4
+no mismatch at 3 with 4
+6 rec control as 3 from 5
+no mismatch at 8 with 1
+3 rec control as 0 from 5
+8 rec control as 1 from 2
+no mismatch at 6 with 5
+3 recovery initiated with failure as 0
+4 rec control as 1 from 5
+no mismatch at 8 with 2
+no mismatch at 3 with 5
+8 rec control as 0 from 4
+no mismatch at 7 with 1
+7 rec control as 3 from 2
+no mismatch at 4 with 5
+2 rec control as 5 from 4
+4 rec control as 4 from 3
+no mismatch at 2 with 4
+2 rec control as 4 from 5
+no mismatch at 8 with 4
+no mismatch at 4 with 3
+8 rec control as 0 from 5
+no mismatch at 2 with 5
+5 rec control as 0 from 3
+2 rec control as 6 from 3
+no mismatch at 7 with 2
+no mismatch at 8 with 5
+8 rec control as 8 from 3
+no mismatch at 2 with 3
+no mismatch at 5 with 3
+7 rec control as 8 from 4
+1 rec control as 4 from 3
+no mismatch at 8 with 3
+no mismatch at 1 with 3
+6 recovery initiated with failure as 0
+6 rec control as 3 from 3
+no mismatch at 7 with 4
+7 rec control as 9 from 5
+no mismatch at 6 with 3
+1 rec control as 0 from 6
+8 recovery initiated with failure as 0
+7 recovery initiated with failure as 0
+no mismatch at 1 with 6
+no mismatch at 7 with 5
+7 rec control as 8 from 3
+no mismatch at 7 with 3
+1 rec control as 0 from 8
+6 rec control as 2 from 8
+2 rec control as 8 from 6
+3 rec control as 3 from 6
+4 rec control as 0 from 6
+no mismatch at 3 with 6
+no mismatch at 2 with 6
+no mismatch at 4 with 6
+2 rec control as 1 from 8
+7 rec control as 4 from 6
+4 rec control as 0 from 8
+no mismatch at 4 with 8
+no mismatch at 2 with 8
+4 rec control as 8 from 7
+2 rec control as 3 from 7
+no mismatch at 6 with 8
+6 rec control as 4 from 7
+8 rec control as 2 from 6
+no mismatch at 4 with 7
+no mismatch at 2 with 7
+no mismatch at 1 with 8
+no mismatch at 6 with 7
+1 rec control as 1 from 7
+3 rec control as 8 from 8
+no mismatch at 8 with 6
+8 rec control as 8 from 7
+5 rec control as 0 from 8
+no mismatch at 7 with 6
+no mismatch at 1 with 7
+no mismatch at 3 with 8
+7 rec control as 8 from 8
+3 rec control as 8 from 7
+no mismatch at 5 with 8
+5 rec control as 3 from 6
+no mismatch at 8 with 7
+no mismatch at 5 with 6
+5 rec control as 9 from 7
+no mismatch at 3 with 7
+no mismatch at 7 with 8
+no mismatch at 5 with 7
+round 3 completed
+1 recovery initiated with failure as 0
+2 recovery initiated with failure as 0
+2 rec control as 1 from 1
+no mismatch at 2 with 1
+1 rec control as 1 from 2
+3 rec control as 4 from 1
+4 recovery initiated with failure as 0
+5 rec control as 3 from 1
+no mismatch at 3 with 1
+4 rec control as 0 from 1
+3 recovery initiated with failure as 0
+no mismatch at 5 with 1
+6 rec control as 0 from 1
+no mismatch at 4 with 1
+no mismatch at 1 with 2
+7 rec control as 1 from 1
+1 rec control as 0 from 4
+no mismatch at 6 with 1
+2 rec control as 5 from 4
+no mismatch at 1 with 4
+no mismatch at 7 with 1
+3 rec control as 4 from 4
+1 rec control as 4 from 3
+5 recovery initiated with failure as 0
+no mismatch at 3 with 4
+no mismatch at 1 with 3
+3 rec control as 6 from 2
+5 rec control as 1 from 4
+no mismatch at 3 with 2
+6 rec control as 0 from 4
+no mismatch at 6 with 4
+6 rec control as 8 from 2
+1 rec control as 3 from 5
+no mismatch at 6 with 2
+7 rec control as 8 from 4
+no mismatch at 1 with 5
+no mismatch at 5 with 4
+4 rec control as 4 from 3
+no mismatch at 2 with 4
+2 rec control as 6 from 3
+no mismatch at 7 with 4
+7 rec control as 3 from 2
+no mismatch at 4 with 3
+4 rec control as 5 from 2
+no mismatch at 2 with 3
+2 rec control as 4 from 5
+no mismatch at 7 with 2
+3 rec control as 0 from 5
+no mismatch at 4 with 2
+4 rec control as 1 from 5
+no mismatch at 2 with 5
+5 rec control as 4 from 2
+6 rec control as 3 from 3
+no mismatch at 4 with 5
+7 rec control as 8 from 3
+no mismatch at 6 with 3
+no mismatch at 3 with 5
+6 rec control as 3 from 5
+no mismatch at 7 with 3
+7 rec control as 9 from 5
+6 recovery initiated with failure as 0
+no mismatch at 5 with 2
+no mismatch at 6 with 5
+5 rec control as 0 from 3
+no mismatch at 7 with 5
+8 rec control as 0 from 1
+1 rec control as 0 from 6
+no mismatch at 8 with 1
+8 rec control as 0 from 4
+no mismatch at 1 with 6
+no mismatch at 8 with 4
+2 rec control as 8 from 6
+8 rec control as 1 from 2
+no mismatch at 5 with 3
+no mismatch at 8 with 2
+3 rec control as 3 from 6
+8 rec control as 8 from 3
+no mismatch at 2 with 6
+4 rec control as 0 from 6
+no mismatch at 8 with 3
+8 rec control as 0 from 5
+no mismatch at 3 with 6
+7 recovery initiated with failure as 0
+no mismatch at 8 with 5
+8 rec control as 2 from 6
+no mismatch at 4 with 6
+no mismatch at 8 with 6
+5 rec control as 3 from 6
+7 rec control as 4 from 6
+1 rec control as 1 from 7
+no mismatch at 7 with 6
+no mismatch at 5 with 6
+no mismatch at 1 with 7
+2 rec control as 3 from 7
+3 rec control as 8 from 7
+no mismatch at 3 with 7
+no mismatch at 2 with 7
+4 rec control as 8 from 7
+5 rec control as 9 from 7
+8 recovery initiated with failure as 0
+6 rec control as 4 from 7
+no mismatch at 4 with 7
+8 rec control as 8 from 7
+no mismatch at 5 with 7
+no mismatch at 6 with 7
+1 rec control as 0 from 8
+no mismatch at 8 with 7
+no mismatch at 1 with 8
+2 rec control as 1 from 8
+3 rec control as 8 from 8
+4 rec control as 0 from 8
+no mismatch at 2 with 8
+no mismatch at 3 with 8
+5 rec control as 0 from 8
+no mismatch at 4 with 8
+no mismatch at 5 with 8
+6 rec control as 2 from 8
+7 rec control as 8 from 8
+no mismatch at 6 with 8
+no mismatch at 7 with 8
+round 4 completed
+1 recovery initiated with failure as 0
+2 recovery initiated with failure as 0
+2 rec control as 1 from 1
+3 recovery initiated with failure as 0
+no mismatch at 2 with 1
+1 rec control as 1 from 2
+3 rec control as 4 from 1
+no mismatch at 1 with 2
+4 rec control as 0 from 1
+1 rec control as 4 from 3
+no mismatch at 1 with 3
+no mismatch at 4 with 1
+4 rec control as 5 from 2
+no mismatch at 3 with 1
+5 rec control as 4 from 2
+no mismatch at 4 with 2
+4 rec control as 4 from 3
+no mismatch at 5 with 2
+5 rec control as 0 from 3
+no mismatch at 4 with 3
+no mismatch at 5 with 3
+6 rec control as 8 from 2
+4 recovery initiated with failure as 0
+no mismatch at 6 with 2
+6 rec control as 3 from 3
+no mismatch at 6 with 3
+5 recovery initiated with failure as 0
+1 rec control as 0 from 4
+6 recovery initiated with failure as 0
+no mismatch at 1 with 4
+3 rec control as 6 from 2
+no mismatch at 3 with 2
+3 rec control as 4 from 4
+no mismatch at 3 with 4
+7 rec control as 3 from 2
+no mismatch at 7 with 2
+7 rec control as 8 from 3
+no mismatch at 7 with 3
+7 rec control as 1 from 1
+no mismatch at 7 with 1
+7 rec control as 9 from 5
+7 recovery initiated with failure as 0
+no mismatch at 7 with 5
+7 rec control as 4 from 6
+2 rec control as 6 from 3
+8 recovery initiated with failure as 0
+no mismatch at 7 with 6
+5 rec control as 3 from 1
+7 rec control as 8 from 4
+no mismatch at 2 with 3
+2 rec control as 5 from 4
+no mismatch at 7 with 4
+4 rec control as 1 from 5
+no mismatch at 5 with 1
+5 rec control as 1 from 4
+no mismatch at 2 with 4
+2 rec control as 4 from 5
+no mismatch at 4 with 5
+4 rec control as 0 from 6
+no mismatch at 2 with 5
+2 rec control as 8 from 6
+no mismatch at 4 with 6
+1 rec control as 3 from 5
+no mismatch at 2 with 6
+2 rec control as 1 from 8
+no mismatch at 1 with 5
+1 rec control as 0 from 6
+no mismatch at 2 with 8
+no mismatch at 1 with 6
+2 rec control as 3 from 7
+1 rec control as 1 from 7
+no mismatch at 2 with 7
+no mismatch at 1 with 7
+3 rec control as 0 from 5
+1 rec control as 0 from 8
+no mismatch at 1 with 8
+6 rec control as 0 from 1
+8 rec control as 1 from 2
+no mismatch at 5 with 4
+no mismatch at 8 with 2
+4 rec control as 0 from 8
+no mismatch at 6 with 1
+7 rec control as 8 from 8
+6 rec control as 3 from 5
+no mismatch at 7 with 8
+no mismatch at 3 with 5
+no mismatch at 4 with 8
+3 rec control as 3 from 6
+no mismatch at 6 with 5
+4 rec control as 8 from 7
+6 rec control as 0 from 4
+no mismatch at 6 with 4
+no mismatch at 4 with 7
+5 rec control as 3 from 6
+6 rec control as 2 from 8
+8 rec control as 8 from 3
+no mismatch at 6 with 8
+no mismatch at 8 with 3
+6 rec control as 4 from 7
+no mismatch at 5 with 6
+8 rec control as 0 from 5
+5 rec control as 0 from 8
+no mismatch at 6 with 7
+no mismatch at 3 with 6
+3 rec control as 8 from 8
+no mismatch at 5 with 8
+5 rec control as 9 from 7
+no mismatch at 8 with 5
+8 rec control as 0 from 1
+no mismatch at 3 with 8
+3 rec control as 8 from 7
+no mismatch at 8 with 1
+8 rec control as 2 from 6
+no mismatch at 5 with 7
+no mismatch at 3 with 7
+no mismatch at 8 with 6
+8 rec control as 0 from 4
+no mismatch at 8 with 4
+8 rec control as 8 from 7
+no mismatch at 8 with 7
+round 5 completed
+1 recovery initiated with failure as 0
+2 recovery initiated with failure as 0
+2 rec control as 1 from 1
+3 recovery initiated with failure as 0
+no mismatch at 2 with 1
+1 rec control as 1 from 2
+3 rec control as 4 from 1
+4 rec control as 0 from 1
+no mismatch at 4 with 1
+4 rec control as 5 from 2
+no mismatch at 3 with 1
+3 rec control as 6 from 2
+no mismatch at 4 with 2
+2 rec control as 6 from 3
+4 rec control as 4 from 3
+no mismatch at 3 with 2
+4no mismatch at  recovery initiated with failure as 4 with 3
+no mismatch at 2 with 3
+no mismatch at 1 with 2
+5 rec control as 3 from 1
+1 rec control as 4 from 3
+6 rec control as 0 from 1
+7 rec control as 1 from 1
+0
+no mismatch at 5 with 1
+no mismatch at 1 with 3
+5 rec control as 0 from 3
+no mismatch at 7 with 1
+7 rec control as 8 from 3
+no mismatch at 6 with 1
+6 rec control as 3 from 3
+8 rec control as 0 from 1
+no mismatch at 5 with 3
+5 rec control as 4 from 2
+no mismatch at 7 with 3
+7 rec control as 3 from 2
+no mismatch at 8 with 1
+no mismatch at 6 with 3
+8 rec control as 8 from 3
+no mismatch at 5 with 2
+6 rec control as 8 from 2
+no mismatch at 7 with 2
+5 recovery initiated with failure as 0
+7 recovery initiated with failure as 0
+6 recovery initiated with failure as 0
+no mismatch at 8 with 3
+8 rec control as 1 from 2
+no mismatch at 6 with 2
+1 rec control as 0 from 4
+8 recovery initiated with failure as 0
+no mismatch at 8 with 2
+no mismatch at 1 with 4
+1 rec control as 1 from 7
+2 rec control as 3 from 7
+no mismatch at 1 with 7
+1 rec control as 3 from 5
+3 rec control as 8 from 7
+no mismatch at 2 with 7
+no mismatch at 1 with 5
+1 rec control as 0 from 8
+no mismatch at 3 with 7
+5 rec control as 9 from 7
+3 rec control as 0 from 5
+no mismatch at 5 with 7
+5 rec control as 0 from 8
+no mismatch at 3 with 5
+no mismatch at 5 with 8
+3 rec control as 8 from 8
+no mismatch at 1 with 8
+1 rec control as 0 from 6
+no mismatch at 3 with 8
+no mismatch at 1 with 6
+4 rec control as 1 from 5
+no mismatch at 4 with 5
+4 rec control as 8 from 7
+2 rec control as 4 from 5
+no mismatch at 4 with 7
+4 rec control as 0 from 8
+no mismatch at 2 with 5
+5 rec control as 1 from 4
+no mismatch at 4 with 8
+7 rec control as 9 from 5
+no mismatch at 5 with 4
+6 rec control as 3 from 5
+no mismatch at 7 with 5
+7 rec control as 8 from 8
+3 rec control as 4 from 4
+2 rec control as 1 from 8
+no mismatch at 2 with 8
+no mismatch at 3 with 4
+2 rec control as 8 from 6
+3 rec control as 3 from 6
+no mismatch at 7 with 8
+no mismatch at 6 with 5
+no mismatch at 2 with 6
+6 rec control as 4 from 7
+no mismatch at 3 with 6
+8 rec control as 8 from 7
+4 rec control as 0 from 6
+no mismatch at 6 with 7
+no mismatch at 8 with 7
+6 rec control as 2 from 8
+8 rec control as 0 from 5
+no mismatch at 4 with 6
+2 rec control as 5 from 4
+5 rec control as 3 from 6
+no mismatch at 6 with 8
+no mismatch at 8 with 5
+6 rec control as 0 from 4
+no mismatch at 2 with 4
+no mismatch at 5 with 6
+no mismatch at 6 with 4
+7 rec control as 8 from 4
+8 rec control as 0 from 4
+no mismatch at 7 with 4
+7 rec control as 4 from 6
+no mismatch at 8 with 4
+8 rec control as 2 from 6
+no mismatch at 7 with 6
+no mismatch at 8 with 6
+round 6 completed
+1 recovery initiated with failure as 0
+2 recovery initiated with failure as 0
+2 rec control as 1 from 1
+3 recovery initiated with failure as 0
+1 rec control as 1 from 2
+4 rec control as 0 from 1
+5 recovery initiated with failure as 0
+5 rec control as 3 from 1
+no mismatch at 4 with 1
+no mismatch at 5 with 1
+4 rec control as 5 from 2
+3 rec control as 4 from 1
+no mismatch at 3 with 1
+no mismatch at 4 with 2
+3 rec control as 6 from 2
+no mismatch at 2 with 1
+2 rec control as 4 from 5
+no mismatch at 3 with 2
+3 rec control as 0 from 5
+no mismatch at 2 with 5
+6 rec control as 0 from 1
+no mismatch at 3 with 5
+7 recovery initiated with failure as 0
+8 recovery initiated with failure as 0
+no mismatch at 6 with 1
+7 rec control as 1 from 1
+2 rec control as 6 from 3
+no mismatch at 1 with 2
+no mismatch at 7 with 1
+8 rec control as 0 from 1
+4 rec control as 1 from 5
+6 rec control as 3 from 5
+no mismatch at 8 with 1
+no mismatch at 6 with 5
+no mismatch at 4 with 5
+7 rec control as 9 from 5
+3 rec control as 8 from 7
+no mismatch at 7 with 5
+no mismatch at 3 with 7
+3 rec control as 8 from 8
+no mismatch at 3 with 8
+1 rec control as 4 from 3
+4 recovery initiated with failure as 0
+no mismatch at 1 with 3
+1 rec control as 3 from 5
+no mismatch at 1 with 5
+5 rec control as 4 from 2
+1 rec control as 1 from 7
+6 recovery initiated with failure as 0
+no mismatch at 5 with 2
+no mismatch at 1 with 7
+5 rec control as 9 from 7
+3 rec control as 4 from 4
+no mismatch at 5 with 7
+5 rec control as 0 from 8
+no mismatch at 3 with 4
+no mismatch at 5 with 8
+5 rec control as 1 from 4
+no mismatch at 5 with 4
+8 rec control as 0 from 5
+5 rec control as 0 from 3
+no mismatch at 5 with 3
+no mismatch at 8 with 5
+8 rec control as 8 from 7
+5 rec control as 3 from 6
+no mismatch at 8 with 7
+8 rec control as 1 from 2
+no mismatch at 5 with 6
+4 rec control as 8 from 7
+no mismatch at 8 with 2
+8 rec control as 0 from 4
+7 rec control as 8 from 8
+no mismatch at 4 with 7
+4 rec control as 0 from 8
+6 rec control as 4 from 7
+no mismatch at 4 with 8
+no mismatch at 2 with 3
+4 rec control as 4 from 3
+no mismatch at 8 with 4
+2 rec control as 3 from 7
+1 rec control as 0 from 8
+no mismatch at 6 with 7
+3 rec control as 3 from 6
+6 rec control as 2 from 8
+no mismatch at 7 with 8
+no mismatch at 2 with 7
+2 rec control as 1 from 8
+no mismatch at 3 with 6
+no mismatch at 1 with 8
+7 rec control as 3 from 2
+no mismatch at 6 with 8
+6 rec control as 8 from 2
+1 rec control as 0 from 4
+no mismatch at 7 with 2
+7 rec control as 8 from 4
+no mismatch at 1 with 4
+no mismatch at 2 with 8
+1 rec control as 0 from 6
+2 rec control as 5 from 4
+no mismatch at 1 with 6
+no mismatch at 2 with 4
+no mismatch at 4 with 3
+2 rec control as 8 from 6
+no mismatch at 7 with 4
+4 rec control as 0 from 6
+8 rec control as 8 from 3
+7 rec control as 8 from 3
+no mismatch at 2 with 6
+no mismatch at 6 with 2
+no mismatch at 8 with 3
+8 rec control as 2 from 6
+no mismatch at 4 with 6
+6 rec control as 0 from 4
+no mismatch at 7 with 3
+7 rec control as 4 from 6
+no mismatch at 8 with 6
+no mismatch at 6 with 4
+6 rec control as 3 from 3
+no mismatch at 7 with 6
+no mismatch at 6 with 3
+round 7 completed
+1 recovery initiated with failure as 0
+2 recovery initiated with failure as 0
+2 rec control as 1 from 1
+no mismatch at 2 with 1
+3 rec control as 4 from 1
+4 rec control as 5 from 2
+1 rec control as 1 from 2
+5 rec control as 4 from 2
+no mismatch at 4 with 2
+4 rec control as 0 from 1
+no mismatch at 5 with 2
+no mismatch at 3 with 1
+no mismatch at 4 with 1
+3 rec control as 6 from 2
+no mismatch at 1 with 2
+no mismatch at 3 with 2
+5 recovery initiated with failure as 0
+6 rec control as 8 from 2
+7 rec control as 3 from 2
+no mismatch at 7 with 2
+no mismatch at 6 with 2
+7 recovery initiated with failure as 0
+1 rec control as 3 from 5
+8 recovery initiated with failure as 0
+no mismatch at 1 with 5
+1 rec control as 1 from 7
+2 rec control as 4 from 5
+4 recovery initiated with failure as 0
+no mismatch at 2 with 5
+2 rec control as 3 from 7
+no mismatch at 1 with 7
+1 rec control as 0 from 8
+no mismatch at 2 with 7
+2 rec control as 1 from 8
+no mismatch at 1 with 8
+no mismatch at 2 with 8
+5 rec control as 3 from 1
+no mismatch at 5 with 1
+5 rec control as 9 from 7
+3 recovery initiated with failure as 0
+no mismatch at 5 with 7
+5 rec control as 0 from 8
+6 recovery initiated with failure as 0
+no mismatch at 5 with 8
+2 rec control as 5 from 4
+no mismatch at 2 with 4
+2 rec control as 6 from 3
+no mismatch at 2 with 3
+5 rec control as 1 from 4
+2 rec control as 8 from 6
+no mismatch at 2 with 6
+no mismatch at 5 with 4
+5 rec control as 0 from 3
+no mismatch at 5 with 3
+7 rec control as 8 from 8
+3 rec control as 8 from 7
+no mismatch at 7 with 8
+7 rec control as 1 from 1
+no mismatch at 3 with 7
+3 rec control as 0 from 5
+no mismatch at 7 with 1
+7 rec control as 8 from 4
+5 rec control as 3 from 6
+no mismatch at 3 with 5
+3 rec control as 8 from 8
+no mismatch at 5 with 6
+no mismatch at 3 with 8
+3 rec control as 4 from 4
+1 rec control as 0 from 4
+no mismatch at 7 with 4
+8 rec control as 8 from 7
+7 rec control as 9 from 5
+no mismatch at 3 with 4
+3 rec control as 3 from 6
+no mismatch at 1 with 4
+1 rec control as 4 from 3
+no mismatch at 7 with 5
+7 rec control as 8 from 3
+no mismatch at 3 with 6
+no mismatch at 8 with 7
+4 rec control as 8 from 7
+6 rec control as 4 from 7
+no mismatch at 1 with 3
+1 rec control as 0 from 6
+no mismatch at 4 with 7
+4 rec control as 0 from 8
+no mismatch at 7 with 3
+7 rec control as 4 from 6
+no mismatch at 6 with 7
+6 rec control as 2 from 8
+no mismatch at 4 with 8
+4 rec control as 1 from 5
+8 rec control as 1 from 2
+no mismatch at 1 with 6
+no mismatch at 4 with 5
+no mismatch at 6 with 8
+4 rec control as 4 from 3
+6 rec control as 0 from 1
+no mismatch at 8 with 2
+no mismatch at 7 with 6
+8 rec control as 0 from 1
+no mismatch at 4 with 3
+4 rec control as 0 from 6
+no mismatch at 6 with 1
+6 rec control as 3 from 5
+no mismatch at 8 with 1
+8 rec control as 0 from 5
+no mismatch at 4 with 6
+no mismatch at 8 with 5
+8 rec control as 0 from 4
+no mismatch at 6 with 5
+6 rec control as 0 from 4
+no mismatch at 8 with 4
+8 rec control as 8 from 3
+no mismatch at 6 with 4
+6 rec control as 3 from 3
+no mismatch at 8 with 3
+8 rec control as 2 from 6
+no mismatch at 6 with 3
+no mismatch at 8 with 6
+round 8 completed
+Rollback2 completed and it took 14095749 ms.
+1 has 616
+2 has 59
+3 has 163
+4 has 155
+5 has 125
+6 has 383
+7 has 402
+8 has 97
+2 sent 28 to node 5
+Amount after add to node 5 = 153
+The amount at 2 after sent to 5 = 31
+7 sent 12 to node 8
+4 sent 16 to node 5
+Amount after add to node 5 = 169
+6 sent 89 to node 5
+Amount after add to node 5 = 258
+Amount after add to node 5 = 294
+3 sent 63 to node 8
+5 sent 8 to node 8
+8 sent 36 to node 5
+The amount at 4 after sent to 5 = 139
+Amount after add to node 8 = 160
+The amount at 6 after sent to 5 = 294
+Amount after add to node 8 = 172
+The amount at 3 after sent to 8 = 100
+Amount after add to node 8 = 180
+The amount at 7 after sent to 8 = 390
+The amount at 5 after sent to 8 = 286
+The amount at 8 after sent to 5 = 144
+2 sent 14 to node 5
+Amount after add to node 5 = 300
+The amount at 2 after sent to 5 = 17
+4 sent 13 to node 2
+Amount after add to node 2 = 30
+3 sent 4 to node 8
+6 sent 86 to node 7
+Amount after add to node 7 = 476
+Amount after add to node 8 = 148
+The amount at 4 after sent to 2 = 126
+The amount at 6 after sent to 7 = 208
+The amount at 3 after sent to 8 = 96
+5 sent 104 to node 8
+7 sent 156 to node 8
+Amount after add to node 8 = 304
+Amount after add to node 8 = 408
+The amount at 7 after sent to 8 = 320
+8 sent 126 to node 5
+Amount after add to node 5 = 426
+The amount at 5 after sent to 8 = 322
+The amount at 8 after sent to 5 = 282
+2 sent 2 to node 4
+Amount after add to node 4 = 128
+The amount at 2 after sent to 4 = 28
+4 sent 54 to node 2
+6 sent 69 to node 5
+Amount after add to node 2 = 82
+Amount after add to node 5 = 391
+The amount at 4 after sent to 2 = 74
+3 sent 20 to node 2
+Amount after add to node 2 = 102
+The amount at 6 after sent to 5 = 139
+The amount at 3 after sent to 2 = 76
+7 sent 132 to node 6
+Amount after add to node 6 = 271
+The amount at 7 after sent to 6 = 188
+8 sent 23 to node 3
+Amount after add to node 3 = 99
+5 sent 107 to node 1
+Amount after add to node 1 = 723
+The amount at 8 after sent to 3 = 259
+The amount at 5 after sent to 1 = 284
+2 sent 12 to node 3
+Amount after add to node 3 = 111
+The amount at 2 after sent to 3 = 90
+6 sent 33 to node 5
+4 sent 21 to node 3
+Amount after add to node 3 = 132
+Amount after add to node 5 = 317
+The amount at 6 after sent to 5 = 238
+The amount at 4 after sent to 3 = 53
+3 sent 24 to node 1
+Amount after add to node 1 = 747
+The amount at 3 after sent to 1 = 108
+7 sent 48 to node 6
+Amount after add to node 6 = 286
+The amount at 7 after sent to 6 = 140
+8 sent 75 to node 3
+Amount after add to node 3 = 183
+The amount at 8 after sent to 3 = 184
+5 sent 38 to node 1
+Amount after add to node 1 = 785
+The amount at 5 after sent to 1 = 279
+2 sent 31 to node 5
+Amount after add to node 5 = 310
+The amount at 2 after sent to 5 = 59
+6 sent 102 to node 8
+4 sent 23 to node 3
+Amount after add to node 3 = 206
+Amount after add to node 8 = 286
+The amount at 4 after sent to 3 = 30
+The amount at 6 after sent to 8 = 184
+3 sent 36 to node 8
+Amount after add to node 8 = 322
+The amount at 3 after sent to 8 = 170
+7 sent 61 to node 8
+Amount after add to node 8 = 383
+The amount at 7 after sent to 8 = 79
+8 sent 6 to node 5
+Amount after add to node 5 = 316
+The amount at 8 after sent to 5 = 377
+5 sent 79 to node 8
+Amount after add to node 8 = 456
+The amount at 5 after sent to 8 = 237
+2 sent 1 to node 5
+Amount after add to node 5 = 238
+The amount at 2 after sent to 5 = 58
+6 sent 57 to node 8
+Amount after add to node 8 = 513
+4 sent 8 to node 2
+3 sent 18 to node 8
+Amount after add to node 2 = 66
+Amount after add to node 8 = 531
+The amount at 4 after sent to 2 = 22
+The amount at 6 after sent to 8 = 127
+The amount at 3 after sent to 8 = 152
+7 sent 5 to node 1
+Amount after add to node 1 = 790
+The amount at 7 after sent to 1 = 74
+8 sent 88 to node 2
+Amount after add to node 2 = 154
+The amount at 8 after sent to 2 = 443
+5 sent 18 to node 4
+Amount after add to node 4 = 40
+The amount at 5 after sent to 4 = 220
+2 sent 8 to node 7
+Amount after add to node 7 = 82
+The amount at 2 after sent to 7 = 146
+4 sent 8 to node 2
+Amount after add to node 2 = 154
+6 sent 51 to node 5
+3 sent 72 to node 6
+Amount after add to node 5 = 271
+Amount after add to node 6 = 199
+The amount at 4 after sent to 2 = 32
+The amount at 3 after sent to 6 = 80
+The amount at 6 after sent to 5 = 148
+7 sent 7 to node 6
+Amount after add to node 6 = 155
+The amount at 7 after sent to 6 = 75
+8 sent 93 to node 3
+Amount after add to node 3 = 173
+5 sent 72 to node 1
+Amount after add to node 1 = 862
+The amount at 8 after sent to 3 = 350
+The amount at 5 after sent to 1 = 199
+2 sent 22 to node 3
+Amount after add to node 3 = 195
+The amount at 2 after sent to 3 = 132
+4 sent 3 to node 7
+Amount after add to node 7 = 78
+3 sent 81 to node 1
+6 sent 38 to node 5
+7 sent 26 to node 3
+Amount after add to node 1 = 943
+Amount after add to node 3 = 221
+Amount after add to node 5 = 237
+The amount at 4 after sent to 7 = 29
+The amount at 7 after sent to 3 = 52
+The amount at 3 after sent to 1 = 140
+The amount at 6 after sent to 5 = 117
+5 sent 10 to node 7
+Amount after add to node 7 = 62
+8 sent 43 to node 7
+Amount after add to node 7 = 105
+The amount at 5 after sent to 7 = 227
+The amount at 8 after sent to 7 = 307
+2 sent 48 to node 4
+Amount after add to node 4 = 77
+The amount at 2 after sent to 4 = 84
+4 sent 15 to node 7
+6 sent 3 to node 5
+Amount after add to node 2 = 152
+Amount after add to node 5 = 230
+3 sent 68 to node 2
+Amount after add to node 1 = 963
+Amount after add to node 7 = 120
+7 sent 20 to node 1
+The amount at 3 after sent to 2 = 72
+The amount at 6 after sent to 5 = 114
+The amount at 4 after sent to 7 = 62
+The amount at 7 after sent to 1 = 100
+8 sent 18 to node 2
+Amount after add to node 2 = 170
+Amount after add to node 4 = 100
+5 sent 38 to node 4
+The amount at 5 after sent to 4 = 192
+The amount at 8 after sent to 2 = 289
+2 sent 32 to node 5
+Amount after add to node 5 = 224
+The amount at 2 after sent to 5 = 138
+6 sent 35 to node 2
+3 sent 3 to node 8
+4 sent 11 to node 3
+Amount after add to node 2 = 173
+Amount after add to node 8 = 292
+Amount after add to node 3 = 83
+7 sent 27 to node 3
+The amount at 6 after sent to 2 = 79
+Amount after add to node 3 = 110
+The amount at 4 after sent to 3 = 89
+The amount at 3 after sent to 8 = 107
+The amount at 7 after sent to 3 = 73
+5 sent 83 to node 7
+8 sent 41 to node 7
+Amount after add to node 7 = 114
+Amount after add to node 7 = 197
+The amount at 8 after sent to 7 = 251
+The amount at 5 after sent to 7 = 141
+2 sent 69 to node 5
+Amount after add to node 5 = 210
+6 sent 4 to node 2
+Amount after add to node 2 = 177
+The amount at 6 after sent to 2 = 75
+The amount at 2 after sent to 5 = 108
+4 sent 41 to node 7
+7 sent 85 to node 3
+Amount after add to node 7 = 238
+Amount after add to node 8 = 275
+Amount after add to node 3 = 192
+3 sent 24 to node 8
+The amount at 7 after sent to 3 = 153
+The amount at 4 after sent to 7 = 48
+The amount at 3 after sent to 8 = 168
+5 sent 50 to node 7
+Amount after add to node 7 = 203
+8 sent 56 to node 7
+Amount after add to node 7 = 259
+The amount at 5 after sent to 7 = 160
+The amount at 8 after sent to 7 = 219
+6 sent 11 to node 2
+Amount after add to node 1 = 978
+2 sent 15 to node 1
+Amount after add to node 2 = 119
+The amount at 2 after sent to 1 = 104
+The amount at 6 after sent to 2 = 64
+3 sent 75 to node 4
+Amount after add to node 4 = 123
+Amount after add to node 6 = 79
+4 sent 12 to node 7
+7 sent 15 to node 6
+Amount after add to node 7 = 271
+The amount at 3 after sent to 4 = 93
+The amount at 7 after sent to 6 = 256
+The amount at 4 after sent to 7 = 111
+5 sent 51 to node 1
+8 sent 19 to node 3
+Amount after add to node 1 = 1029
+Amount after add to node 3 = 112
+The amount at 8 after sent to 3 = 200
+The amount at 5 after sent to 1 = 109
+2 sent 21 to node 1
+6 sent 38 to node 8
+Amount after add to node 8 = 238
+Amount after add to node 1 = 1050
+The amount at 2 after sent to 1 = 83
+The amount at 6 after sent to 8 = 41
+3 sent 33 to node 4
+Amount after add to node 4 = 144
+4 sent 28 to node 3
+7 sent 17 to node 3
+Amount after add to node 3 = 140
+The amount at 3 after sent to 4 = 107
+Amount after add to node 3 = 124
+The amount at 4 after sent to 3 = 116
+8 sent 19 to node 7
+Amount after add to node 7 = 275
+5 sent 29 to node 7
+Amount after add to node 7 = 304
+The amount at 7 after sent to 3 = 287
+The amount at 8 after sent to 7 = 219
+The amount at 5 after sent to 7 = 80
+6 sent 13 to node 5
+2 sent 7 to node 4
+Amount after add to node 5 = 93
+Amount after add to node 4 = 123
+The amount at 6 after sent to 5 = 28
+The amount at 2 after sent to 4 = 76
+3 sent 60 to node 2
+Amount after add to node 2 = 136
+4 sent 2 to node 2
+Amount after add to node 2 = 138
+The amount at 3 after sent to 2 = 64
+8 sent 66 to node 7
+7 sent 40 to node 3
+Amount after add to node 3 = 104
+Amount after add to node 7 = 353
+The amount at 4 after sent to 2 = 121
+5 sent 32 to node 7
+Amount after add to node 7 = 385
+The amount at 8 after sent to 7 = 153
+The amount at 7 after sent to 3 = 345
+The amount at 5 after sent to 7 = 61
+6 sent 10 to node 5
+Amount after add to node 5 = 71
+2 sent 21 to node 5
+Amount after add to node 5 = 92
+The amount at 6 after sent to 5 = 18
+3 sent 8 to node 8
+Amount after add to node 8 = 161
+4 sent 27 to node 3
+Amount after add to node 3 = 131
+The amount at 2 after sent to 5 = 117
+The amount at 4 after sent to 3 = 94
+The amount at 3 after sent to 8 = 123
+8 sent 8 to node 3
+Amount after add to node 3 = 131
+7 sent 100 to node 6
+Amount after add to node 6 = 118
+The amount at 8 after sent to 3 = 153
+The amount at 7 after sent to 6 = 245
+5 sent 44 to node 1
+Amount after add to node 1 = 1094
+The amount at 5 after sent to 1 = 48
+6 sent 31 to node 5
+Amount after add to node 5 = 79
+The amount at 6 after sent to 5 = 87
+2 sent 52 to node 5
+3 sent 17 to node 8
+4 sent 24 to node 5
+Amount after add to node 5 = 131
+Amount after add to node 8 = 170
+Amount after add to node 5 = 155
+The amount at 2 after sent to 5 = 65
+The amount at 3 after sent to 8 = 114
+7 sent 2 to node 1
+Amount after add to node 1 = 1096
+The amount at 4 after sent to 5 = 70
+8 sent 12 to node 2
+Amount after add to node 2 = 77
+The amount at 7 after sent to 1 = 243
+The amount at 8 after sent to 2 = 158
+5 sent 55 to node 4
+Amount after add to node 4 = 125
+The amount at 5 after sent to 4 = 100
+6 sent 33 to node 2
+Amount after add to node 2 = 110
+The amount at 6 after sent to 2 = 54
+4 sent 57 to node 7
+3 sent 39 to node 2
+Amount after add to node 2 = 149
+Amount after add to node 7 = 300
+2 sent 32 to node 4
+Amount after add to node 4 = 157
+The amount at 2 after sent to 4 = 117
+The amount at 3 after sent to 2 = 75
+The amount at 4 after sent to 7 = 100
+8 sent 2 to node 3
+Amount after add to node 3 = 77
+7 sent 57 to node 6
+Amount after add to node 6 = 111
+The amount at 8 after sent to 3 = 156
+The amount at 7 after sent to 6 = 243
+5 sent 7 to node 1
+Amount after add to node 1 = 1103
+The amount at 5 after sent to 1 = 93
+6 sent 26 to node 7
+Amount after add to node 7 = 269
+The amount at 6 after sent to 7 = 85
+2 sent 50 to node 5
+Amount after add to node 5 = 143
+4 sent 19 to node 7
+Amount after add to node 7 = 288
+3 sent 14 to node 8
+Amount after add to node 8 = 170
+The amount at 4 after sent to 7 = 81
+The amount at 2 after sent to 5 = 67
+The amount at 3 after sent to 8 = 63
+8 sent 81 to node 5
+7 sent 46 to node 8
+Amount after add to node 5 = 224
+Amount after add to node 8 = 216
+The amount at 7 after sent to 8 = 242
+The amount at 8 after sent to 5 = 135
+5 sent 94 to node 8
+Amount after add to node 8 = 229
+The amount at 5 after sent to 8 = 130
+6 sent 41 to node 2
+Amount after add to node 2 = 108
+The amount at 6 after sent to 2 = 44
+3 sent 26 to node 4
+4 sent 11 to node 2
+Amount after add to node 2 = 119
+Amount after add to node 4 = 107
+2 sent 19 to node 1
+Amount after add to node 1 = 1122
+The amount at 4 after sent to 2 = 96
+The amount at 3 after sent to 4 = 37
+The amount at 2 after sent to 1 = 100
+7 sent 6 to node 3
+Amount after add to node 3 = 43
+8 sent 25 to node 7
+Amount after add to node 7 = 267
+5 sent 58 to node 7
+The amount at 8 after sent to 7 = 204
+The amount at 7 after sent to 3 = 261
+Amount after add to node 7 = 319
+The amount at 5 after sent to 7 = 72
+6 sent 12 to node 8
+Amount after add to node 8 = 216
+3 sent 9 to node 8
+The amount at 6 after sent to 8 = 32
+4 sent 13 to node 5
+2 sent 19 to node 5
+Amount after add to node 8 = 225
+Amount after add to node 5 = 91
+The amount at 3 after sent to 8 = 34
+The amount at 2 after sent to 5 = 81
+Amount after add to node 5 = 104
+8 sent 65 to node 7
+Amount after add to node 3 = 139
+7 sent 105 to node 3
+Amount after add to node 7 = 384
+The amount at 4 after sent to 5 = 83
+5 sent 17 to node 7
+The amount at 8 after sent to 7 = 160
+The amount at 7 after sent to 3 = 279
+Amount after add to node 7 = 296
+The amount at 5 after sent to 7 = 87
+3 sent 15 to node 6
+2 sent 11 to node 7
+6 sent 2 to node 2
+Amount after add to node 2 = 83
+Amount after add to node 7 = 307
+Amount after add to node 6 = 47
+4 sent 38 to node 7
+Amount after add to node 7 = 345
+The amount at 2 after sent to 7 = 72
+The amount at 3 after sent to 6 = 124
+The amount at 6 after sent to 2 = 45
+The amount at 4 after sent to 7 = 45
+Amount after add to node 2 = 83
+8 sent 11 to node 2
+7 sent 11 to node 1
+Amount after add to node 1 = 1133
+5 sent 11 to node 4
+The amount at 8 after sent to 2 = 149
+Amount after add to node 4 = 56
+The amount at 7 after sent to 1 = 334
+The amount at 5 after sent to 4 = 76
+2 sent 14 to node 7
+6 sent 13 to node 8
+Amount after add to node 8 = 162
+3 sent 13 to node 6
+Amount after add to node 6 = 58
+Amount after add to node 7 = 348
+Amount after add to node 3 = 131
+4 sent 7 to node 3
+The amount at 6 after sent to 8 = 45
+The amount at 2 after sent to 7 = 69
+The amount at 3 after sent to 6 = 118
+The amount at 4 after sent to 3 = 49
+8 sent 13 to node 5
+Amount after add to node 5 = 89
+7 sent 157 to node 8
+Amount after add to node 8 = 319
+The amount at 7 after sent to 8 = 191
+The amount at 8 after sent to 5 = 306
+5 sent 25 to node 8
+Amount after add to node 8 = 331
+The amount at 5 after sent to 8 = 64
+2 sent 28 to node 3
+4 sent 5 to node 5
+6 sent 1 to node 7
+Amount after add to node 1 = 1170
+Amount after add to node 5 = 69
+3 sent 37 to node 1
+Amount after add to node 7 = 192
+Amount after add to node 3 = 146
+8 sent 152 to node 7
+7 sent 22 to node 3
+The amount at 4 after sent to 5 = 44
+Amount after add to node 7 = 344
+The amount at 6 after sent to 7 = 44
+Amount after add to node 3 = 168
+The amount at 2 after sent to 3 = 41
+5 sent 28 to node 7
+Amount after add to node 7 = 372
+The amount at 8 after sent to 7 = 179
+The amount at 3 after sent to 1 = 131
+The amount at 7 after sent to 3 = 350
+The amount at 5 after sent to 7 = 41
+6 sent 2 to node 2
+Amount after add to node 7 = 365
+Amount after add to node 5 = 48
+2 sent 7 to node 5
+4 sent 15 to node 7
+Amount after add to node 2 = 43
+The amount at 4 after sent to 7 = 29
+The amount at 2 after sent to 5 = 36
+Amount after add to node 3 = 210
+8 sent 79 to node 3
+The amount at 6 after sent to 2 = 42
+7 sent 175 to node 6
+Amount after add to node 6 = 217
+3 sent 32 to node 8
+Amount after add to node 8 = 211
+5 sent 19 to node 1
+Amount after add to node 1 = 1189
+The amount at 7 after sent to 6 = 190
+The amount at 8 after sent to 3 = 132
+The amount at 3 after sent to 8 = 178
+The amount at 5 after sent to 1 = 29
+6 sent 27 to node 8
+Amount after add to node 8 = 159
+2 sent 11 to node 3
+Amount after add to node 2 = 38
+4 sent 2 to node 2
+Amount after add to node 3 = 189
+3 sent 10 to node 1
+Amount after add to node 8 = 160
+The amount at 6 after sent to 8 = 190
+Amount after add to node 1 = 1199
+The amount at 4 after sent to 2 = 27
+5 sent 1 to node 8
+The amount at 2 after sent to 3 = 27
+7 sent 34 to node 8
+8 sent 57 to node 5
+Amount after add to node 8 = 194
+Amount after add to node 5 = 86
+The amount at 3 after sent to 1 = 179
+The amount at 5 after sent to 8 = 85
+The amount at 7 after sent to 8 = 156
+The amount at 8 after sent to 5 = 137
+6 sent 46 to node 8
+4 sent 5 to node 2
+Amount after add to node 8 = 183
+Amount after add to node 2 = 32
+2 sent 10 to node 4
+3 sent 84 to node 2
+7 sent 23 to node 3
+The amount at 6 after sent to 8 = 144
+8 sent 5 to node 7
+Amount after add to node 2 = 116
+5 sent 5 to node 7
+Amount after add to node 4 = 37
+Amount after add to node 7 = 161
+Amount after add to node 3 = 202
+The amount at 2 after sent to 4 = 106
+The amount at 4 after sent to 2 = 32
+Amount after add to node 7 = 166
+The amount at 8 after sent to 7 = 178
+The amount at 3 after sent to 2 = 118
+The amount at 7 after sent to 3 = 143
+The amount at 5 after sent to 7 = 80
+6 sent 8 to node 5
+Amount after add to node 5 = 88
+3 sent 31 to node 4
+5 sent 8 to node 4
+Amount after add to node 2 = 133
+7 sent 10 to node 1
+8 sent 27 to node 2
+4 sent 3 to node 3
+Amount after add to node 3 = 121
+Amount after add to node 4 = 40
+Amount after add to node 1 = 1209
+The amount at 6 after sent to 5 = 136
+2 sent 37 to node 1
+The amount at 8 after sent to 2 = 151
+Amount after add to node 4 = 71
+The amount at 5 after sent to 4 = 80
+Amount after add to node 1 = 1246
+The amount at 7 after sent to 1 = 133
+The amount at 4 after sent to 3 = 68
+The amount at 3 after sent to 4 = 90
+The amount at 2 after sent to 1 = 96
+5 sent 7 to node 4
+7 sent 29 to node 1
+8 sent 62 to node 2
+Amount after add to node 4 = 75
+2 sent 23 to node 1
+6 sent 13 to node 2
+Amount after add to node 1 = 1275
+3 sent 17 to node 4
+Amount after add to node 2 = 109
+4 sent 33 to node 2
+The amount at 5 after sent to 4 = 73
+Amount after add to node 2 = 171
+The amount at 7 after sent to 1 = 104
+The amount at 6 after sent to 2 = 123
+Amount after add to node 1 = 1298
+Amount after add to node 4 = 92
+Amount after add to node 2 = 204
+The amount at 8 after sent to 2 = 89
+The amount at 3 after sent to 4 = 73
+The amount at 4 after sent to 2 = 59
+The amount at 2 after sent to 1 = 181
+7 sent 7 to node 6
+4 sent 4 to node 2
+2 sent 65 to node 7
+5 sent 11 to node 1
+8 sent 7 to node 3
+6 sent 15 to node 2
+Amount after add to node 3 = 80
+Amount after add to node 6 = 130
+Amount after add to node 2 = 185
+3 sent 11 to node 6
+Amount after add to node 1 = 1309
+Amount after add to node 7 = 169
+Amount after add to node 6 = 141
+Amount after add to node 2 = 200
+The amount at 8 after sent to 3 = 82
+The amount at 5 after sent to 1 = 62
+The amount at 7 after sent to 6 = 162
+The amount at 4 after sent to 2 = 55
+The amount at 2 after sent to 7 = 135
+The amount at 6 after sent to 2 = 126
+The amount at 3 after sent to 6 = 69
+5 sent 28 to node 4
+7 sent 6 to node 1
+8 sent 21 to node 2
+4 sent 23 to node 7
+Amount after add to node 2 = 156
+Amount after add to node 7 = 185
+Amount after add to node 4 = 83
+Amount after add to node 1 = 1315
+The amount at 5 after sent to 4 = 34
+Amount after add to node 2 = 165
+3 sent 33 to node 8
+6 sent 9 to node 2
+The amount at 8 after sent to 2 = 61
+The amount at 4 after sent to 7 = 60
+Amount after add to node 8 = 94
+The amount at 7 after sent to 1 = 179
+Amount after add to node 5 = 109
+2 sent 75 to node 5
+The amount at 6 after sent to 2 = 117
+The amount at 3 after sent to 8 = 36
+The amount at 2 after sent to 5 = 90
+4 sent 15 to node 7
+Amount after add to node 4 = 98
+Amount after add to node 1 = 1380
+8 sent 5 to node 2
+Amount after add to node 2 = 95
+7 sent 65 to node 1
+5 sent 38 to node 4
+Amount after add to node 7 = 194
+The amount at 5 after sent to 4 = 71
+The amount at 8 after sent to 2 = 89
+The amount at 7 after sent to 1 = 129
+The amount at 4 after sent to 7 = 83
+3 sent 2 to node 6
+6 sent 19 to node 5
+Amount after add to node 5 = 90
+Amount after add to node 6 = 119
+Amount after add to node 7 = 134
+2 sent 5 to node 7
+The amount at 3 after sent to 6 = 34
+The amount at 2 after sent to 7 = 90
+The amount at 6 after sent to 5 = 100
+4 sent 39 to node 7
+5 sent 23 to node 7
+Amount after add to node 3 = 40
+7 sent 6 to node 3
+8 sent 21 to node 7
+Amount after add to node 7 = 157
+6 sent 25 to node 8
+3 sent 1 to node 2
+Amount after add to node 4 = 106
+2 sent 23 to node 4
+Amount after add to node 8 = 114
+Amount after add to node 2 = 91
+Amount after add to node 7 = 196
+The amount at 5 after sent to 7 = 67
+Amount after add to node 7 = 217
+The amount at 4 after sent to 7 = 67
+The amount at 2 after sent to 4 = 68
+The amount at 3 after sent to 2 = 39
+The amount at 6 after sent to 8 = 75
+The amount at 7 after sent to 3 = 211
+The amount at 8 after sent to 7 = 93
+Amount after add to node 3 = 56
+Amount after add to node 2 = 92
+7 sent 75 to node 3
+Amount after add to node 1 = 1395
+5 sent 30 to node 7
+6 sent 19 to node 8
+Amount after add to node 8 = 112
+4 sent 24 to node 2
+2 sent 17 to node 3
+3 sent 15 to node 1
+Amount after add to node 7 = 241
+Amount after add to node 3 = 131
+The amount at 4 after sent to 2 = 43
+The amount at 2 after sent to 3 = 75
+The amount at 6 after sent to 8 = 56
+The amount at 3 after sent to 1 = 116
+The amount at 5 after sent to 7 = 37
+8 sent 5 to node 7
+The amount at 7 after sent to 3 = 166
+Amount after add to node 7 = 171
+The amount at 8 after sent to 7 = 107
+3 sent 24 to node 6
+5 sent 6 to node 4
+Amount after add to node 7 = 183
+Amount after add to node 3 = 132
+7 sent 16 to node 3
+Amount after add to node 4 = 49
+6 sent 12 to node 7
+Amount after add to node 6 = 80
+4 sent 2 to node 7
+2 sent 29 to node 7
+8 sent 11 to node 7
+The amount at 3 after sent to 6 = 108
+Amount after add to node 7 = 212
+The amount at 6 after sent to 7 = 68
+The amount at 5 after sent to 4 = 31
+The amount at 2 after sent to 7 = 46
+Amount after add to node 7 = 214
+Amount after add to node 7 = 225
+The amount at 4 after sent to 7 = 47
+The amount at 8 after sent to 7 = 96
+The amount at 7 after sent to 3 = 209
+3 sent 42 to node 8
+5 sent 5 to node 7
+6 sent 9 to node 7
+Amount after add to node 8 = 138
+Amount after add to node 7 = 214
+2 sent 8 to node 5
+The amount at 3 after sent to 8 = 66
+Amount after add to node 5 = 39
+Amount after add to node 7 = 223
+The amount at 5 after sent to 7 = 34
+7 sent 64 to node 1
+8 sent 54 to node 2
+The amount at 2 after sent to 5 = 38
+Amount after add to node 1 = 1459
+4 sent 4 to node 5
+Amount after add to node 2 = 92
+The amount at 6 after sent to 7 = 59
+Amount after add to node 5 = 38
+The amount at 8 after sent to 2 = 84
+The amount at 7 after sent to 1 = 159
+The amount at 4 after sent to 5 = 43
+3 sent 17 to node 2
+Amount after add to node 2 = 109
+2 sent 11 to node 4
+6 sent 28 to node 8
+Amount after add to node 4 = 54
+Amount after add to node 8 = 112
+5 sent 4 to node 8
+The amount at 3 after sent to 2 = 49
+Amount after add to node 8 = 116
+The amount at 6 after sent to 8 = 31
+The amount at 2 after sent to 4 = 98
+7 sent 68 to node 3
+Amount after add to node 3 = 117
+4 sent 18 to node 5
+8 sent 9 to node 7
+Amount after add to node 5 = 56
+Amount after add to node 7 = 168
+The amount at 7 after sent to 3 = 100
+The amount at 4 after sent to 5 = 36
+The amount at 8 after sent to 7 = 107
+The amount at 5 after sent to 8 = 52
+3 sent 50 to node 8
+Amount after add to node 8 = 157
+2 sent 23 to node 5
+6 sent 10 to node 7
+Amount after add to node 7 = 110
+Amount after add to node 5 = 75
+The amount at 3 after sent to 8 = 67
+7 sent 12 to node 8
+Amount after add to node 8 = 169
+The amount at 6 after sent to 7 = 21
+5 sent 9 to node 8
+The amount at 2 after sent to 5 = 75
+4 sent 15 to node 2
+Amount after add to node 2 = 90
+Amount after add to node 5 = 125
+8 sent 50 to node 5
+Amount after add to node 8 = 178
+The amount at 7 after sent to 8 = 98
+The amount at 4 after sent to 2 = 21
+The amount at 8 after sent to 5 = 128
+The amount at 5 after sent to 8 = 116
+6 sent 4 to node 8
+2 sent 18 to node 3
+3 sent 21 to node 1
+Amount after add to node 3 = 85
+Amount after add to node 1 = 1480
+Amount after add to node 8 = 132
+5 sent 38 to node 4
+Amount after add to node 4 = 59
+8 sent 33 to node 5
+Amount after add to node 5 = 121
+4 sent 5 to node 5
+7 sent 39 to node 8
+Amount after add to node 8 = 171
+The amount at 2 after sent to 3 = 72
+The amount at 3 after sent to 1 = 64
+The amount at 6 after sent to 8 = 17
+Amount after add to node 5 = 154
+The amount at 4 after sent to 5 = 54
+The amount at 7 after sent to 8 = 59
+The amount at 5 after sent to 4 = 116
+The amount at 8 after sent to 5 = 138
+Amount after add to node 2 = 76
+6 sent 5 to node 5
+4 sent 4 to node 2
+Amount after add to node 6 = 21
+3 sent 4 to node 6
+5 sent 2 to node 1
+2 sent 33 to node 7
+Amount after add to node 1 = 1482
+Amount after add to node 5 = 121
+7 sent 9 to node 1
+Amount after add to node 7 = 92
+8 sent 42 to node 2
+The amount at 4 after sent to 2 = 50
+Amount after add to node 2 = 118
+The amount at 3 after sent to 6 = 60
+The amount at 6 after sent to 5 = 16
+The amount at 5 after sent to 1 = 119
+Amount after add to node 1 = 1491
+The amount at 8 after sent to 2 = 96
+The amount at 2 after sent to 7 = 85
+The amount at 7 after sent to 1 = 83
+4 sent 10 to node 3
+Amount after add to node 3 = 70
+8 sent 10 to node 3
+Amount after add to node 7 = 84
+3 sent 16 to node 8
+5 sent 30 to node 1
+Amount after add to node 8 = 112
+6 sent 1 to node 7
+Amount after add to node 1 = 1521
+2 sent 15 to node 1
+7 sent 37 to node 6
+Amount after add to node 6 = 53
+The amount at 4 after sent to 3 = 40
+Amount after add to node 3 = 80
+The amount at 5 after sent to 1 = 89
+Amount after add to node 1 = 1536
+The amount at 6 after sent to 7 = 52
+The amount at 3 after sent to 8 = 64
+The amount at 8 after sent to 3 = 102
+The amount at 7 after sent to 6 = 47
+The amount at 2 after sent to 1 = 70
+6 sent 24 to node 5
+3 sent 12 to node 1
+5 sent 20 to node 1
+Amount after add to node 1 = 1548
+4 sent 2 to node 2
+Amount after add to node 2 = 72
+Amount after add to node 3 = 74
+8 sent 10 to node 3
+Amount after add to node 5 = 113
+Amount after add to node 1 = 1568
+The amount at 4 after sent to 2 = 38
+7 sent 3 to node 6
+The amount at 8 after sent to 3 = 92
+Amount after add to node 6 = 55
+The amount at 3 after sent to 1 = 62
+Amount after add to node 4 = 42
+2 sent 4 to node 4
+The amount at 5 after sent to 1 = 93
+The amount at 7 after sent to 6 = 44
+The amount at 6 after sent to 5 = 31
+The amount at 2 after sent to 4 = 68
+Amount after add to node 2 = 99
+8 sent 31 to node 2
+7 sent 7 to node 1
+6 sent 5 to node 8
+3 sent 1 to node 2
+4 sent 19 to node 2
+Amount after add to node 1 = 1575
+Amount after add to node 8 = 97
+5 sent 4 to node 4
+Amount after add to node 4 = 46
+Amount after add to node 2 = 100
+The amount at 7 after sent to 1 = 37
+The amount at 6 after sent to 8 = 26
+The amount at 8 after sent to 2 = 66
+The amount at 5 after sent to 4 = 89
+2 sent 36 to node 5
+Amount after add to node 5 = 125
+Amount after add to node 2 = 119
+The amount at 3 after sent to 2 = 61
+The amount at 2 after sent to 5 = 83
+The amount at 4 after sent to 2 = 27
+Amount after add to node 2 = 99
+6 sent 1 to node 5
+7 sent 10 to node 1
+8 sent 16 to node 2
+Amount after add to node 8 = 84
+4 sent 6 to node 3
+Amount after add to node 3 = 66
+5 sent 18 to node 8
+2 sent 5 to node 3
+3 sent 10 to node 1
+Amount after add to node 5 = 126
+Amount after add to node 1 = 1585
+The amount at 8 after sent to 2 = 68
+The amount at 2 after sent to 3 = 94
+The amount at 6 after sent to 5 = 25
+Amount after add to node 3 = 72
+The amount at 5 after sent to 8 = 108
+Amount after add to node 1 = 1595
+The amount at 7 after sent to 1 = 27
+The amount at 4 after sent to 3 = 21
+The amount at 3 after sent to 1 = 62
+8 sent 26 to node 2
+6 sent 4 to node 7
+7 sent 7 to node 1
+5 sent 31 to node 4
+Amount after add to node 2 = 120
+Amount after add to node 7 = 31
+Amount after add to node 1 = 1602
+Amount after add to node 4 = 52
+2 sent 2 to node 4
+The amount at 8 after sent to 2 = 42
+Amount after add to node 3 = 68
+4 sent 6 to node 3
+The amount at 5 after sent to 4 = 77
+Amount after add to node 4 = 54
+The amount at 7 after sent to 1 = 24
+Amount after add to node 1 = 1615
+3 sent 13 to node 1
+The amount at 6 after sent to 7 = 21
+The amount at 2 after sent to 4 = 118
+The amount at 4 after sent to 3 = 48
+The amount at 3 after sent to 1 = 55
+6 sent 7 to node 5
+7 sent 4 to node 1
+8 sent 19 to node 2
+Amount after add to node 4 = 71
+Amount after add to node 1 = 1619
+Amount after add to node 2 = 137
+5 sent 23 to node 4
+Amount after add to node 5 = 84
+The amount at 6 after sent to 5 = 14
+The amount at 7 after sent to 1 = 20
+Amount after add to node 4 = 93
+The amount at 5 after sent to 4 = 61
+3 sent 22 to node 4
+The amount at 8 after sent to 2 = 23
+4 sent 12 to node 3
+Amount after add to node 3 = 67
+2 sent 25 to node 3
+The amount at 4 after sent to 3 = 81
+Amount after add to node 3 = 92
+The amount at 3 after sent to 4 = 70
+The amount at 2 after sent to 3 = 112
+7 sent 2 to node 6
+Amount after add to node 5 = 67
+6 sent 6 to node 5
+8 sent 3 to node 3
+Amount after add to node 6 = 16
+Amount after add to node 3 = 73
+5 sent 25 to node 4
+Amount after add to node 4 = 106
+The amount at 5 after sent to 4 = 42
+The amount at 8 after sent to 3 = 20
+The amount at 7 after sent to 6 = 18
+The amount at 6 after sent to 5 = 10
+2 sent 13 to node 4
+Amount after add to node 4 = 119
+3 sent 20 to node 2
+4 sent 18 to node 3
+Amount after add to node 3 = 91
+Amount after add to node 2 = 132
+The amount at 2 after sent to 4 = 119
+The amount at 4 after sent to 3 = 101
+The amount at 3 after sent to 2 = 71
+8 sent 6 to node 3
+Amount after add to node 5 = 44
+6 sent 2 to node 5
+5 sent 8 to node 4
+4 sent 3 to node 7
+Amount after add to node 2 = 130
+Amount after add to node 3 = 77
+Amount after add to node 7 = 21
+7 sent 5 to node 6
+Amount after add to node 4 = 109
+Amount after add to node 6 = 15
+2 sent 17 to node 1
+Amount after add to node 1 = 1636
+3 sent 11 to node 2
+The amount at 3 after sent to 2 = 66
+The amount at 7 after sent to 6 = 16
+The amount at 5 after sent to 4 = 36
+The amount at 4 after sent to 7 = 106
+The amount at 6 after sent to 5 = 13
+The amount at 8 after sent to 3 = 14
+The amount at 2 after sent to 1 = 113
+3 sent 4 to node 1
+Amount after add to node 1 = 1640
+5 sent 5 to node 7
+4 sent 9 to node 7
+Amount after add to node 7 = 21
+8 sent 5 to node 3
+6 sent 2 to node 8
+Amount after add to node 3 = 71
+Amount after add to node 6 = 14
+Amount after add to node 8 = 16
+7 sent 1 to node 6
+2 sent 49 to node 4
+Amount after add to node 4 = 155
+Amount after add to node 7 = 30
+The amount at 5 after sent to 7 = 31
+The amount at 8 after sent to 3 = 11
+The amount at 2 after sent to 4 = 64
+The amount at 6 after sent to 8 = 12
+The amount at 3 after sent to 1 = 67
+The amount at 4 after sent to 7 = 146
+The amount at 7 after sent to 6 = 29
+6 sent 5 to node 2
+5 sent 13 to node 7
+7 sent 1 to node 1
+3 sent 11 to node 8
+2 sent 15 to node 1
+Amount after add to node 7 = 42
+Amount after add to node 2 = 69
+Amount after add to node 1 = 1641
+8 sent 1 to node 3
+Amount after add to node 8 = 22
+Amount after add to node 5 = 68
+4 sent 37 to node 5
+Amount after add to node 3 = 68
+The amount at 6 after sent to 2 = 7
+The amount at 7 after sent to 1 = 41
+Amount after add to node 1 = 1656
+The amount at 4 after sent to 5 = 109
+The amount at 5 after sent to 7 = 55
+The amount at 8 after sent to 3 = 21
+The amount at 2 after sent to 1 = 54
+The amount at 3 after sent to 8 = 57
+4 sent 39 to node 2
+5 sent 15 to node 8
+Amount after add to node 7 = 44
+6 sent 1 to node 2
+8 sent 3 to node 7
+Amount after add to node 6 = 18
+7 sent 11 to node 6
+Amount after add to node 2 = 93
+Amount after add to node 8 = 36
+3 sent 17 to node 4
+2 sent 18 to node 5
+Amount after add to node 5 = 73
+Amount after add to node 4 = 126
+Amount after add to node 2 = 94
+The amount at 8 after sent to 7 = 33
+The amount at 7 after sent to 6 = 33
+The amount at 2 after sent to 5 = 76
+The amount at 6 after sent to 2 = 17
+The amount at 3 after sent to 4 = 40
+The amount at 5 after sent to 8 = 58
+The amount at 4 after sent to 2 = 87
+7 sent 2 to node 8
+8 sent 14 to node 7
+Amount after add to node 7 = 47
+Amount after add to node 8 = 35
+The amount at 8 after sent to 7 = 21
+The amount at 7 after sent to 8 = 45
+5 sent 28 to node 4
+Amount after add to node 4 = 115
+2 sent 6 to node 5
+Amount after add to node 5 = 64
+4 sent 26 to node 5
+Amount after add to node 7 = 46
+6 sent 1 to node 7
+3 sent 18 to node 4
+Amount after add to node 4 = 133
+Amount after add to node 5 = 90
+The amount at 2 after sent to 5 = 70
+The amount at 6 after sent to 7 = 16
+The amount at 3 after sent to 4 = 22
+The amount at 5 after sent to 4 = 62
+The amount at 4 after sent to 5 = 107
+8 sent 1 to node 5
+7 sent 10 to node 6
+Amount after add to node 5 = 63
+Amount after add to node 6 = 26
+2 sent 12 to node 1
+6 sent 1 to node 5
+Amount after add to node 5 = 64
+Amount after add to node 1 = 1668
+Amount after add to node 8 = 30
+3 sent 9 to node 8
+The amount at 8 after sent to 5 = 29
+The amount at 7 after sent to 6 = 36
+4 sent 16 to node 3
+The amount at 2 after sent to 1 = 58
+5 sent 16 to node 8
+The amount at 6 after sent to 5 = 25
+Amount after add to node 8 = 45
+The amount at 3 after sent to 8 = 13
+Amount after add to node 3 = 29
+The amount at 5 after sent to 8 = 48
+The amount at 4 after sent to 3 = 91
+6 sent 1 to node 7
+7 sent 4 to node 6
+3 sent 7 to node 2
+Amount after add to node 6 = 29
+Amount after add to node 2 = 65
+Amount after add to node 7 = 37
+2 sent 13 to node 7
+8 sent 19 to node 2
+Amount after add to node 2 = 84
+5 sent 7 to node 1
+4 sent 17 to node 7
+Amount after add to node 1 = 1675
+The amount at 3 after sent to 2 = 22
+The amount at 6 after sent to 7 = 28
+Amount after add to node 7 = 50
+The amount at 8 after sent to 2 = 26
+The amount at 2 after sent to 7 = 71
+Amount after add to node 7 = 67
+The amount at 5 after sent to 1 = 41
+The amount at 7 after sent to 6 = 63
+The amount at 4 after sent to 7 = 74
+6 sent 3 to node 2
+Amount after add to node 2 = 74
+7 sent 23 to node 1
+Amount after add to node 5 = 44
+5 sent 2 to node 7
+8 sent 3 to node 5
+Amount after add to node 4 = 81
+3 sent 7 to node 4
+Amount after add to node 7 = 65
+Amount after add to node 1 = 1698
+2 sent 29 to node 5
+Amount after add to node 5 = 73
+The amount at 6 after sent to 2 = 25
+The amount at 8 after sent to 5 = 23
+The amount at 7 after sent to 1 = 42
+The amount at 3 after sent to 4 = 15
+Amount after add to node 7 = 62
+4 sent 20 to node 7
+The amount at 2 after sent to 5 = 45
+The amount at 5 after sent to 7 = 71
+The amount at 4 after sent to 7 = 61
+6 sent 11 to node 7
+Amount after add to node 7 = 73
+8 sent 5 to node 3
+5 sent 1 to node 7
+Amount after add to node 3 = 20
+Amount after add to node 7 = 74
+2 sent 16 to node 4
+The amount at 6 after sent to 7 = 14
+4 sent Amount after add to node 244 to node  = 777
+
+7 sent 15 to node 3
+The amount at 8 after sent to 3 = 18
+The amount at 5 after sent to 7 = 70
+Amount after add to node 3 = 35
+Amount after add to node 7 = 98
+The amount at 2 after sent to 4 = 29
+Amount after add to node 1 = 1707
+3 sent 9 to node 1
+The amount at 4 after sent to 7 = 53
+The amount at 7 after sent to 3 = 83
+The amount at 3 after sent to 1 = 26
+5 sent 14 to node 7
+8 sent 8 to node 7
+7 sent 11 to node 8
+6 sent 5 to node 2
+Amount after add to node 2 = 34
+4 sent 9 to node 7
+2 sent 1 to node 1
+Amount after add to node 1 = 1708
+Amount after add to node 8 = 29
+Amount after add to node 7 = 91
+3 sent 10 to node 2
+Amount after add to node 2 = 44
+The amount at 6 after sent to 2 = 9
+Amount after add to node 7 = 105
+The amount at 8 after sent to 7 = 21
+The amount at 2 after sent to 1 = 43
+The amount at 3 after sent to 2 = 16
+Amount after add to node 7 = 114
+The amount at 5 after sent to 7 = 56
+The amount at 7 after sent to 8 = 103
+The amount at 4 after sent to 7 = 44
+6 sent 3 to node 5
+Amount after add to node 5 = 59
+The amount at 6 after sent to 5 = 6
+3 sent 3 to node 4
+2 sent 9 to node 3
+Amount after add to node 4 = 47
+Amount after add to node 3 = 25
+8 sent 4 to node 7
+Amount after add to node 7 = 107
+5 sent 15 to node 7
+The amount at 2 after sent to 3 = 34
+The amount at 3 after sent to 4 = 22
+The amount at 8 after sent to 7 = 17
+Amount after add to node 7 = 122
+4 sent 20 to node 5
+Amount after add to node 5 = 79
+7 sent 47 to node 3
+Amount after add to node 3 = 69
+The amount at 4 after sent to 5 = 27
+The amount at 5 after sent to 7 = 64
+The amount at 7 after sent to 3 = 75
+8 sent 7 to node 7
+Amount after add to node 2 = 36
+3 sent 20 to node 1
+6 sent 2 to node 2
+Amount after add to node 1 = 1728
+Amount after add to node 4 = 30
+2 sent 3 to node 4
+Amount after add to node 7 = 82
+The amount at 6 after sent to 2 = 4
+The amount at 3 after sent to 1 = 49
+The amount at 2 after sent to 4 = 33
+The amount at 8 after sent to 7 = 10
+7 sent 28 to node 1
+Amount after add to node 1 = 1756
+4 sent 1 to node 2
+Amount after add to node 2 = 34
+5 sent 7 to node 8
+Amount after add to node 8 = 17
+The amount at 7 after sent to 1 = 54
+The amount at 4 after sent to 2 = 29
+The amount at 5 after sent to 8 = 57
+3 sent 23 to node 4
+6 sent 4 to node 2
+8 sent 7 to node 5
+Amount after add to node 4 = 52
+Amount after add to node 2 = 38
+Amount after add to node 5 = 64
+Amount after add to node 7 = 56
+2 sent 2 to node 7
+The amount at 6 after sent to 2 = 0
+The amount at 8 after sent to 5 = 10
+The amount at 3 after sent to 4 = 26
+The amount at 2 after sent to 7 = 36
+4 sent 5 to node 3
+Amount after add to node 3 = 31
+5 sent 3 to node 4
+Amount after add to node 4 = 55
+7 sent 26 to node 3
+Amount after add to node 3 = 57
+The amount at 4 after sent to 3 = 50
+The amount at 5 after sent to 4 = 61
+The amount at 7 after sent to 3 = 30
+balance is zero at node 6
+8 sent 1 to node 2
+2 sent 13 to node 3
+3 sent 15 to node 8
+Amount after add to node 2 = 37
+Amount after add to node 8 = 25
+Amount after add to node 3 = 70
+Amount after add to node 7 = 57
+5 sent 27 to node 7
+The amount at 8 after sent to 2 = 24
+4 sent 11 to node 2
+Amount after add to node 2 = 48
+The amount at 3 after sent to 8 = 55
+The amount at 2 after sent to 3 = 35
+The amount at 5 after sent to 7 = 34
+The amount at 4 after sent to 2 = 39
+7 sent 12 to node 3
+Amount after add to node 3 = 67
+The amount at 7 after sent to 3 = 45
+8 sent 3 to node 3
+3 sent 30 to node 8
+4 sent 18 to node 2
+5 sent 7 to node 7
+Amount after add to node 4 = 51
+2 sent 12 to node 4
+Amount after add to node 7 = 52
+Amount after add to node 3 = 70
+Amount after add to node 8 = 54
+Amount after add to node 2 = 53
+7 sent 5 to node 3
+Amount after add to node 3 = 75
+The amount at 2 after sent to 4 = 41
+The amount at 5 after sent to 7 = 27
+The amount at 8 after sent to 3 = 51
+The amount at 4 after sent to 2 = 33
+The amount at 3 after sent to 8 = 45
+The amount at 7 after sent to 3 = 47
+2 sent 1 to node 5
+3 sent 15 to node 4
+4 sent 9 to node 2
+7 sent 21 to node 6
+Amount after add to node 4 = 48
+8 sent 11 to node 2
+Amount after add to node 6 = 21
+Amount after add to node 2 = 50
+5 sent 4 to node 1
+Amount after add to node 1 = 1760
+Amount after add to node 5 = 28
+Amount after add to node 2 = 61
+The amount at 3 after sent to 4 = 30
+The amount at 4 after sent to 2 = 39
+The amount at 5 after sent to 1 = 24
+The amount at 7 after sent to 6 = 26
+The amount at 8 after sent to 2 = 40
+The amount at 2 after sent to 5 = 60
+6 sent 3 to node 8
+Amount after add to node 8 = 43
+The amount at 6 after sent to 8 = 18
+3 sent 3 to node 8
+Amount after add to node 8 = 46
+5 sent 8 to node 1
+Amount after add to node 1 = 1768
+Amount after add to node 2 = 67
+4 sent 7 to node 2
+The amount at 5 after sent to 1 = 16
+The amount at 3 after sent to 8 = 27
+The amount at 4 after sent to 2 = 32
+Amount after add to node 2 = 85
+8 sent 18 to node 2
+7 sent 3 to node 1
+Amount after add to node 1 = 1771
+2 sent 6 to node 1
+The amount at 8 after sent to 2 = 28
+The amount at 7 after sent to 1 = 23
+Amount after add to node 1 = 1777
+The amount at 2 after sent to 1 = 79
+6 sent 2 to node 5
+Amount after add to node 5 = 18
+The amount at 6 after sent to 5 = 16
+5 sent 1 to node 1
+Amount after add to node 1 = 1778
+The amount at 5 after sent to 1 = 17
+7 sent 6 to node 1
+4 sent 9 to node 2
+8 sent 1 to node 2
+Amount after add to node 2 = 88
+Amount after add to node 1 = 1784
+Amount after add to node 4 = 36
+3 sent 4 to node 4
+The amount at 3 after sent to 4 = 23
+The amount at 7 after sent to 1 = 17
+Amount after add to node 2 = 89
+The amount at 4 after sent to 2 = 27
+2 sent 13 to node 4
+Amount after add to node 4 = 40
+The amount at 8 after sent to 2 = 27
+The amount at 2 after sent to 4 = 76
+6 sent 1 to node 5
+Amount after add to node 5 = 18
+The amount at 6 after sent to 5 = 15
+5 sent 5 to node 7
+3 sent 6 to node 1
+7 sent 1 to node 1
+4 sent 1 to node 7
+Amount after add to node 1 = 1790
+Amount after add to node 7 = 22
+Amount after add to node 1 = 1791
+The amount at 3 after sent to 1 = 17
+2 sent 7 to node 5
+Amount after add to node 7 = 23
+Amount after add to node 2 = 83
+8 sent 7 to node 2
+Amount after add to node 5 = 25
+The amount at 7 after sent to 1 = 22
+The amount at 4 after sent to 7 = 39
+The amount at 8 after sent to 2 = 20
+The amount at 5 after sent to 7 = 20
+The amount at 2 after sent to 5 = 76
+6 sent 1 to node 5
+Amount after add to node 5 = 21
+The amount at 6 after sent to 5 = 14
+3 sent 3 to node 4
+Amount after add to node 4 = 42
+The amount at 3 after sent to 4 = 14
+5 sent 7 to node 1
+Amount after add to node 1 = 1798
+4 sent 17 to node 7
+Amount after add to node 7 = 39
+8 sent 9 to node 2
+Amount after add to node 3 = 33
+7 sent 4 to node 1
+Amount after add to node 2 = 85
+2 sent 19 to node 3
+Amount after add to node 1 = 1802
+The amount at 5 after sent to 1 = 14
+The amount at 4 after sent to 7 = 25
+The amount at 8 after sent to 2 = 11
+The amount at 2 after sent to 3 = 66
+The amount at 7 after sent to 1 = 35
+6 sent 3 to node 5
+Amount after add to node 5 = 17
+The amount at 6 after sent to 5 = 11
+3 sent 9 to node 1
+Amount after add to node 1 = 1811
+The amount at 3 after sent to 1 = 24
+8 sent 1 to node 7
+2 sent 9 to node 4
+Amount after add to node 4 = 34
+Amount after add to node 7 = 36
+Amount after add to node 1 = 1821
+5 sent 3 to node 1
+7 sent 10 to node 1
+Amount after add to node 5 = 28
+4 sent 11 to node 5
+Amount after add to node 1 = 1824
+The amount at 8 after sent to 7 = 10
+The amount at 7 after sent to 1 = 26
+The amount at 2 after sent to 4 = 57
+The amount at 4 after sent to 5 = 23
+The amount at 5 after sent to 1 = 25
+6 sent 4 to node 5
+Amount after add to node 5 = 29
+The amount at 6 after sent to 5 = 7
+3 sent 9 to node 2
+Amount after add to node 2 = 66
+The amount at 3 after sent to 2 = 15
+2 sent 14 to node 3
+Amount after add to node 3 = 29
+4 sent 5 to node 7
+Amount after add to node 7 = 31
+5 sent 10 to node 4
+Amount after add to node 4 = 33
+7 sent 6 to node 3
+8 sent 1 to node 7
+Amount after add to node 3 = 35
+The amount at 2 after sent to 3 = 52
+Amount after add to node 7 = 32
+The amount at 5 after sent to 4 = 19
+The amount at 4 after sent to 7 = 28
+The amount at 7 after sent to 3 = 26
+The amount at 8 after sent to 7 = 9
+6 sent 2 to node 2
+Amount after add to node 2 = 54
+The amount at 6 after sent to 2 = 5
+3 sent 15 to node 1
+Amount after add to node 1 = 1839
+The amount at 3 after sent to 1 = 20
+2 sent 2 to node 5
+4 sent 12 to node 5
+Amount after add to node 5 = 21
+Amount after add to node 7 = 32
+5 sent 6 to node 7
+Amount after add to node 5 = 33
+The amount at 2 after sent to 5 = 52
+The amount at 5 after sent to 7 = 27
+The amount at 4 after sent to 5 = 16
+8 sent 3 to node 5
+Amount after add to node 5 = 30
+7 sent 12 to node 3
+Amount after add to node 3 = 32
+The amount at 8 after sent to 5 = 6
+The amount at 7 after sent to 3 = 20
+6 sent 1 to node 5
+Amount after add to node 5 = 31
+The amount at 6 after sent to 5 = 4
+3 sent 11 to node 8
+Amount after add to node 8 = 17
+The amount at 3 after sent to 8 = 21
+2 sent 10 to node 3
+Amount after add to node 3 = 31
+5 sent 5 to node 4
+Amount after add to node 7 = 26
+4 sent 6 to node 7
+Amount after add to node 4 = 21
+The amount at 5 after sent to 4 = 26
+The amount at 2 after sent to 3 = 42
+The amount at 4 after sent to 7 = 15
+7 sent 6 to node 8
+8 sent 6 to node 7
+Amount after add to node 7 = 32
+Amount after add to node 8 = 23
+The amount at 7 after sent to 8 = 26
+The amount at 8 after sent to 7 = 17
+6 sent 4 to node 2
+Amount after add to node 2 = 46
+The amount at 6 after sent to 2 = 0
+3 sent 10 to node 1
+Amount after add to node 1 = 1849
+The amount at 3 after sent to 1 = 21
+2 sent 9 to node 3
+Amount after add to node 3 = 30
+5 sent 5 to node 8
+4 sent 4 to node 3
+Amount after add to node 8 = 22
+Amount after add to node 3 = 34
+The amount at 2 after sent to 3 = 37
+The amount at 5 after sent to 8 = 21
+7 sent 10 to node 3
+8 sent 4 to node 5
+Amount after add to node 5 = 25
+Amount after add to node 3 = 44
+The amount at 4 after sent to 3 = 11
+The amount at 8 after sent to 5 = 18
+The amount at 7 after sent to 3 = 16
+balance is zero at node 6
+3 sent 20 to node 1
+Amount after add to node 1 = 1869
+The amount at 3 after sent to 1 = 24
+2 sent 14 to node 4
+4 sent 1 to node 2
+Amount after add to node 2 = 38
+5 sent 9 to node 8
+Amount after add to node 8 = 27
+Amount after add to node 4 = 25
+7 sent 2 to node 8
+The amount at 2 after sent to 4 = 24
+Amount after add to node 8 = 29
+The amount at 5 after sent to 8 = 16
+The amount at 4 after sent to 2 = 24
+The amount at 7 after sent to 8 = 14
+8 sent 2 to node 5
+Amount after add to node 5 = 18
+The amount at 8 after sent to 5 = 27
+3 sent 2 to node 2
+Amount after add to node 2 = 26
+The amount at 3 after sent to 2 = 22
+2 sent 1 to node 7
+Amount after add to node 7 = 15
+7 sent 1 to node 3
+Amount after add to node 3 = 23
+The amount at 2 after sent to 7 = 25
+4 sent 11 to node 5
+Amount after add to node 5 = 29
+Amount after add to node 8 = 35
+5 sent 8 to node 8
+The amount at 7 after sent to 3 = 14
+The amount at 4 after sent to 5 = 13
+The amount at 5 after sent to 8 = 21
+8 sent 14 to node 5
+Amount after add to node 5 = 35
+The amount at 8 after sent to 5 = 21
+3 sent 6 to node 6
+Amount after add to node 6 = 6
+The amount at 3 after sent to 6 = 17
+2 sent 1 to node 7
+Amount after add to node 6 = 10
+7 sent 4 to node 6
+Amount after add to node 7 = 15
+The amount at 7 after sent to 6 = 11
+The amount at 2 after sent to 7 = 24
+4 sent 5 to node 2
+Amount after add to node 2 = 29
+5 sent 11 to node 1
+Amount after add to node 1 = 1880
+The amount at 4 after sent to 2 = 8
+The amount at 5 after sent to 1 = 24
+Amount after add to node 3 = 21
+8 sent 4 to node 3
+The amount at 8 after sent to 3 = 17
+6 sent 4 to node 2
+Amount after add to node 2 = 33
+The amount at 6 after sent to 2 = 6
+3 sent 1 to node 6
+Amount after add to node 6 = 7
+The amount at 3 after sent to 6 = 20
+2 sent 7 to node 7
+7 sent 1 to node 1
+Amount after add to node 7 = 18
+Amount after add to node 1 = 1881
+The amount at 2 after sent to 7 = 26
+The amount at 7 after sent to 1 = 17
+4 sent 1 to node 5
+5 sent 8 to node 7
+Amount after add to node 5 = 25
+Amount after add to node 7 = 25
+The amount at 4 after sent to 5 = 7
+The amount at 5 after sent to 7 = 17
+8 sent 4 to node 7
+Amount after add to node 7 = 29
+The amount at 8 after sent to 7 = 13
+6 sent 2 to node 8
+Amount after add to node 8 = 15
+The amount at 6 after sent to 8 = 5
+3 sent 9 to node 6
+Amount after add to node 6 = 14
+The amount at 3 after sent to 6 = 11
+7 sent 9 to node 8
+2 sent 8 to node 4
+Amount after add to node 8 = 24
+Amount after add to node 4 = 15
+The amount at 7 after sent to 8 = 20
+The amount at 2 after sent to 4 = 18
+5 sent 6 to node 7
+Amount after add to node 7 = 26
+4 sent 5 to node 3
+Amount after add to node 3 = 16
+The amount at 5 after sent to 7 = 11
+The amount at 4 after sent to 3 = 10
+8 sent 6 to node 7
+Amount after add to node 7 = 32
+The amount at 8 after sent to 7 = 18
+6 sent 2 to node 8
+Amount after add to node 8 = 20
+The amount at 6 after sent to 8 = 12
+3 sent 7 to node 2
+Amount after add to node 2 = 25
+The amount at 3 after sent to 2 = 9
+7 sent 15 to node 1
+2 sent 9 to node 7
+Amount after add to node 7 = 41
+Amount after add to node 1 = 1896
+The amount at 2 after sent to 7 = 16
+The amount at 7 after sent to 1 = 26
+4 sent 4 to node 5
+Amount after add to node 1 = 1899
+5 sent 3 to node 1
+Amount after add to node 5 = 15
+The amount at 5 after sent to 1 = 12
+The amount at 4 after sent to 5 = 6
+8 sent 3 to node 3
+Amount after add to node 3 = 12
+The amount at 8 after sent to 3 = 17
+6 sent 5 to node 5
+Amount after add to node 5 = 17
+The amount at 6 after sent to 5 = 7
+3 sent 3 to node 6
+Amount after add to node 6 = 10
+The amount at 3 after sent to 6 = 9
+Amount after add to node 5 = 23
+2 sent 6 to node 5
+7 sent 10 to node 8
+Amount after add to node 8 = 27
+The amount at 2 after sent to 5 = 10
+The amount at 7 after sent to 8 = 16
+4 sent 1 to node 5
+Amount after add to node 8 = 30
+5 sent 3 to node 8
+Amount after add to node 5 = 24
+The amount at 5 after sent to 8 = 21
+The amount at 4 after sent to 5 = 5
+8 sent 13 to node 5
+Amount after add to node 5 = 34
+The amount at 8 after sent to 5 = 17
+6 sent 1 to node 7
+Amount after add to node 7 = 17
+The amount at 6 after sent to 7 = 9
+3 sent 2 to node 8
+Amount after add to node 8 = 19
+The amount at 3 after sent to 8 = 7
+7 sent 6 to node 6
+Amount after add to node 6 = 15
+Amount after add to node 5 = 38
+2 sent 4 to node 5
+The amount at 7 after sent to 6 = 11
+The amount at 2 after sent to 5 = 6
+4 sent 1 to node 2
+Amount after add to node 2 = 7
+5 sent 13 to node 1
+Amount after add to node 1 = 1912
+The amount at 4 after sent to 2 = 4
+The amount at 5 after sent to 1 = 25
+8 sent 8 to node 3
+Amount after add to node 3 = 15
+The amount at 8 after sent to 3 = 11
+6 sent 5 to node 8
+Amount after add to node 8 = 16
+The amount at 6 after sent to 8 = 10
+3 sent 4 to node 8
+Amount after add to node 8 = 20
+The amount at 3 after sent to 8 = 11
+2 sent 1 to node 1
+Amount after add to node 1 = 1913
+Amount after add to node 2 = 11
+4 sent 4 to node 2
+7 sent 4 to node 8
+Amount after add to node 8 = 24
+5 sent 4 to node 8
+The amount at 4 after sent to 2 = 0
+The amount at 2 after sent to 1 = 10
+Amount after add to node 8 = 28
+The amount at 7 after sent to 8 = 7
+The amount at 5 after sent to 8 = 21
+8 sent 8 to node 5
+Amount after add to node 5 = 29
+The amount at 8 after sent to 5 = 20
+6 sent 4 to node 7
+Amount after add to node 7 = 11
+The amount at 6 after sent to 7 = 6
+3 sent 1 to node 1
+Amount after add to node 1 = 1914
+The amount at 3 after sent to 1 = 10
+balance is zero at node 4
+7 sent 1 to node 8
+5 sent 7 to node 4
+2 sent 2 to node 1
+Amount after add to node 4 = 7
+Amount after add to node 1 = 1916
+Amount after add to node 8 = 21
+The amount at 2 after sent to 1 = 8
+The amount at 5 after sent to 4 = 22
+The amount at 7 after sent to 8 = 10
+8 sent 7 to node 2
+Amount after add to node 2 = 15
+The amount at 8 after sent to 2 = 14
+6 sent 1 to node 7
+Amount after add to node 7 = 11
+The amount at 6 after sent to 7 = 5
+3 sent 3 to node 2
+Amount after add to node 2 = 18
+The amount at 3 after sent to 2 = 7
+4 sent 2 to node 5
+Amount after add to node 5 = 24
+2 sent 6 to node 5
+5 sent 2 to node 4
+Amount after add to node 4 = 9
+Amount after add to node 5 = 30
+7 sent 3 to node 3
+Amount after add to node 3 = 10
+8 sent 1 to node 2
+The amount at 2 after sent to 5 = 12
+The amount at 5 after sent to 4 = 28
+The amount at 7 after sent to 3 = 8
+Amount after add to node 2 = 13
+The amount at 4 after sent to 5 = 7
+The amount at 8 after sent to 2 = 13
+6 sent 1 to node 5
+Amount after add to node 5 = 29
+The amount at 6 after sent to 5 = 4
+3 sent 2 to node 6
+Amount after add to node 6 = 6
+The amount at 3 after sent to 6 = 8
+5 sent 11 to node 4
+Amount after add to node 4 = 18
+7 sent 2 to node 6
+Amount after add to node 6 = 8
+4 sent 1 to node 3
+2 sent 5 to node 4
+Amount after add to node 3 = 9
+Amount after add to node 4 = 23
+The amount at 5 after sent to 4 = 18
+8 sent 5 to node 5
+Amount after add to node 5 = 23
+The amount at 7 after sent to 6 = 6
+The amount at 4 after sent to 3 = 22
+The amount at 2 after sent to 4 = 8
+The amount at 8 after sent to 5 = 8
+6 sent 1 to node 5
+Amount after add to node 5 = 24
+The amount at 6 after sent to 5 = 7
+3 sent 3 to node 4
+Amount after add to node 4 = 25
+The amount at 3 after sent to 4 = 6
+4 sent 9 to node 7
+Amount after add to node 7 = 15
+2 sent 3 to node 1
+Amount after add to node 1 = 1918
+7 sent 2 to node 1
+5 sent 7 to node 1
+Amount after add to node 1 = 1921
+The amount at 7 after sent to 1 = 13
+The amount at 4 after sent to 7 = 16
+8 sent 3 to node 3
+Amount after add to node 3 = 9
+Amount after add to node 1 = 1928
+The amount at 2 after sent to 1 = 5
+The amount at 8 after sent to 3 = 5
+The amount at 5 after sent to 1 = 17
+6 sent 2 to node 7
+Amount after add to node 7 = 15
+The amount at 6 after sent to 7 = 5
+3 sent 3 to node 4
+Amount after add to node 4 = 19
+The amount at 3 after sent to 4 = 6
+7 sent 4 to node 6
+Amount after add to node 6 = 9
+4 sent 7 to node 5
+Amount after add to node 5 = 24
+The amount at 7 after sent to 6 = 11
+The amount at 4 after sent to 5 = 12
+Amount after add to node 7 = 12
+8 sent 1 to node 7
+2 sent 1 to node 7
+5 sent 9 to node 7
+Amount after add to node 7 = 13
+The amount at 8 after sent to 7 = 4
+Amount after add to node 7 = 22
+The amount at 2 after sent to 7 = 4
+The amount at 5 after sent to 7 = 15
+6 sent 3 to node 8
+Amount after add to node 8 = 7
+The amount at 6 after sent to 8 = 6
+3 sent 1 to node 6
+Amount after add to node 6 = 7
+The amount at 3 after sent to 6 = 5
+7 sent 7 to node 3
+Amount after add to node 3 = 12
+The amount at 7 after sent to 3 = 15
+8 sent 1 to node 5
+Amount after add to node 5 = 16
+4 sent 3 to node 2
+Amount after add to node 2 = 7
+The amount at 8 after sent to 5 = 6
+The amount at 4 after sent to 2 = 9
+5 sent 2 to node 8
+Amount after add to node 8 = 8
+Amount after add to node 5 = 17
+2 sent 1 to node 5
+The amount at 2 after sent to 5 = 6
+The amount at 5 after sent to 8 = 15
+6 sent 1 to node 2
+Amount after add to node 2 = 7
+The amount at 6 after sent to 2 = 6
+3 sent 3 to node 2
+Amount after add to node 2 = 10
+7 sent 5 to node 6
+4 sent 3 to node 7
+Amount after add to node 7 = 18
+8 sent 3 to node 2
+Amount after add to node 2 = 13
+Amount after add to node 6 = 11
+The amount at 4 after sent to 7 = 6
+The amount at 3 after sent to 2 = 9
+The amount at 8 after sent to 2 = 5
+The amount at 7 after sent to 6 = 13
+5 sent 4 to node 8
+Amount after add to node 8 = 9
+2 sent 3 to node 4
+Amount after add to node 4 = 9
+The amount at 5 after sent to 8 = 11
+The amount at 2 after sent to 4 = 10
+6 sent 3 to node 5
+Amount after add to node 5 = 14
+4 sent 2 to node 5
+3 sent 3 to node 4
+7 sent 3 to node 8
+8 sent 3 to node 7
+The amount at 6 after sent to 5 = 8
+5 sent 3 to node 7
+Amount after add to node 4 = 12
+Amount after add to node 7 = 16
+Amount after add to node 8 = 12
+Amount after add to node 5 = 16
+2 sent 4 to node 1
+Amount after add to node 1 = 1932
+The amount at 4 after sent to 5 = 10
+The amount at 3 after sent to 4 = 6
+The amount at 8 after sent to 7 = 9
+Amount after add to node 7 = 19
+The amount at 2 after sent to 1 = 6
+The amount at 5 after sent to 7 = 13
+The amount at 7 after sent to 8 = 16
+6 sent 3 to node 2
+Amount after add to node 2 = 9
+2 sent 1 to node 7
+3 sent 1 to node 6
+8 sent 2 to node 5
+4 sent 2 to node 3
+5 sent 1 to node 7
+7 sent 3 to node 3
+Amount after add to node 7 = 17
+Amount after add to node 6 = 9
+Amount after add to node 3 = 8
+Amount after add to node 5 = 15
+Amount after add to node 3 = 11
+The amount at 2 after sent to 7 = 8
+The amount at 6 after sent to 2 = 6
+The amount at 4 after sent to 3 = 8
+Amount after add to node 7 = 18
+The amount at 8 after sent to 5 = 7
+The amount at 3 after sent to 6 = 10
+The amount at 5 after sent to 7 = 14
+The amount at 7 after sent to 3 = 15
+4 sent 3 to node 7
+2 sent 3 to node 4
+8 sent 2 to node 3
+6 sent 1 to node 7
+Amount after add to node 4 = 11
+Amount after add to node 7 = 18
+Amount after add to node 3 = 12
+3 sent 3 to node 2
+Amount after add to node 8 = 9
+7 sent 2 to node 8
+5 sent 6 to node 1
+Amount after add to node 1 = 1938
+The amount at 8 after sent to 3 = 7
+Amount after add to node 2 = 11
+The amount at 5 after sent to 1 = 8
+Amount after add to node 7 = 19
+The amount at 4 after sent to 7 = 8
+The amount at 3 after sent to 2 = 9
+The amount at 2 after sent to 4 = 8
+The amount at 7 after sent to 8 = 17
+The amount at 6 after sent to 7 = 5
+8 sent 2 to node 7
+6 sent 1 to node 8
+Amount after add to node 7 = 19
+4 sent 1 to node 7
+2 sent 3 to node 5
+5 sent 3 to node 7
+Amount after add to node 8 = 8
+7 sent 5 to node 8
+3 sent 3 to node 8
+Amount after add to node 8 = 13
+The amount at 6 after sent to 8 = 4
+Amount after add to node 7 = 20
+Amount after add to node 5 = 11
+Amount after add to node 8 = 16
+Amount after add to node 7 = 23
+The amount at 4 after sent to 7 = 7
+The amount at 2 after sent to 5 = 5
+The amount at 8 after sent to 7 = 14
+The amount at 3 after sent to 8 = 6
+The amount at 5 after sent to 7 = 8
+The amount at 7 after sent to 8 = 18
+6 sent 4 to node 2
+Amount after add to node 7 = 19
+4 sent 1 to node 7
+Amount after add to node 2 = 9
+3 sent 2 to node 4
+2 sent 1 to node 1
+7 sent 8 to node 6
+5 sent 3 to node 1
+8 sent 4 to node 3
+Amount after add to node 3 = 10
+Amount after add to node 6 = 12
+Amount after add to node 1 = 1939
+The amount at 8 after sent to 3 = 10
+The amount at 4 after sent to 7 = 6
+Amount after add to node 4 = 8
+The amount at 7 after sent to 6 = 11
+Amount after add to node 1 = 1942
+The amount at 6 after sent to 2 = 8
+The amount at 2 after sent to 1 = 8
+The amount at 3 after sent to 4 = 8
+The amount at 5 after sent to 1 = 5
+4 sent 3 to node 3
+8 sent 1 to node 3
+7 sent 2 to node 3
+Amount after add to node 3 = 9
+5 sent 1 to node 1
+3 sent 1 to node 8
+6 sent 1 to node 2
+2 sent 1 to node 5
+Amount after add to node 1 = 1943
+Amount after add to node 8 = 11
+Amount after add to node 2 = 9
+Amount after add to node 5 = 6
+Amount after add to node 3 = 12
+The amount at 8 after sent to 3 = 10
+The amount at 6 after sent to 2 = 7
+The amount at 2 after sent to 5 = 8
+The amount at 5 after sent to 1 = 5
+Amount after add to node 3 = 14
+The amount at 4 after sent to 3 = 5
+The amount at 3 after sent to 8 = 13
+The amount at 7 after sent to 3 = 9
+2 sent 1 to node 3
+5 sent 1 to node 7
+4 sent 1 to node 2
+8 sent 4 to node 2
+6 sent 1 to node 2
+7 sent 3 to node 6
+3 sent 2 to node 1
+Amount after add to node 2 = 12
+Amount after add to node 7 = 10
+Amount after add to node 3 = 14
+The amount at 5 after sent to 7 = 4
+Amount after add to node 6 = 10
+Amount after add to node 1 = 1945
+The amount at 7 after sent to 6 = 7
+Amount after add to node 2 = 13
+The amount at 8 after sent to 2 = 6
+The amount at 3 after sent to 1 = 12
+Amount after add to node 2 = 14
+The amount at 4 after sent to 2 = 4
+The amount at 6 after sent to 2 = 9
+The amount at 2 after sent to 3 = 13
+5 sent 4 to node 4
+3 sent 5 to node 4
+8 sent 2 to node 3
+4 sent 4 to node 2
+7 sent 1 to node 6
+6 sent 3 to node 8
+Amount after add to node 4 = 8
+Amount after add to node 6 = 10
+Amount after add to node 3 = 14
+Amount after add to node 2 = 17
+The amount at 7 after sent to 6 = 6
+Amount after add to node 8 = 9
+Amount after add to node 1 = 1950
+2 sent 5 to node 1
+The amount at 8 after sent to 3 = 7
+The amount at 6 after sent to 8 = 7
+Amount after add to node 4 = 13
+The amount at 5 after sent to 4 = 0
+The amount at 4 after sent to 2 = 9
+The amount at 2 after sent to 1 = 12
+The amount at 3 after sent to 4 = 9
+balance is zero at node 5
+8 sent 1 to node 2
+7 sent 2 to node 3
+4 sent 1 to node 5
+3 sent 2 to node 8
+6 sent 1 to node 5
+2 sent 4 to node 5
+Amount after add to node 5 = 1
+Amount after add to node 2 = 13
+Amount after add to node 3 = 11
+Amount after add to node 8 = 9
+Amount after add to node 5 = 2
+The amount at 8 after sent to 2 = 8
+The amount at 3 after sent to 8 = 9
+The amount at 6 after sent to 5 = 6
+The amount at 7 after sent to 3 = 4
+Amount after add to node 5 = 6
+The amount at 4 after sent to 5 = 8
+The amount at 2 after sent to 5 = 9
+5 sent 2 to node 1
+Amount after add to node 1 = 1952
+The amount at 5 after sent to 1 = 4
+7 sent 4 to node 6
+Amount after add to node 6 = 10
+8 sent 1 to node 2
+3 sent 1 to node 8
+6 sent 2 to node 5
+Amount after add to node 2 = 10
+Amount after add to node 8 = 9
+2 sent 2 to node 4
+4 sent 2 to node 7
+Amount after add to node 4 = 10
+Amount after add to node 5 = 6
+The amount at 3 after sent to 8 = 8
+The amount at 7 after sent to 6 = 0
+Amount after add to node 7 = 2
+The amount at 6 after sent to 5 = 8
+The amount at 8 after sent to 2 = 8
+The amount at 2 after sent to 4 = 8
+The amount at 4 after sent to 7 = 8
+5 sent 1 to node 4
+Amount after add to node 4 = 9
+3 sent 2 to node 2
+7 sent 2 to node 1
+The amount at 5 after sent to 4 = 5
+4 sent 1 to node 2
+2 sent 1 to node 5
+8 sent 2 to node 2
+6 sent 2 to node 2
+Amount after add to node 1 = 1954
+Amount after add to node 2 = 10
+Amount after add to node 5 = 6
+The amount at 7 after sent to 1 = 0
+Amount after add to node 2 = 11
+The amount at 3 after sent to 2 = 6
+Amount after add to node 2 = 13
+The amount at 4 after sent to 2 = 8
+Amount after add to node 2 = 15
+The amount at 8 after sent to 2 = 6
+The amount at 2 after sent to 5 = 14
+The amount at 6 after sent to 2 = 6
+5 sent 1 to node 4
+Amount after add to node 4 = 9
+The amount at 5 after sent to 4 = 5
+balance is zero at node 7
+3 sent 2 to node 6
+Amount after add to node 6 = 8
+The amount at 3 after sent to 6 = 4
+4 sent 2 to node 2
+Amount after add to node 2 = 16
+The amount at 4 after sent to 2 = 7
+8 sent 2 to node 2
+Amount after add to node 2 = 18
+The amount at 8 after sent to 2 = 4
+Amount after add to node 4 = 9
+2 sent 2 to node 4
+The amount at 2 after sent to 4 = 16
+6 sent 1 to node 5
+Amount after add to node 5 = 6
+The amount at 6 after sent to 5 = 7
+5 sent 2 to node 4
+3 sent 4 to node 2
+Amount after add to node 4 = 11
+Amount after add to node 2 = 20
+8 sent 4 to node 7
+2 sent 7 to node 7
+The amount at 5 after sent to 4 = 4
+The amount at 3 after sent to 2 = 0
+4 sent 2 to node 2
+Amount after add to node 2 = 22
+6 sent 2 to node 5
+Amount after add to node 7 = 4
+Amount after add to node 5 = 6
+Amount after add to node 7 = 11
+The amount at 4 after sent to 2 = 9
+The amount at 8 after sent to 7 = 0
+The amount at 6 after sent to 5 = 5
+The amount at 2 after sent to 7 = 15
+7 sent 1 to node 3
+Amount after add to node 3 = 1
+3 sent 1 to node 4
+5 sent 2 to node 4
+Amount after add to node 4 = 10
+The amount at 7 after sent to 3 = 10
+balance is zero at node 8
+Amount after add to node 4 = 12
+The amount at 3 after sent to 4 = 0
+6 sent 1 to node 5
+4 sent 3 to node 3
+2 sent 2 to node 1
+Amount after add to node 5 = 7
+The amount at 5 after sent to 4 = 5
+Amount after add to node 3 = 3
+Amount after add to node 1 = 1956
+The amount at 6 after sent to 5 = 4
+The amount at 4 after sent to 3 = 9
+The amount at 2 after sent to 1 = 13
+7 sent 4 to node 1
+Amount after add to node 1 = 1960
+3 sent 3 to node 4
+Amount after add to node 4 = 12
+The amount at 7 after sent to 1 = 6
+The amount at 3 after sent to 4 = 0
+5 sent 1 to node 7
+Amount after add to node 7 = 7
+The amount at 5 after sent to 7 = 4
+6 sent 4 to node 8
+Amount after add to node 8 = 4
+2 sent 3 to node 1
+Amount after add to node 1 = 1963
+Amount after add to node 2 = 16
+The amount at 6 after sent to 8 = 0
+4 sent 3 to node 2
+The amount at 4 after sent to 2 = 9
+The amount at 2 after sent to 1 = 13
+8 sent 4 to node 7
+Amount after add to node 7 = 11
+balance is zero at node 3
+The amount at 8 after sent to 7 = 0
+7 sent 3 to node 1
+Amount after add to node 1 = 1966
+The amount at 7 after sent to 1 = 8
+5 sent 4 to node 8
+Amount after add to node 8 = 4
+balance is zero at node 6
+The amount at 5 after sent to 8 = 0
+2 sent 1 to node 5
+4 sent 1 to node 5
+Amount after add to node 5 = 1
+Amount after add to node 5 = 2
+The amount at 4 after sent to 5 = 8
+The amount at 2 after sent to 5 = 12
+8 sent 4 to node 5
+Amount after add to node 5 = 6
+The amount at 8 after sent to 5 = 0
+7 sent 2 to node 1
+Amount after add to node 1 = 1968
+The amount at 7 after sent to 1 = 6
+5 sent 1 to node 1
+Amount after add to node 1 = 1969
+4 sent 2 to node 2
+The amount at 5 after sent to 1 = 5
+Amount after add to node 2 = 14
+2 sent 1 to node 4
+The amount at 4 after sent to 2 = 6
+Amount after add to node 4 = 7
+The amount at 2 after sent to 4 = 13
+balance is zero at node 8
+7 sent 2 to node 1
+Amount after add to node 1 = 1971
+The amount at 7 after sent to 1 = 4
+5 sent 1 to node 8
+Amount after add to node 8 = 1
+4 sent 2 to node 2
+Amount after add to node 2 = 15
+The amount at 5 after sent to 8 = 4
+The amount at 4 after sent to 2 = 5
+2 sent 3 to node 3
+Amount after add to node 3 = 3
+The amount at 2 after sent to 3 = 12
+3 sent 3 to node 2
+Amount after add to node 2 = 15
+The amount at 3 after sent to 2 = 0
+8 sent 1 to node 2
+Amount after add to node 2 = 16
+The amount at 8 after sent to 2 = 0
+7 sent 4 to node 3
+Amount after add to node 3 = 4
+The amount at 7 after sent to 3 = 0
+Amount after add to node 7 = 4
+5 sent 4 to node 7
+The amount at 5 after sent to 7 = 0
+4 sent 1 to node 2
+2 sent 4 to node 3
+Amount after add to node 3 = 8
+Amount after add to node 2 = 17
+The amount at 4 after sent to 2 = 4
+The amount at 2 after sent to 3 = 13
+3 sent 3 to node 6
+Amount after add to node 6 = 3
+The amount at 3 after sent to 6 = 5
+balance is zero at node 8
+6 sent 3 to node 7
+Amount after add to node 7 = 7
+The amount at 6 after sent to 7 = 0
+7 sent 2 to node 1
+Amount after add to node 1 = 1973
+The amount at 7 after sent to 1 = 5
+balance is zero at node 5
+2 sent 4 to node 4
+Amount after add to node 4 = 8
+4 sent 4 to node 2
+Amount after add to node 2 = 17
+The amount at 2 after sent to 4 = 13
+The amount at 4 after sent to 2 = 4
+3 sent 1 to node 1
+Amount after add to node 1 = 1974
+The amount at 3 after sent to 1 = 4
+balance is zero at node 6
+7 sent 1 to node 6
+Amount after add to node 6 = 1
+The amount at 7 after sent to 6 = 4
+4 sent 4 to node 5
+2 sent 4 to node 3
+Amount after add to node 5 = 4
+Amount after add to node 3 = 8
+The amount at 2 after sent to 3 = 9
+The amount at 4 after sent to 5 = 0
+3 sent 2 to node 6
+Amount after add to node 6 = 3
+The amount at 3 after sent to 6 = 6
+6 sent 3 to node 5
+Amount after add to node 5 = 7
+The amount at 6 after sent to 5 = 0
+7 sent 4 to node 3
+Amount after add to node 3 = 10
+The amount at 7 after sent to 3 = 0
+5 sent 2 to node 4
+Amount after add to node 4 = 2
+The amount at 5 after sent to 4 = 5
+4 sent 2 to node 2
+2 sent 3 to node 7
+Amount after add to node 7 = 3
+Amount after add to node 2 = 11
+The amount at 2 after sent to 7 = 8
+The amount at 4 after sent to 2 = 0
+3 sent 1 to node 2
+Amount after add to node 2 = 9
+balance is zero at node 6
+The amount at 3 after sent to 2 = 9
+7 sent 3 to node 1
+Amount after add to node 1 = 1977
+The amount at 7 after sent to 1 = 0
+5 sent 1 to node 4
+Amount after add to node 4 = 1
+The amount at 5 after sent to 4 = 4
+2 sent 3 to node 5
+Amount after add to node 5 = 7
+4 sent 1 to node 7
+Amount after add to node 7 = 1
+The amount at 2 after sent to 5 = 6
+The amount at 4 after sent to 7 = 0
+3 sent 3 to node 8
+Amount after add to node 8 = 3
+The amount at 3 after sent to 8 = 6
+7 sent 1 to node 1
+Amount after add to node 1 = 1978
+The amount at 7 after sent to 1 = 0
+Amount after add to node 7 = 2
+5 sent 2 to node 7
+The amount at 5 after sent to 7 = 5
+balance is zero at node 4
+2 sent 2 to node 7
+Amount after add to node 7 = 4
+The amount at 2 after sent to 7 = 4
+8 sent 3 to node 2
+Amount after add to node 2 = 7
+The amount at 8 after sent to 2 = 0
+3 sent 2 to node 6
+Amount after add to node 6 = 2
+The amount at 3 after sent to 6 = 4
+7 sent 4 to node 1
+Amount after add to node 1 = 1982
+5 sent 1 to node 4
+The amount at 7 after sent to 1 = 0
+Amount after add to node 4 = 1
+The amount at 5 after sent to 4 = 4
+4 sent 1 to node 7
+Amount after add to node 7 = 1
+2 sent 1 to node 7
+Amount after add to node 7 = 2
+The amount at 4 after sent to 7 = 0
+The amount at 2 after sent to 7 = 6
+6 sent 2 to node 2
+Amount after add to node 2 = 8
+balance is zero at node 8
+The amount at 6 after sent to 2 = 0
+3 sent 4 to node 6
+Amount after add to node 6 = 4
+The amount at 3 after sent to 6 = 0
+7 sent 2 to node 3
+Amount after add to node 3 = 2
+The amount at 7 after sent to 3 = 0
+5 sent 4 to node 1
+Amount after add to node 1 = 1986
+The amount at 5 after sent to 1 = 0
+balance is zero at node 4
+2 sent 2 to node 1
+Amount after add to node 1 = 1988
+The amount at 2 after sent to 1 = 6
+6 sent 4 to node 5
+Amount after add to node 5 = 4
+The amount at 6 after sent to 5 = 0
+3 sent 2 to node 6
+Amount after add to node 6 = 2
+The amount at 3 after sent to 6 = 0
+balance is zero at node 7
+5 sent 4 to node 8
+Amount after add to node 8 = 4
+The amount at 5 after sent to 8 = 0
+2 sent 1 to node 4
+Amount after add to node 4 = 1
+The amount at 2 after sent to 4 = 5
+8 sent 4 to node 2
+Amount after add to node 2 = 9
+The amount at 8 after sent to 2 = 0
+6 sent 2 to node 5
+Amount after add to node 5 = 2
+The amount at 6 after sent to 5 = 0
+balance is zero at node 3
+5 sent 2 to node 1
+Amount after add to node 1 = 1990
+4 sent 1 to node 5
+Amount after add to node 5 = 3
+The amount at 5 after sent to 1 = 1
+The amount at 4 after sent to 5 = 0
+2 sent 3 to node 3
+Amount after add to node 3 = 3
+The amount at 2 after sent to 3 = 6
+balance is zero at node 8
+balance is zero at node 6
+3 sent 3 to node 8
+Amount after add to node 8 = 3
+The amount at 3 after sent to 8 = 0
+balance is zero at node 4
+5 sent 1 to node 1
+Amount after add to node 1 = 1991
+The amount at 5 after sent to 1 = 0
+2 sent 1 to node 3
+Amount after add to node 3 = 1
+The amount at 2 after sent to 3 = 5
+8 sent 3 to node 2
+Amount after add to node 2 = 8
+The amount at 8 after sent to 2 = 0
+3 sent 1 to node 2
+Amount after add to node 2 = 9
+The amount at 3 after sent to 2 = 0
+balance is zero at node 5
+2 sent 2 to node 3
+Amount after add to node 3 = 2
+The amount at 2 after sent to 3 = 7
+balance is zero at node 8
+3 sent 2 to node 2
+Amount after add to node 2 = 9
+The amount at 3 after sent to 2 = 0
+2 sent 1 to node 4
+Amount after add to node 4 = 1
+The amount at 2 after sent to 4 = 8
+balance is zero at node 3
+4 sent 1 to node 3
+Amount after add to node 3 = 1
+The amount at 4 after sent to 3 = 0
+2 sent 3 to node 1
+Amount after add to node 1 = 1994
+The amount at 2 after sent to 1 = 5
+3 sent 1 to node 6
+Amount after add to node 6 = 1
+The amount at 3 after sent to 6 = 0
+balance is zero at node 4
+2 sent 1 to node 4
+Amount after add to node 4 = 1
+The amount at 2 after sent to 4 = 4
+6 sent 1 to node 2
+Amount after add to node 2 = 5
+The amount at 6 after sent to 2 = 0
+balance is zero at node 3
+4 sent 1 to node 7
+Amount after add to node 7 = 1
+The amount at 4 after sent to 7 = 0
+2 sent 1 to node 5
+Amount after add to node 5 = 1
+The amount at 2 after sent to 5 = 4
+7 sent 1 to node 8
+balance is zero at node 6
+Amount after add to node 8 = 1
+The amount at 7 after sent to 8 = 0
+balance is zero at node 4
+5 sent 1 to node 4
+Amount after add to node 4 = 1
+The amount at 5 after sent to 4 = 0
+2 sent 4 to node 4
+Amount after add to node 4 = 5
+The amount at 2 after sent to 4 = 0
+8 sent 1 to node 5
+Amount after add to node 5 = 1
+The amount at 8 after sent to 5 = 0
+balance is zero at node 7
+4 sent 1 to node 3
+Amount after add to node 3 = 1
+The amount at 4 after sent to 3 = 4
+5 sent 1 to node 8
+Amount after add to node 8 = 1
+The amount at 5 after sent to 8 = 0
+balance is zero at node 2
+8 sent 1 to node 7
+Amount after add to node 7 = 1
+The amount at 8 after sent to 7 = 0
+7 sent 1 to node 6
+Amount after add to node 6 = 1
+The amount at 7 after sent to 6 = 0
+3 sent 1 to node 1
+Amount after add to node 1 = 1995
+The amount at 3 after sent to 1 = 0
+balance is zero at node 5
+4 sent 4 to node 7
+Amount after add to node 7 = 4
+The amount at 4 after sent to 7 = 0
+balance is zero at node 8
+6 sent 1 to node 5
+Amount after add to node 5 = 1
+The amount at 6 after sent to 5 = 0
+7 sent 4 to node 8
+Amount after add to node 8 = 4
+The amount at 7 after sent to 8 = 0
+balance is zero at node 3
+5 sent 1 to node 1
+Amount after add to node 1 = 1996
+The amount at 5 after sent to 1 = 0
+balance is zero at node 4
+8 sent 4 to node 5
+Amount after add to node 5 = 4
+balance is zero at node 6
+The amount at 8 after sent to 5 = 0
+balance is zero at node 7
+5 sent 4 to node 4
+Amount after add to node 4 = 4
+The amount at 5 after sent to 4 = 0
+balance is zero at node 8
+4 sent 4 to node 2
+Amount after add to node 2 = 4
+The amount at 4 after sent to 2 = 0
+balance is zero at node 5
+2 sent 4 to node 5
+Amount after add to node 5 = 4
+The amount at 2 after sent to 5 = 0
+balance is zero at node 4
+5 sent 4 to node 4
+Amount after add to node 4 = 4
+The amount at 5 after sent to 4 = 0
+balance is zero at node 2
+4 sent 4 to node 2
+Amount after add to node 2 = 4
+The amount at 4 after sent to 2 = 0
+balance is zero at node 5
+2 sent 4 to node 3
+Amount after add to node 3 = 4
+The amount at 2 after sent to 3 = 0
+3 sent 4 to node 2
+Amount after add to node 2 = 4
+The amount at 3 after sent to 2 = 0
+balance is zero at node 4
+2 sent 4 to node 4
+Amount after add to node 4 = 4
+The amount at 2 after sent to 4 = 0
+balance is zero at node 3
+4 sent 4 to node 2
+Amount after add to node 2 = 4
+The amount at 4 after sent to 2 = 0
+2 sent 4 to node 7
+Amount after add to node 7 = 4
+The amount at 2 after sent to 7 = 0
+7 sent 4 to node 3
+Amount after add to node 3 = 4
+The amount at 7 after sent to 3 = 0
+3 sent 4 to node 2
+Amount after add to node 2 = 4
+The amount at 3 after sent to 2 = 0
+balance is zero at node 4
+2 sent 4 to node 7
+Amount after add to node 7 = 4
+The amount at 2 after sent to 7 = 0
+7 sent 4 to node 1
+Amount after add to node 1 = 2000
+1 closure started 
+The amount at 7 after sent to 1 = 0
+My branch id is 2 and account balance is 0
+My branch id is 3 and account balance is 0
+My branch id is 4 and account balance is 0
+My branch id is 5 and account balance is 0
+My branch id is 6 and account balance is 0
+balance is zero at node 3
+My branch id is 7 and account balance is 0
+My branch id is 8 and account balance is 0
+balance is zero at node 2
+4 exit 13:21:31:225670100
+3 exit 13:21:31:225691500
+5 exit 13:21:31:225687400
+2 exit 13:21:31:225670900
+6 exit 13:21:32:150373500
+8 exit 13:21:32:150946800
+balance is zero at node 7
+7 exit 13:21:32:154431900
+My branch id is 1 and account balance is 2000
+0 exit 13:21:34:159197000
