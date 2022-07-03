@@ -1,3 +1,3 @@
 # Synchronous_asynchronous_Checkpointing
 
-#Koo-and-Toueg-algorithm
+# Koo-and-Toueg-algorithm
