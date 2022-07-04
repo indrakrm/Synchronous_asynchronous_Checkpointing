@@ -369,27 +369,28 @@ public:
 		    		continue;
 		    	}
 		    	addCompleted=0;
-
+		    	std::unique_lock<std::mutex> lk(t->ackCheck_m); 
 		    	this->amount+=addAmount;
 		    	if(id ==1)
 		    		t->finalBank_cond.notify_one();
 		    	cout<<"After addition, node "<<id<<"\'s amount = "<<amount<<endl;
 		    	sendMsg(x,to_string(id)+",ack,");
 		    	addCompleted=1;
+		    	lk.unlock();
 		    }
 		    else if(strcmp(msg,"ack")==0)
 		    {
 		    	this->ackReceived=1;
 		    	t->ackCheck_cond.notify_one(); 
 
-		    	while(!accountUpdated);
+		    	//while(!accountUpdated);
 		    }
 		    else if(strcmp(msg,"nack")==0)
 		    {
 		    	this->ackReceived=-1;
 		    	t->ackCheck_cond.notify_one(); 
 
-		    	while(!accountUpdated);
+		    	//while(!accountUpdated);
 		    }
 		    else if(strcmp(msg,"initiate recovery")==0)
 		    {
