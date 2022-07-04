@@ -335,7 +335,7 @@ public:
 				sscanf(a,"%d",&addAmount);
 				sscanf(sender,"%d",&x);
 
-				while(!accountUpdated);
+				std::unique_lock<std::mutex> lk(tInfo->ackCheck_m); 
 				addCompleted=0;
 
 				this->amount+=addAmount;
@@ -349,6 +349,7 @@ public:
 				if(id ==1)
 					tInfo->finalBank_cond.notify_one();
 				addCompleted=1;
+				lk.unlock();
 			}
 			else if(strcmp(msg,"ack")==0)
 			{
