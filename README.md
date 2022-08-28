@@ -1,6 +1,6 @@
-# Synchronous_asynchronous_Checkpointing
+# Synchronous_Asynchronous_Checkpointing
 
-This is a C++ based simulation of transaction reconcilliation with recovery from failure capability.
+This is a C++ based simulation of transaction reconcilliation with recovery capability from failure .
 <br>
 Implemented both coordinated and uncoordinated checkpointing approaches which are used in recovery of sytem from failure.
 <br>
