@@ -13,8 +13,10 @@ Simulation Flow
 <br>
 2)ProcessPicker periodically picks up a node to initiate chekpointing in case of coordinated checkpointing
 <br>
-3)ProcessPicker preiodically picksup a node and fails it to simulate recovery
+3)ProcessPicker preiodically picksup a node and fails it to simulate recovery.
 <br>
-4)Simulation ends when node 1 gets all the money from other nodes.
+4) After recovery sum of amount at every node should be same as initial amount.No node sould have orphan messages.
+<br>
+5)Simulation ends when root node gets all the money from other nodes.
 <Br>
-5)At end, node 1 amount should be equal to amount of all nodes at the start of simulation.
+6)At end, root node amount should be equal to amount of all nodes at the start of simulation.
